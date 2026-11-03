@@ -1,0 +1,301 @@
+sn,np,coating,bacteria,mdr,strain,np_synthesis,mic_np_µg_ml,np_size_min_nm,np_size_max_nm,np_size_avg_nm,shape,time_set_hours,zeta_potential_mV,solvent_for_extract,temperature_for_extract_C,duration_preparing_extract_min,precursor_of_np,concentration_of_precursor_mM,hydrodynamic_diameter_nm,ph_during_synthesis
+1271,Ag,0,Campylobacter jejuni,0,ATCC 33560,Biosynthesis using Gloeophyllum striatum,100,16.4,24.0,20.2,spherical,24.0,-27.4,water (sterile deionized),28.0,5760.0,AgNO3,5.0,21.5,6.1
+1923,Ag,0,Escherichia coli,0,,Green synthesis using Acacia cyanophylla,3.125,86.98,347.2,131.1,spherical,24.0,,water,35.0,,AgNO3,1.0,,
+1463,Ag,0,Staphylococcus epidermidis,0,ATCC 190918,Chemical synthesis using sodium borohydride,5.65,2.48,3.38,2.93,,24.0,,water (Milli-Q),-2.0,1440.0,AgNO3,20.0,,
+687,ZnO,0,Staphylococcus aureus,0,,green_synthesis using Acacia arabica leaf extract,0,16.0,20.0,18.0,rod-shaped,3.0,,,,,,,,
+668,ZnO,0,Staphylococcus aureus,0,,green_synthesis using Acacia arabica leaf extract,9.6,16.0,20.0,18.0,rod-shaped,4.0,,,,,,,,
+1508,Ag,0,Aeromonas sp.,0,,Green synthesis using diatoms biomass,3.125,267.47,452.13,359.8,rectangular,24.0,-5.67,water,25.0,1440.0,AgNO3,,239.46,
+637,ZnO,0,Staphylococcus aureus,0,,green_synthesis using Acacia arabica leaf extract,8.8,16.0,20.0,18.0,rod-shaped,3.0,,,,,,,,
+913,Ag,0,Escherichia coli,0,ATCC 11229,Green synthesis using Potato,0.016,7.0,11.0,9.0,spherical,24.0,-26.2,water,90.0,15.0,AgNO3,10.0,,6.2
+499,CuO,0,Escherichia coli,0,MTCC 739,green_synthesis using aqueous extract of Ocimum tenuiflorum leaves. 50 mmol/kg Cu(CH3COO)2*H2O,391,6.0,18.0,12.0,spheroidal,18.0,,,,,,,,
+288,Ag,0,Pseudomonas aeruginosa,0,ATCC 25619,green_synthesis,2.5,,,,,,,,,,,,,
+1225,Ag,0,Pseudomonas aeruginosa,0,MTCC 424,Green synthesis using Ixora brachypoda,9,18.36,50.04,27.76,spherical,48.0,-30.4,water (distilled),60.0,60.0,AgNO3,1.0,,8.5
+940,Ag,0,Pseudomonas aeruginosa,0,,Green synthesis using Nishamalaki Churna,8,48.0,90.0,69.0,spherical,24.0,1.22,water,60.0,20.0,AgNO3,1.0,107.0,
+774,ZnO,0,Proteus mirabilis,0,,chemical_synthesis using zinc nitrate,98,25.0,40.0,40.0,,24.0,,,,,,,,
+1956,Ag,0,Escherichia coli,0,ATCC 43890,green_synthesis using extract of corn leaves,50,31.0,69.0,45.26,spherical,24.0,,water,21.0,,AgNO3,1.0,,
+90,Ag,1,Klebsiella pneumoniae,1,K-33,chemical_synthesis (East Nano Chemicals Co.),62,10.0,90.0,50.0,spherical,24.0,,,,,,,,
+315,Ag,0,Staphylococcus epidermidis,0,ATCC 35984,chemical_synthesis purchased from sigma aldrich ( citrate capped agnps),1,100.0,100.0,100.0,spherical,24.0,,,,,,,,
+1688,Ag,0,Klebsiella pneumoniae,1,,Physical synthesis using gamma irradiation,2.5,12.0,34.0,22.1,spherical,24.0,,,,,AgNO3,1.0,22.1,7.0
+2111,Ag,0,Staphylococcus aureus,0,ATCC 29213,chemical_synthesis purchased from US Research Nanomaterials (US7091),256,15.0,25.0,20.0,spherical,18.0,,,,,,,,
+1088,Ag,0,Escherichia coli,0,MTCC 739,Chemical synthesis using sodium borohydride and trisodium citrate,140,55.4,70.6,63.0,spherical,24.0,-39.95,water,60.0,30.0,AgNO3,,,10.5
+62,Ag,0,Staphylococcus aureus,0,clinical isolate,chemical_synthesis,12,20.0,50.0,35.0,spherical,24.0,-18.0,,,,,,,
+820,Ag,0,Staphylococcus aureus,0,ATCC 25923,Chemical synthesis using hydroxylamine hydrochloride,800,9.42,14.37,11.9,spherical,24.0,-16.66,water (distilled),80.0,10.0,AgNO3,1.11,,5.5
+2068,Ag,1,Pseudomonas aeruginosa,0,PAO1,purchased from Sigma Aldrich ( citrate capped AgNPs),2.5,60.0,60.0,60.0,,20.0,,,,,,,,
+223,Ag,0,Staphylococcus saprophyticus,0,ATCC 49453,"purchased from us research nanomaterials, inc.Р Р†Р’",256,15.0,25.0,20.0,spherical,24.0,,,,,,,,
+1917,Ag,0,Escherichia coli,0,,Green synthesis using Acacia cyanophylla,3.125,86.98,347.2,131.1,spherical,24.0,,water,35.0,,AgNO3,1.0,,
+634,ZnO,0,Staphylococcus aureus,0,,green_synthesis using Acacia arabica leaf extract,7.25,16.0,20.0,11.3,rod-shaped,0.0,,,,,,,,
+616,ZnO,0,Salmonella enterica,0,,green_synthesis using Acacia arabica leaf extract,4.1,16.0,20.0,18.0,rod-shaped,2.0,,,,,,,,
+2052,Ag,0,Staphylococcus aureus,0,Sa2,electrochemical synthesis,8.5,52.7,58.5,55.6,quasi-spherical,24.0,-51.5,,,,,,,
+2073,Ag,0,Klebsiella pneumoniae,1,,chem_synthesis by silver nitrate,3.4,28.0,28.0,28.0,spherical,24.0,,,,,,,,
+661,ZnO,0,Staphylococcus aureus,0,,green_synthesis using Acacia arabica leaf extract,0,16.0,20.0,18.0,rod-shaped,2.0,,,,,,,,
+924,Ag,1,Staphylococcus epidermidis,1,ATCC 49461,Green synthesis using Lactobacillus paracasei,1.6,15.6,20.4,18.0,,24.0,-25.0,DPPH,26.0,15.0,AgNO3,3.0,,5.9
+242,Ag,0,Escherichia coli O157,0,ATCC 43895,chemical_synthesis,2,3.0,3.0,3.0,spherical,,,,,,,,,
+1220,Ag,0,Escherichia coli,0,,Biosynthesis using Agrimonia eupatoria,0.0625,15.6,24.8,20.2,,24.0,-29.2,water (distilled),25.0,60.0,AgNO3,1.0,,
+1475,Ag,0,Escherichia coli,0,ATCC 11232,Green synthesis using Pimpinella anisum,4,,,,spherical,24.0,,water (distilled),25.0,1440.0,AgNO3,1.0,65.4,9.0
+1566,Ag,1,Candida albicans,0,ATCC 90028,Green synthesis using Parrotiopsis jacquemontiana,10,56.2,87.03,23.1,flat,,,water,60.0,1441.0,AgNO3,1.0,30.26,
+1260,Ag,0,Candida albicans,0,ATCC 10231,Green synthesis using Azmak leaf,125,20.0,45.0,32.5,spherical,24.0,-59.3,methanol,55.0,75.0,AgNO3,20.0,130.0,
+999,Ag,0,Candida albicans,0,MW534712,Green synthesis using onion peel,0.32,50.0,200.0,125.0,spherical,48.0,-24.6,water (distilled),100.0,30.0,AgNO3,212.0,,
+803,Ag,0,Salmonella typhi,0,,Green synthesis using Phyllanthus niruri,40,,,20.0,spherical,24.0,,water (filtered sterilized),25.0,5.0,AgNO3,1.0,,
+648,ZnO,0,Staphylococcus aureus,0,,green_synthesis using Acacia arabica leaf extract,3.2,16.0,20.0,18.0,rod-shaped,4.0,,,,,,,,
+582,ZnO,0,Escherichia coli,0,,green_synthesis using Acacia arabica leaf extract,8.32,16.0,20.0,18.0,rod-shaped,3.0,,,,,,,,
+102,Ag,0,Actinobacillus pleuropneumoniae,0,17/06L,chemical_synthesis,25,4.0,10.0,8.0,spherical,24.0,,,,,,,,
+795,Ag,0,Pseudomonas aeruginosa,0,ATCC 27853,Green synthesis using Phyllanthus niruri,40,,,20.0,spherical,24.0,,water (filtered sterilized),25.0,5.0,AgNO3,1.0,,
+1055,Ag,0,Escherichia coli,0,MTCC 443,Chemical synthesis using sodium borohydride and trisodium citrate,30,12.7,17.3,15.0,spherical,24.0,-39.95,water,60.0,30.0,AgNO3,,,10.5
+1236,Ag,1,Escherichia coli,0,,Green synthesis using Petroselinum crispum,31.25,30.0,50.0,38.7,spherical,24.0,-23.2,methanol,85.0,60.0,AgNO3,15.0,155.3,12.0
+677,ZnO,0,Staphylococcus aureus,0,,green_synthesis using Acacia arabica leaf extract,3.6,16.0,20.0,18.0,rod-shaped,3.0,,,,,,,,
+1313,Ag,0,Enterobacter aerogenes,0,,Green synthesis using Rumex hastatus,2,,,77.0,spherical,,,water,,120.0,AgNO3,20.0,,
+641,ZnO,0,Staphylococcus aureus,0,,green_synthesis using Acacia arabica leaf extract,7.46,16.0,20.0,18.0,rod-shaped,2.0,,,,,,,,
+469,CeO2,0,Listeria monocytogenes,0,ATCC 35152,chemical_synthesis using cerium nitrate,1070,5.0,15.0,10.0,cubic,24.0,,,,,,,,
+718,ZnO,0,Enterococcus faecalis,0,ATCC 29212,Chemical_synthesis using zinc nitrate,39,50.0,50.0,50.0,,24.0,,,,,,,,
+364,Ag,0,Staphylococcus aureus,0,NCIM 5022,chemical_synthesis using sodium borohydride and silver ions,120,2.26,10.34,3.32,spherical,24.0,,,,,AgNO3,,,
+1693,Ag,0,Klebsiella pneumoniae,1,,Physical synthesis using gamma irradiation,2.5,12.0,32.0,24.91,spherical,24.0,,,,,AgNO3,1.0,24.91,7.0
+570,ZnO,1,Escherichia coli,0,,green_synthesis using aqueous Brassica rapa leaf,25,38.0,38.0,38.0,hexagonal,24.0,,,,,,,,
+749,ZnO,0,Serratia marcescens,0,,chemical_synthesis using ZnCl2,500,31.0,41.0,35.0,nanoplates,24.0,,,,,,,,
+1813,Ag,0,Lactobacillus rhamnosus,0,,Green synthesis using Agrimonia eupatoria L.,625,20.0,50.0,40.0,,24.0,,water,,,AgNO3,5.0,,6.0
+1729,Ag,1,Escherichia coli,0,KCTC 1682,"Chemical synthesis, purchased from Sigma-Aldrich",16,,,251.0,spherical,24.0,-36.5,,,,AgNO3,,,
+1362,Ag,1,Staphylococcus epidermidis,1,ATCC 12228,Green synthesis using Syzygium cumini flowers,250,32.71,46.48,39.0,oval,24.0,-29.2,ethanol,50.0,120.0,AgNO3,1.0,,7.0
+897,Ag,0,Pseudomonas aeruginosa,0,ATCC 27853,Green synthesis using Brillantaisia patula,15.75,,,45.0,spherical,24.0,,water (distilled),100.0,15.0,AgNO3,5.0,,
+60,Ag,0,Staphylococcus aureus,0,clinical isolate,chemical_synthesis,12,20.0,50.0,35.0,spherical,24.0,-18.0,,,,,,,
+2035,Ag,0,Pseudomonas aeruginosa,0,ATCC 10145,chemical_synthesis using high voltage method on pure silver,1,2.0,35.0,18.5,,24.0,,water (demineralized ),,,Ag,,,
+291,Ag,0,Pseudomonas aeruginosa,0,ATCC 25619,green_synthesis,2.5,,,,,,,,,,,,,
+1298,Ag,1,Bacillus cereus,0,,Green synthesis using Piriformospora indica,68,,,,ellipsoidal,18.0,,water (double-distilled),25.0,120.0,AgNO3,1.0,,
+846,Ag,0,Candida krusei,0,ATCC 30315,Green synthesis using Pepper,2.641,17.0,21.0,19.0,spherical,24.0,-26.2,water,25.0,10.0,AgNO3,10.0,,5.1
+1357,Ag,1,Veillonella dispar,1,ATCC 17748,Green synthesis using Syzygium cumini flowers,62.5,32.71,46.48,39.0,oval,24.0,-29.2,ethanol,50.0,120.0,AgNO3,1.0,,7.0
+935,Ag,1,Klebsiella pneumoniae,0,MTCC 109,Green synthesis using Jatropha integerrima,5,17.0,45.0,29.0,spherical,24.0,-19.0,water (double distilled),25.0,15.0,AgNO3,1.0,,
+84,Ag,1,Klebsiella pneumoniae,1,K-33,chemical_synthesis (East Nano Chemicals Co.),250,10.0,50.0,30.0,spherical,24.0,,,,,,,,
+1111,Ag,0,Escherichia coli,0,O157:H7,Eco-benign synthesis using Quercus coccifera L.,125,50.0,70.0,60.0,spherical,24.0,-26.4,water (distilled),90.0,30.0,AgNO3,1.0,64.7,
+1626,Ag,0,Klebsiella pneumoniae,0,ATCC 9997,Green synthesis using Medicago sativa,125,20.0,50.0,35.0,spherical,24.0,-22.41,methanol,,4320.0,AgNO3,9.4,97.5,12.0
+389,Ag2O,0,Enterococcus faecalis,0,,chemical_synthesis using AgNO3,125,15.0,20.0,17.5,spherical,24.0,,,,,,,,
+617,ZnO,0,Salmonella enterica,0,,green_synthesis using Acacia arabica leaf extract,3.6,16.0,20.0,18.0,rod-shaped,3.0,,,,,,,,
+1597,Ag,0,Klebsiella pneumoniae,0,,Biosynthesis using Candida glabrata,62,2.0,15.0,8.5,spherical,24.0,,,28.0,3600.0,AgNO3,1.0,,
+1671,Ag,0,Enterobacter sp.,0,MCC 2296,Biosynthesis using silver tolerant bacteria (AgTB),12.5,17.42,17.58,17.5,spherical,18.0,,water,37.0,21600.0,AgNO3,1.0,78.8,7.5
+2008,Ag,0,Staphylococcus aureus,0,NCIM 2079,chemical_synthesis using sodium borohydride and silver ions,120,2.26,10.34,3.32,spherical,24.0,,water,,,,,,
+1627,Ag,0,Escherichia coli,0,ATCC 25922,Green synthesis using Medicago sativa,125,20.0,50.0,35.0,spherical,24.0,-22.41,methanol,,4320.0,AgNO3,9.4,97.5,12.0
+486,Cu,0,Staphylococcus aureus,0,NCIM 5021,chemical_synthesis using sodium borohydride and copper ions,140,6.86,16.53,9.25,spherical,24.0,,,,,,,,
+681,ZnO,0,Staphylococcus aureus,0,,green_synthesis using Acacia arabica leaf extract,0,16.0,20.0,18.0,rod-shaped,2.0,,,,,,,,
+2087,Ag,0,Klebsiella pneumoniae,0,,green_synthesis using aqueous Cassiarox burghii leaf extract,8.1,10.0,30.0,20.0,spherical,24.0,,water,37.0,,AgNO3,1.0,,
+453,Au,1,Escherichia coli,0,ATCC 25922,Chemical_synthesis using tetrachloroauric-III-acid hydrate and zinc nitrate,78,50.0,50.0,50.0,,24.0,,,,,,,,
+390,Ag2O,0,Escherichia coli,0,,chemical_synthesis using AgNO3,250,15.0,20.0,17.5,spherical,24.0,,,,,,,,
+1951,Ag,0,Escherichia coli,0,GN2514,chem_synthesis_reduction_by_D_maltose,6.3,4.0,10.0,8.0,spherical,,,water,21.0,,AgNO3,10.0,,
+2079,Ag,1,Bacillus subtilis,0,ATCC 6633,green_synthesis from fungus,6.25,8.0,20.0,14.0,spherical,24.0,-10.0,water (double-distilled),30.0,720.0,AgNO3,1.0,,
+584,ZnO,0,Escherichia coli,0,,green_synthesis using Acacia arabica leaf extract,7.6,16.0,20.0,18.0,rod-shaped,0.0,,,,,,,,
+1270,Ag,0,Campylobacter jejuni,0,ATCC 33291,Biosynthesis using Gloeophyllum striatum,100,16.4,24.0,20.2,spherical,24.0,-27.4,water (sterile deionized),28.0,5760.0,AgNO3,5.0,21.5,6.1
+37,Ag,0,Micrococcus luteus,0,,green_synthesis,6.3,10.0,30.0,20.0,spherical,24.0,,,,,,,,
+283,Ag,0,Escherichia coli,0,ATCC 10536,green_synthesis,2.5,,,,,,,,,,,,,
+1082,Ag,0,Staphylococcus aureus,0,NCIM 5021,Chemical synthesis using sodium borohydride and trisodium citrate,130,42.9,57.1,50.0,spherical,24.0,-39.95,water,60.0,30.0,AgNO3,,,10.5
+280,Ag,0,Pseudomonas aeruginosa,0,,green_synthesis,64,1.0,9.0,4.7,spherical,24.0,,,,,,,,
+82,Ag,0,Staphylococcus epidermidis,0,,chemical_synthesis,1,40.0,40.0,40.0,spherical,24.0,,,,,,,,
+1310,Ag,0,Escherichia coli,0,,Green synthesis using Rumex hastatus,0.4,,,77.0,spherical,,,water,,120.0,AgNO3,20.0,,
+1536,Ag,0,Listeria monocytogenes,0,ATCC 7644,Green synthesis using Carya illinoinensis,64,18.65,22.03,20.34,spherical,24.0,,methanol,25.0,1440.0,AgNO3,1.0,,
+934,Ag,1,Escherichia coli,0,MTCC 448,Green synthesis using Jatropha integerrima,2.5,17.0,45.0,29.0,spherical,24.0,-19.0,water (double distilled),25.0,15.0,AgNO3,1.0,,
+1942,Ag,0,Staphylococcus aureus,0,ATCC 25922,green_synthesis from fungus Phytophthora infestans,5,,,,,,,,,,,,,
+1136,Ag,0,Staphylococcus aureus,0,ATCC 29737,Green synthesis using Serai kayu,8,,,27.69,spherical,4.0,,ethanol,50.0,30.0,AgNO3,1.0,,
+633,ZnO,0,Salmonella enterica,0,,green_synthesis using Acacia arabica leaf extract,0,16.0,20.0,18.0,rod-shaped,4.0,,,,,,,,
+1976,Ag,0,Staphylococcus aureus,0,,green_synthesis using Withania coagulans fruits extract,4,10.0,40.0,20.0,spherical,24.0,,water (deionized),21.0,,AgNO3,1.0,,
+1773,Ag,0,Streptococcus oralis,0,MTCC 2696,"Chemical synthesis, purchased from Nano-world Company",45,30.0,50.0,40.0,,,,,,,,,,
+1480,Ag,0,Escherichia coli,0,ATCC 11237,Green synthesis using Pimpinella anisum,2,,,,spherical,24.0,,water (distilled),25.0,1440.0,AgNO3,1.0,65.4,9.0
+1523,Ag,1,Acinetobacter baumannii,0,MTCC1425,Green synthesis using Spirulina sp.,80,30.0,60.0,26.57,spherical,,,water,40.0,1440.0,AgNO3,1.0,,
+424,Au,1,Escherichia coli,0,,Chemical_synthesis using ligand exchange,0,1.4,1.4,1.4,spherical,18.0,,,,,,,,
+149,Ag,0,Escherichia coli,0,,chemical_synthesis,25,15.0,30.0,28.0,spherical,24.0,,,,,,,,
+1499,Ag,0,Pseudomonas mediterranea,0,SL-4,Biosynthesis using Rehmannia glutinosa fungi symbiont,16,3.0,25.0,14.0,spherical,24.0,,water,28.0,1440.0,AgNO3,10.0,,
+806,Ag,0,Carbapenem-resistant Enterobacteriaceae,1,,Green synthesis using Phyllanthus niruri,40,,,20.0,spherical,24.0,,water (filtered sterilized),25.0,5.0,AgNO3,1.0,,
+214,Ag,0,Staphylococcus aureus,0,ATCC 29213,"purchased from us research nanomaterials, inc.Р Р†Р’",256,15.0,25.0,20.0,spherical,24.0,,,,,,,,
+1056,Ag,0,Escherichia coli,0,MTCC 739,Chemical synthesis using sodium borohydride and trisodium citrate,90,12.7,17.3,15.0,spherical,24.0,-39.95,water,60.0,30.0,AgNO3,,,10.5
+1685,Ag,0,Enterococcus sp.,1,,Physical synthesis using gamma irradiation,2.5,12.0,34.0,22.1,spherical,24.0,,,,,AgNO3,1.0,22.1,7.0
+863,Ag,1,Salmonella typhimurium,0,,Green synthesis using Spirogyra varians,0.5,35.0,35.0,35.0,quasi-spherical,24.0,,water,4.0,10.0,AgNO3,1.0,,
+1329,Ag,1,Klebsiella pneumoniae,1,clinical isolate,Green synthesis using Sambucus ebulus,50,35.0,50.0,42.5,spherical,24.0,-19.1,water (deionized),25.0,120.0,AgNO3,20.0,100.0,10.5
+55,Ag,0,Salmonella typhimurium,0,ATCC SC14028,chemical_synthesis,10,20.0,50.0,35.0,spherical,24.0,-18.0,,,,,,,
+73,Ag,0,Staphylococcus aureus,0,,chemical_synthesis,0.09,10.0,10.0,10.0,triangular,24.0,,,,,,,,
+284,Ag,0,Escherichia coli,0,ATCC 10536,green_synthesis,2.5,,,,,,,,,,,,,
+27,Ag,0,Pseudomonas aeruginosa,0,,green_synthesis using aqueous Cassiarox burghii leaf extract,6.3,10.0,30.0,20.0,spherical,24.0,,,,,,,,
+1706,Ag,0,Escherichia coli,0,,Chemical synthesis using PDA surface,3.125,,,12.7,spherical,24.0,,ethanol,,,AgNO3,10.0,,
+1481,Ag,0,Escherichia coli,0,ATCC 11238,Green synthesis using Pimpinella anisum,4,,,,spherical,24.0,,water (distilled),25.0,1440.0,AgNO3,1.0,65.4,9.0
+626,ZnO,0,Salmonella enterica,0,,green_synthesis using Acacia arabica leaf extract,0,16.0,20.0,18.0,rod-shaped,2.0,,,,,,,,
+980,Ag,0,Klebsiella pneumoniae,0,,Green synthesis using Desmodium triquetrum,31.2,16.78,26.48,21.63,spherical,24.0,-27.4,water (deionized),65.0,30.0,AgNO3,2.0,88.8,
+2089,Ag,0,Pseudomonas aeruginosa,0,,green_synthesis using aqueous Cassiarox burghii leaf extract,6.3,10.0,30.0,20.0,spherical,24.0,,water,37.0,,AgNO3,1.0,,
+150,Ag,0,Escherichia coli,0,,chemical_synthesis,25,15.0,30.0,28.0,spherical,24.0,,,,,,,,
+606,ZnO,0,Salmonella enterica,0,,green_synthesis using Acacia arabica leaf extract,8.4,16.0,20.0,18.0,rod-shaped,2.0,,,,,,,,
+1391,Ag,0,Staphylococcus aureus,0,,Green synthesis using Saussurea costus,78.8,,,22.0,spherical,24.0,-21.57,water (distilled),50.0,300.0,AgNO3,2.5,66.2,
+902,Ag,0,Escherichia coli,0,ATCC 25922,Green synthesis using Senna siamea,75,,,47.0,spherical,24.0,,water (distilled),100.0,15.0,AgNO3,5.0,,
+141,Ag,0,Escherichia coli,0,,chemical_synthesis,0.8,28.0,28.0,28.0,spherical,24.0,,,,,,,,
+1972,Ag,0,Staphylococcus aureus,0,clinical isolate,"chem_synthesis (purchased from Vector Vita Ltd, Novosibirsk, Russia",12,20.0,50.0,35.0,spherical,24.0,-18.0,,,,,,,
+619,ZnO,0,Salmonella enterica,0,,green_synthesis using Acacia arabica leaf extract,7.41,16.0,20.0,18.0,rod-shaped,0.0,,,,,,,,
+357,Ag,0,Escherichia coli,0,MTCC 1687,chemical_synthesis using sodium borohydride and silver ions,140,2.26,10.34,3.32,spherical,24.0,,,,,AgNO3,,,
+920,Ag,1,Pseudomonas aeruginosa,1,ATCC 10145,Green synthesis using Lactobacillus paracasei,1.6,15.6,20.4,18.0,,24.0,-25.0,DPPH,26.0,15.0,AgNO3,3.0,,5.9
+1630,Ag,0,Staphylococcus aureus,0,ATCC 29213,Green synthesis using Medicago sativa,1000,20.0,50.0,35.0,spherical,24.0,-22.41,methanol,,4320.0,AgNO3,9.4,97.5,12.0
+172,Ag,0,Acinetobacter baumannii,0,,green_synthesis,5.7,10.0,78.9,44.45,spherical,24.0,,water,60.0,1440.0,AgNO3,1.0,,
+1467,Ag,0,Pseudomonas aeruginosa,0,PAO1,Chemical synthesis using sodium borohydride,11.25,5.07,7.99,6.53,,24.0,,water (Milli-Q),-2.0,1440.0,AgNO3,2.0,,
+1017,Ag,1,Verticillium dahlia,0,MW830379,Green synthesis using onion peel,0.16,50.0,400.0,225.0,spherical,48.0,-22.8,water (distilled),100.0,30.0,AgNO3,212.0,,
+1653,Ag,0,Proteus mirabilis,0,,Biosynthesis using actinobacteria strain HGG16n,50,8.0,48.0,23.0,spherical,24.0,-32.0,,26.0,10080.0,AgNO3,3.0,100.0,
+2053,Ag,0,Staphylococcus aureus,0,Sa3,electrochemical synthesis,8.5,52.7,58.5,55.6,quasi-spherical,24.0,-51.5,,,,,,,
+347,Ag,0,Staphylococcus aureus,0,NCIM 5021,chemical_synthesis using sodium borohydride and silver ions,120,2.26,10.34,3.32,spherical,24.0,,,,,AgNO3,,,
+273,Ag,0,Proteus sp.,0,,green_synthesis,32,1.0,9.0,4.7,spherical,24.0,,,,,,,,
+104,Ag,0,Actinobacillus pleuropneumoniae,0,17/06L,chemical_synthesis,25,4.0,10.0,8.0,spherical,24.0,,,,,,,,
+949,Ag,1,Streptococcus mutans,0,ATCC 700610,Green synthesis using Camellia sinensis,600,272.57,283.43,278.0,spherical,,-55.7,water,,25.0,AgNO3,100.0,,10.5
+711,ZnO,0,Staphylococcus aureus,1,ATCC 29213,green_synthesis using A. indica leaf aqueous extract,200,22.5,22.5,22.5,quasi-spherical,24.0,,,,,,,,
+1843,Ag,0,Staphylococcus aureus,0,,Green synthesis using Agrimonia eupatoria L.,312.5,20.0,50.0,40.0,,24.0,,aceton,,,AgNO3,5.0,,4.0
+16,Ag,0,Pseudomonas aeruginosa,0,,green_synthesis,64,5.34,70.0,26.06,spherical,24.0,,,,,,,,
+645,ZnO,0,Staphylococcus aureus,0,,green_synthesis using Acacia arabica leaf extract,6.86,16.0,20.0,18.0,rod-shaped,1.0,,,,,,,,
+1915,Ag,0,Escherichia coli,0,,Green synthesis using Acacia cyanophylla,6.25,86.98,347.2,131.1,spherical,24.0,,water,35.0,,AgNO3,1.0,,
+1666,Ag,0,Acinetobacter baumannii,0,ATCC 19606,Biosynthesis using silver tolerant bacteria (AgTB),50,17.42,17.58,17.5,spherical,18.0,,water,37.0,21600.0,AgNO3,1.0,78.8,7.5
+303,Ag,0,Acinetobacter baumannii,0,AIIMS 7,green_synthesis,16,8.0,12.0,10.0,spherical,24.0,,,,,,,,
+511,CuO,0,Enterococcus faecalis,0,,chemical_synthesis using Cu(NO3)2,62.5,14.0,24.0,20.0,spherical,24.0,,,,,,,,
+314,Ag,0,Staphylococcus epidermidis,0,ATCC 36983,chemical_synthesis purchased from sigma aldrich ( citrate capped agnps),3,100.0,100.0,100.0,spherical,24.0,,,,,,,,
+2027,Ag,1,Klebsiella pneumoniae,0,ATCC 13883,"purchased from US Research Nanomaterials, Inc.",128,15.0,25.0,20.0,spherical,18.0,1.9,,,,,,,
+684,ZnO,0,Staphylococcus aureus,0,,green_synthesis using Acacia arabica leaf extract,7.41,16.0,20.0,18.0,rod-shaped,0.0,,,,,,,,
+207,Ag,0,Pseudomonas aeruginosa,0,ATCC 27853,"purchased from us research nanomaterials, inc.Р Р†Р’",16,15.0,25.0,20.0,spherical,24.0,,,,,,,,
+513,CuO,0,Staphylococcus aureus,0,,chemical_synthesis using Cu(NO3)2,125,14.0,24.0,20.0,spherical,24.0,,,,,,,,
+813,Ag,1,Pseudomonas aeruginosa,0,ATCC 9027,Green synthesis using Rosa canina,128,13.0,21.0,19.75,cubic,48.0,,ethanol,85.0,5.0,AgNO3,1.0,,
+1224,Ag,0,Bacillus subtilis,0,MTCC 2393,Green synthesis using Ixora brachypoda,6,18.36,50.04,27.76,spherical,48.0,-30.4,water (distilled),60.0,60.0,AgNO3,1.0,,8.5
+1050,Ag,0,Staphylococcus aureus,0,NCIM 5021,Chemical synthesis using sodium borohydride and trisodium citrate,80,8.0,12.0,10.0,spherical,24.0,-39.95,water,60.0,30.0,AgNO3,,,10.5
+1692,Ag,0,Pseudomonas aeruginosa,1,,Physical synthesis using gamma irradiation,2.5,12.0,32.0,24.91,spherical,24.0,,,,,AgNO3,1.0,24.91,7.0
+1961,Ag,0,Escherichia coli,0,,green_synthesis using extract of Acinetobacter baumannii,64,1.0,9.0,4.7,spherical,24.0,,,35.0,1440.0,AgNO3,10.0,,
+772,ZnO,0,Serratia marcescens,0,,green_synthesis using aloe vera extract,114,25.0,40.0,25.0,,24.0,,,,,,,,
+2070,Ag,0,Escherichia coli,1,,chem_synthesis by silver nitrate,0.8,28.0,28.0,28.0,spherical,24.0,,,,,,,,
+1667,Ag,0,Acinetobacter baumannii,0,MTCC 1920,Biosynthesis using silver tolerant bacteria (AgTB),50,17.42,17.58,17.5,spherical,18.0,,water,37.0,21600.0,AgNO3,1.0,78.8,7.5
+1445,Ag,0,Enterococcus sp.,1,,Physical synthesis using gamma irradiation,2.5,12.0,34.0,22.1,spherical,24.0,,,30.0,1440.0,AgNO3,1.0,22.1,7.0
+1691,Ag,0,Escherichia coli,1,,Physical synthesis using gamma irradiation,2.5,12.0,32.0,24.91,spherical,24.0,,,,,AgNO3,1.0,24.91,7.0
+1300,Ag,0,Pseudomonas aeruginosa,0,PAO1,Chemical synthesis using sodium borohydride,5.65,1.41,2.33,1.87,,24.0,,water (Milli-Q),-2.0,120.0,AgNO3,20.0,,
+2115,Ag,0,Escherichia coli,0,MTCC 1687,chemical_synthesis using sodium borohydride and silver ions,140,2.26,10.34,3.0,spherical,24.0,,,,,AgNO3,,,
+54,Ag,0,Salmonella typhimurium,0,ATCC SC14028,chemical_synthesis,10,20.0,50.0,35.0,spherical,24.0,-18.0,,,,,,,
+1927,Ag,0,Escherichia coli,0,,Green synthesis using Acacia cyanophylla,12.5,86.98,347.2,131.1,spherical,24.0,,water,35.0,,AgNO3,1.0,,
+436,Au,1,Staphylococcus aureus,0,,Chemical_synthesis using ligand exchange,0,1.9,1.9,1.9,spherical,18.0,,,,,,,,
+260,Ag,0,Escherichia coli,0,,green_synthesis,64,1.0,9.0,4.7,spherical,24.0,,,,,,,,
+1444,Ag,0,Staphylococcus aureus,1,,Physical synthesis using gamma irradiation,0.625,12.0,34.0,22.1,spherical,24.0,,,30.0,1440.0,AgNO3,1.0,22.1,7.0
+127,Ag,0,Escherichia coli,0,GN2514,chemical_synthesis,25,28.0,28.0,28.0,spherical,24.0,,,,,,,,
+133,Ag,0,Salmonella enterica,0,LT2,chemical_synthesis,25,15.0,30.0,28.0,spherical,24.0,,,,,,,,
+821,Ag,0,Staphylococcus aureus,0,ATCC 25923,Green synthesis using Aloe maculata,200,148.98,176.83,162.91,spherical,24.0,-17.4,water (distilled),80.0,10.0,AgNO3,5.0,,5.5
+1452,Ag,0,Pseudomonas aeruginosa,1,,Physical synthesis using gamma irradiation,1.25,12.0,32.0,24.91,spherical,24.0,,,30.0,1440.0,AgNO3,1.0,24.91,7.0
+855,Ag,1,Staphylococcus aureus,0,ATCC 29213,Chemical synthesis usnig dodecyl-dimethyl-ammonium chloride,2,60.0,70.0,65.0,spindle,24.0,58.0,water,25.0,10.0,AgNO3,50.0,,7.1
+578,ZnO,0,Escherichia coli,0,,green_synthesis using Acacia arabica leaf extract,9.5,16.0,20.0,18.0,rod-shaped,4.0,,,,,,,,
+577,ZnO,0,Escherichia coli,0,,green_synthesis using Acacia arabica leaf extract,9.1,16.0,20.0,18.0,rod-shaped,3.0,,,,,,,,
+811,Ag,1,Enterococcus hirae,0,ATCC 10541,Green synthesis using Rosa canina,256,13.0,21.0,19.75,cubic,48.0,,ethanol,85.0,5.0,AgNO3,1.0,,
+778,ZnO,0,Staphylococcus aureus,0,,chemical_synthesis using zinc nitrate,65,25.0,40.0,40.0,,24.0,,,,,,,,
+1498,Ag,0,Bacillus velezensis,0,SL-3,Biosynthesis using Rehmannia glutinosa fungi symbiont,32,3.0,25.0,14.0,spherical,24.0,,water,28.0,1440.0,AgNO3,10.0,,
+154,Ag,0,Klebsiella pneumoniae,0,,chemical_synthesis,3.4,28.0,28.0,28.0,spherical,24.0,,,,,,,,
+1798,Ag,0,Escherichia coli,0,,Green synthesis using Agrimonia eupatoria L.,156,20.0,50.0,40.0,,24.0,,water,,,AgNO3,5.0,,6.0
+441,Au,1,Pseudomonas aeruginosa,0,ATCC 27857,Chemical_synthesis using tetrachloroauric-III-acid hydrate and zinc nitrate,78,50.0,50.0,50.0,,24.0,,,,,,,,
+900,Ag,0,Pseudomonas aeruginosa,0,ATCC 27853,Green synthesis using Crossopteryx febrifuga,75,,,115.0,spherical,24.0,,water (distilled),100.0,15.0,AgNO3,5.0,,
+512,CuO,0,Escherichia coli,0,,chemical_synthesis using Cu(NO3)2,62.5,14.0,24.0,20.0,spherical,24.0,,,,,,,,
+884,Ag,1,Staphylococcus aureus,0,ATCC 25923,Chemical synthesis using NDs,44.12,3.0,19.0,,quasi-spherical,,,water,,10.0,AgNO3,2.0,,
+318,Ag,0,Acinetobacter baumannii,0,BAA-747,chemical_synthesis purchased from sigma aldrich ( citrate capped agnps),32,15.0,25.0,20.0,spherical,24.0,-18.3,water,37.0,,AgNO3,1.0,,7.0
+475,Cu,0,Bacillus subtilis,0,MTCC 441,chemical_synthesis using sodium borohydride and copper ions,20,6.86,16.53,9.25,spherical,24.0,,,,,,,,
+1661,Ag,0,Enterococcus faecalis,0,MCC 2763,Biosynthesis using silver tolerant bacteria (AgTB),50,17.42,17.58,17.5,spherical,18.0,,water,37.0,21600.0,AgNO3,1.0,78.8,7.5
+43,Ag,0,Bacillus subtilis,0,,chemical_synthesis,11,20.0,50.0,35.0,spherical,24.0,-18.0,,,,,,,
+881,Ag,1,Escherichia coli,0,ATCC 25922,Chemical synthesis using NDs,1.34,3.0,19.0,,quasi-spherical,,,water,,10.0,AgNO3,2.0,,
+2038,Ag,1,Klebsiella pneumoniae,0,ATCC 700603,green_synthesis using Streptomyces xinghaiensis,256,5.0,20.0,12.5,spherical,24.0,-15.7,,,,,,,
+1537,Ag,0,Escherichia coli,0,ATCC 25922,Green synthesis using Carya illinoinensis,16,18.65,22.03,20.34,spherical,24.0,,methanol,25.0,1440.0,AgNO3,1.0,,
+689,ZnO,0,Staphylococcus aureus,0,,green_synthesis using Acacia arabica leaf extract,7.41,16.0,20.0,18.0,rod-shaped,0.0,,,,,,,,
+1010,Ag,1,Escherichia coli,0,MW534699,Green synthesis using onion peel,0.16,50.0,400.0,225.0,spherical,48.0,-22.8,water (distilled),100.0,30.0,AgNO3,212.0,,
+587,ZnO,0,Escherichia coli,0,,green_synthesis using Acacia arabica leaf extract,4.3,16.0,20.0,18.0,rod-shaped,3.0,,,,,,,,
+321,Ag,0,Acinetobacter baumannii,0,BAA-747,chemical_synthesis purchased from sigma aldrich ( citrate capped agnps),32,15.0,25.0,20.0,spherical,24.0,-18.3,water,37.0,,AgNO3,1.0,,7.0
+1749,Ag,0,Enterococcus sp.,0,M17M10,"Chemical synthesis, purchased from Sigma-Aldrich",250,,,25.0,,24.0,,,,,,,,
+819,Ag,0,Escherichia coli,0,ATCC 25922,Green synthesis using Aloe maculata,12.5,130.54,181.8,156.17,spherical,24.0,-7.28,water (distilled),80.0,10.0,AgNO3,9.0,,5.5
+1787,Ag,0,Campylobacter jejuni,0,ATCC 33560,Green synthesis using Gloeophyllum striatum,>100,16.4,24.0,20.2,spherical,24.0,-27.4,water,,,AgNO3,5.0,,
+480,Cu,0,Escherichia coli,0,MTCC 1687,chemical_synthesis using sodium borohydride and copper ions,280,6.86,16.53,9.25,spherical,24.0,,,,,,,,
+202,Ag,0,Staphylococcus sciuri,0,ATCC 29061,chemical_synthesis purchased from US Research Nanomaterials (US7091),256,15.0,25.0,20.0,spherical,18.0,,,,,,,,
+585,ZnO,0,Escherichia coli,0,,green_synthesis using Acacia arabica leaf extract,6.4,16.0,20.0,18.0,rod-shaped,1.0,,,,,,,,
+305,Ag,0,Pseudomonas aeruginosa,0,,green_synthesis,0.234,10.0,10.0,10.0,spherical,24.0,,,,,,,,
+334,Ag,0,Escherichia coli,0,,"purchased from us research nanomaterials, inc.Р Р†Р’",3.56,10.9,16.0,13.5,spherical,24.0,,,,,,,,
+683,ZnO,0,Staphylococcus aureus,0,,green_synthesis using Acacia arabica leaf extract,0,16.0,20.0,18.0,rod-shaped,4.0,,,,,,,,
+608,ZnO,0,Salmonella enterica,0,,green_synthesis using Acacia arabica leaf extract,9.6,16.0,20.0,18.0,rod-shaped,4.0,,,,,,,,
+840,Ag,0,Escherichia coli,0,ATCC 11229,Green synthesis using Onion,2.461,8.0,12.0,10.0,spherical,24.0,-26.2,water,60.0,10.0,AgNO3,10.0,,5.8
+588,ZnO,0,Escherichia coli,0,,green_synthesis using Acacia arabica leaf extract,3.9,16.0,20.0,18.0,rod-shaped,4.0,,,,,,,,
+1387,Ag,1,Staphylococcus aureus,0,,Chemical synthesis,30,20.0,29.4,24.7,spherical,24.0,-21.5,water (distilled),80.0,240.0,AgNO3,0.5,,12.0
+2076,Ag,1,Staphylococcus aureus,1,,green_synthesis from fungus,3.125,8.0,20.0,14.0,spherical,24.0,-10.0,water (double-distilled),30.0,720.0,AgNO3,1.0,,
+1262,Ag,0,Staphylococcus aureus,0,ATCC 29213,Green synthesis using Azmak leaf,62.5,20.0,45.0,32.5,spherical,24.0,-59.3,water (distilled),55.0,75.0,AgNO3,1.0,130.0,14.0
+231,Ag,0,Staphylococcus sciuri,0,ATCC 29061,"purchased from us research nanomaterials, inc.Р Р†Р’",256,15.0,25.0,20.0,spherical,24.0,,,,,,,,
+892,Ag,0,Salmonella typhimurium,0,ATCC 39183,Green synthesis using Citrus unshiu fruit peel,250,15.0,40.0,23.0,spherical,5.0,-24.6,water (distilled),60.0,15.0,AgNO3,,113.17,
+398,Al2O3,1,Klebsiella pneumoniae,1,K-36,chemical_synthesis (East Nano Chemicals Co.),2000,10.0,90.0,50.0,spherical,24.0,,,,,,,,
+2107,Ag,0,Klebsiella pneumoniae,0,ATCC 13883,chemical_synthesis purchased from US Research Nanomaterials (US7091),128,15.0,25.0,20.0,spherical,18.0,,,,,,,,
+80,Ag,0,Staphylococcus epidermidis,0,,chemical_synthesis,6,40.0,40.0,40.0,spherical,24.0,,,,,,,,
+1867,Ag,0,Candida albicans,0,,Green synthesis using Agrimonia eupatoria L.,625,20.0,50.0,40.0,,24.0,,water,,,AgNO3,5.0,,6.0
+1980,Ag,0,Staphylococcus aureus,0,,green_synthesis using fungus Trichoderma,80,5.0,40.0,,spherical,,,water (double distilled),27.0,2880.0,AgNO3,1.0,,
+1622,Ag,0,Staphylococcus aureus,0,CCT1485,Green synthesis using fungal filtrate,1.68,15.73,25.89,20.81,spherical,24.0,-26.8,water (deionized),28.0,4320.0,AgNO3,1.0,56.43,4.0
+1573,Ag,0,Pseudomonas aeruginosa,0,MTCC 424,Biosynthesis using bacterial isolate NMS-1 (Bacillus subtilis),25,10.0,20.0,15.0,cubic,24.0,,water,25.0,2880.0,AgNO3,1.0,,
+1419,Ag,1,Staphylococcus saprophyticus,1,,Green synthesis using Kalmia angustifolia,5.5,10.0,60.0,36.3,oval,,,ethanol,28.0,600.0,AgNO3,1.0,,
+1476,Ag,0,Escherichia coli,0,ATCC 11233,Green synthesis using Pimpinella anisum,4,,,,spherical,24.0,,water (distilled),25.0,1440.0,AgNO3,1.0,65.4,9.0
+793,Ag,0,Candida krusei,0,ATCC 30135,Green synthesis using Orange,10.563,23.0,27.0,25.0,spherical,24.0,-23.7,water,100.0,2.0,AgNO3,10.0,,4.0
+951,Ag,0,Pseudomonas aeruginosa,0,ATCC 27853,Green synthesis using Salvia tebesana Bunge,39.06,10.0,15.0,12.5,spherical,24.0,-38.82,water (distilled),55.0,30.0,AgNO3,10.0,180.0,
+237,Ag,0,Escherichia coli,0,ATCC 25922,chemical_synthesis,2,3.0,3.0,3.0,spherical,,,,,,,,,
+319,Ag,0,Acinetobacter baumannii,0,BAA-747,chemical_synthesis purchased from sigma aldrich ( citrate capped agnps),32,15.0,25.0,20.0,spherical,24.0,-18.3,water,37.0,,AgNO3,1.0,,7.0
+1187,Ag,0,Acinetobacter baumannii,1,MAR14-2675,Chemical synthesis using halloysite nanotubes,250,,,10.7,tubular,18.0,,ethanol,25.0,60.0,AgNO3,100.0,,
+1285,Ag,0,Staphylococcus aureus,1,,Green synthesis using Pichia pastoris,3.15,10.0,30.0,20.0,spherical,24.0,-22.1,water (distilled),60.0,120.0,AgNO3,1.0,,
+1902,Ag,0,Campylobacter jejuni,0,,"Chemical synthesis, purchased from Nanocomposix",3.125,17.5,23.7,20.6,,24.0,-35.0,water,,,AgNPs,,,
+258,Ag,0,Escherichia coli,0,,green_synthesis,64,1.0,9.0,4.7,spherical,24.0,,,,,,,,
+1034,Ag,0,Staphylococcus aureus,0,NCIM 5021,Chemical synthesis using sodium borohydride and trisodium citrate,70,4.3,5.7,5.0,spherical,24.0,-39.95,water,60.0,30.0,AgNO3,,,10.5
+39,Ag,0,Pseudomonas aeruginosa,0,,green_synthesis,6.3,10.0,30.0,20.0,spherical,24.0,,,,,,,,
+67,Ag,0,Staphylococcus aureus,0,ATCC 29213,chemical_synthesis (sigma aldrich. 730785),0.09,10.0,10.0,10.0,triangular,18.0,,,,,,,,
+1698,Ag,0,Pseudomonas aeruginosa,0,ATCC 27853,Green synthesis using Pelargonium sidoides,17.1,13.9,20.3,17.1,spherical,24.0,-30.0,ethanol,,,AgNO3,1.0,85.0,6.5
+1730,Ag,1,Pseudomonas aeruginosa,0,KCTC 1637,"Chemical synthesis, purchased from Sigma-Aldrich",16,,,251.0,spherical,24.0,-36.5,,,,AgNO3,,,
+1981,Ag,0,Micrococcus luteus,0,,green_synthesis using fungus Trichoderma,65,5.0,40.0,,spherical,,,water (double distilled),27.0,2880.0,AgNO3,1.0,,
+581,ZnO,0,Escherichia coli,0,,green_synthesis using Acacia arabica leaf extract,8.14,16.0,20.0,18.0,rod-shaped,2.0,,,,,,,,
+1361,Ag,1,Candida albicans,1,ATCC 90028,Green synthesis using Syzygium cumini flowers,250,32.71,46.48,39.0,oval,24.0,-29.2,ethanol,50.0,120.0,AgNO3,1.0,,7.0
+412,Au,1,Pseudomonas aeruginosa,0,,Chemical_synthesis using ligand exchange,0,10.4,10.4,10.4,spherical,18.0,,,,,,,,
+1554,Ag,1,Pseudomonas aeruginosa,0,ATCC 27583,Green synthesis using Parrotiopsis jacquemontiana,10,56.2,87.03,23.1,flat,,,water,60.0,1441.0,AgNO3,1.0,30.26,
+1173,Ag,0,Enterococcus faecalis,0,ATCC 29212,Green synthesis using Astragalus sarcocolla,312.5,14.36,17.16,15.76,spherical,24.0,-38.32,water,85.0,45.0,AgNO3,3.0,220.0,12.0
+1708,Ag,0,Staphylococcus aureus,0,,Chemical synthesis using PDA surface,12.5,,,9.1,spherical,24.0,,ethanol,,,AgNO3,5.0,,
+1732,Ag,0,Pseudomonas aeruginosa,0,ATCC 27853,Green synthesis using Acacia honey,5.4,,,,spherical,24.0,-35.8,water,,,AgNO3,10.0,30.7,
+1772,Ag,0,Streptococcus mutans,0,MTCC 497,"Chemical synthesis, purchased from Nano-world Company",60,30.0,50.0,40.0,,,,,,,,,,
+1079,Ag,0,Escherichia coli,0,MTCC 443,Chemical synthesis using sodium borohydride and trisodium citrate,80,42.9,57.1,50.0,spherical,24.0,-39.95,water,60.0,30.0,AgNO3,,,10.5
+824,Ag,0,Pseudomonas aeruginosa,0,M13513,Green synthesis using Aloe maculata,25,148.98,176.83,162.91,spherical,24.0,-17.4,water (distilled),80.0,10.0,AgNO3,5.0,,5.5
+1970,Ag,0,Klebsiella pneumoniae,0,,green_synthesis using C. zylinicum aqueous extracts,2.8,10.0,78.9,44.45,spherical,,,water,60.0,1440.0,AgNO3,1.0,,
+1163,Ag,1,Mycobacterium marinum,0,ATCC 2275,Green synthesis using Clerodendrum serratum,0.781,9.0,60.0,,spherical,24.0,12.98,water (distilled),25.0,30.0,AgNO3,1.0,,
+125,Ag,0,Escherichia coli,0,GN2514,chemical_synthesis,25,28.0,28.0,28.0,spherical,24.0,,,,,,,,
+1395,Ag,1,Escherichia coli,0,ATCC 25922,Green synthesis using Gracilaria birdiae,78.7,20.2,94.9,,spherical,24.0,-29.5,water,25.0,300.0,AgNO3,1.0,58.7,10.0
+1261,Ag,0,Escherichia coli,0,ATCC 25922,Green synthesis using Azmak leaf,62.5,20.0,45.0,32.5,spherical,24.0,-59.3,water (distilled),55.0,75.0,AgNO3,1.0,130.0,14.0
+1538,Ag,0,Pseudomonas aeruginosa,0,ATCC 27853,Green synthesis using Carya illinoinensis,32,18.65,22.03,20.34,spherical,24.0,,methanol,25.0,1440.0,AgNO3,1.0,,
+1323,Ag,1,Proteus mirabilis,0,ATCC 25933,Green synthesis using Sambucus ebulus,6.25,35.0,50.0,42.5,spherical,24.0,-19.1,water (deionized),25.0,120.0,AgNO3,20.0,100.0,10.5
+1286,Ag,0,Pseudomonas aeruginosa,1,,Green synthesis using Pichia pastoris,6.25,10.0,30.0,20.0,spherical,24.0,-22.1,water (distilled),60.0,120.0,AgNO3,1.0,,
+1232,Ag,0,Staphylococcus aureus,0,ATCC 6538,Green synthesis using Apple,0.066,28.0,32.0,30.0,ellipsoidal,24.0,-23.7,water,80.0,60.0,AgNO3,10.0,,2.1
+2024,Ag,0,Staphylococcus epidermidis,0,ATCC 36983,chem_synthesis_purchased_from_Sigma_Alddrich,3,100.0,100.0,100.0,spherical,24.0,,,,,,,,
+693,ZnO,0,Staphylococcus aureus,0,,green_synthesis using Acacia arabica leaf extract,0,16.0,20.0,18.0,rod-shaped,4.0,,,,,,,,
+1432,Ag,1,Klebsiella pneumoniae,1,,Green synthesis using Curcuma longa,3.9,10.0,20.0,15.0,spherical,24.0,-18.6,ethanol,60.0,1440.0,AgNO3,200.0,32.48,
+885,Ag,0,Shigella boydii,0,,Green synthesis using Spondias pinnata bark,3,26.5,67.9,47.2,spherical,24.0,,water (deionized),80.0,15.0,AgNO3,1000.0,,
+575,ZnO,0,Escherichia coli,0,,green_synthesis using Acacia arabica leaf extract,8.11,16.0,20.0,18.0,rod-shaped,1.0,,,,,,,,
+1352,Ag,1,Streptococcus oralis,1,ATCC 35037,Green synthesis using Syzygium cumini seeds,31.2,36.25,77.01,56.5,oval,24.0,-36.7,ethanol,50.0,120.0,AgNO3,1.0,,7.0
+823,Ag,0,Pseudomonas aeruginosa,0,M13513,Chemical synthesis using hydroxylamine hydrochloride,12.5,9.42,14.37,11.9,spherical,24.0,-16.66,water (distilled),80.0,10.0,AgNO3,1.11,,5.5
+2103,Ag,0,Klebsiella pneumoniae,1,K-36,chemical_synthesis (East Nano Chemicals Co.),4000,10.0,50.0,30.0,spherical,24.0,,,,,,,,
+1326,Ag,1,Pseudomonas aeruginosa,1,clinical isolate,Green synthesis using Sambucus ebulus,1.5,35.0,50.0,42.5,spherical,24.0,-19.1,water (deionized),25.0,120.0,AgNO3,20.0,100.0,10.5
+1971,Ag,0,Escherichia coli,0,DH5О±,"chem_synthesis (purchased from Vector Vita Ltd, Novosibirsk, Russia",10,20.0,50.0,35.0,spherical,24.0,-18.0,,,,,,,
+2058,Ag,0,Pseudomonas aeruginosa,0,,green_synthesis from Citrus latifolia tan,128,5.34,70.0,26.06,spherical,24.0,,water,100.0,5.0,AgNO3,5.0,,
+279,Ag,0,Pseudomonas aeruginosa,0,,green_synthesis,64,1.0,9.0,4.7,spherical,24.0,,,,,,,,
+1442,Ag,0,Proteus vulgaris,1,,Green synthesis using Curcuma longa,0,10.0,20.0,15.0,spherical,24.0,,ethanol,60.0,1440.0,AgNO3,200.0,32.48,
+1944,Ag,0,Escherichia coli,0,ATCC 10536,green_synthesis from fungus Phytophthora infestans,2.5,,,,,,,,,,,,,
+2040,Ag,1,Staphylococcus aureus,0,ATCC 6538,green_synthesis using Streptomyces xinghaiensis,256,5.0,20.0,12.5,spherical,24.0,-15.7,,,,,,,
+571,ZnO,1,Escherichia coli,0,,green_synthesis using aqueous Brassica rapa leaf,25,27.43,27.43,27.43,hexagonal,24.0,,,,,,,,
+1786,Ag,0,Campylobacter jejuni,0,ATCC 33291,Green synthesis using Gloeophyllum striatum,>100,16.4,24.0,20.2,spherical,24.0,-27.4,water,,,AgNO3,5.0,,
+247,Ag,0,Staphylococcus aureus,0,ATCC 25923,chemical_synthesis,0.5,3.0,3.0,3.0,spherical,,,,,,,,,
+459,Bi2O3,0,Escherichia coli,0,ATCC 25922,green_synthesis using mentha pulegium aqueous extract,10000,120.0,120.0,120.0,nanorods,24.0,,,,,,,,
+1386,Ag,1,Escherichia coli,0,,Chemical synthesis,30,20.0,29.4,24.7,spherical,24.0,-21.5,water (distilled),80.0,240.0,AgNO3,0.5,,12.0
+455,Au,1,Staphylococcus aureus,0,ATCC 25923,Chemical_synthesis using tetrachloroauric-III-acid hydrate,5000,1.4,1.4,1.4,,24.0,,,,,,,,
+69,Ag,0,Staphylococcus aureus,1,MFBF 10679,chemical_synthesis (sigma aldrich. 730785),0.47,10.0,10.0,10.0,triangular,18.0,,,,,,,,
+1585,Ag,0,Cryptopcoccus neoformans,0,MTCC 1353,Biosynthesis using bacterial isolate NMS-1 (Bacillus subtilis),25,10.0,20.0,15.0,cubic,24.0,,water,25.0,2880.0,AgNO3,1.0,,
+1806,Ag,0,Staphylococcus aureus,0,,Green synthesis using Agrimonia eupatoria L.,78,20.0,50.0,40.0,,24.0,,water,,,AgNO3,5.0,,6.0
+925,Ag,1,Saccharomyces cerevisiae,1,MG012794,Green synthesis using Lactobacillus paracasei,3.1,15.6,20.4,18.0,,24.0,-25.0,DPPH,26.0,15.0,AgNO3,3.0,,5.9
+1451,Ag,0,Escherichia coli,1,,Physical synthesis using gamma irradiation,1.25,12.0,32.0,24.91,spherical,24.0,,,30.0,1440.0,AgNO3,1.0,24.91,7.0
+1390,Ag,0,Klebsiella pneumoniae,0,,Green synthesis using Saussurea costus,39.4,,,22.0,spherical,24.0,-21.57,water (distilled),50.0,300.0,AgNO3,2.5,66.2,
+1696,Ag,0,Escherichia coli,0,ATCC 25922,Green synthesis using Pelargonium sidoides,71.4,13.9,20.3,17.1,spherical,24.0,-30.0,ethanol,,,AgNO3,1.0,85.0,6.5
+957,Ag,0,Staphylococcus aureus,0,,Green synthesis using Origanum ehrenbergii,62.5,1.0,40.0,13.5,pseudo-spherical,24.0,,water (distilled),60.0,30.0,AgNO3,1.0,,
+1728,Ag,1,Streptococcus mutans,0,KCCM 40105,"Chemical synthesis, purchased from Sigma-Aldrich",16,,,251.0,spherical,24.0,-36.5,,,,AgNO3,,,
+1767,Ag,0,Pseudomonas sp.,0,M22K12,"Chemical synthesis, purchased from Sigma-Aldrich",62.5,,,25.0,,24.0,,,,,,,,
+1606,Ag,0,Candida albicans,0,,Biosynthesis using Candida glabrata,62,2.0,15.0,8.5,spherical,24.0,,,28.0,3600.0,AgNO3,1.0,,
+1114,Ag,0,Staphylococcus epidermidis,0,ATCC 12228,Eco-benign synthesis using Quercus coccifera L.,125,50.0,70.0,60.0,spherical,24.0,-26.4,water (distilled),90.0,30.0,AgNO3,1.0,64.7,
+2019,Ag,0,Staphylococcus epidermidis,0,ATCC 12228,chem_synthesis_purchased_from_Sigma_Alddrich,6,40.0,40.0,40.0,spherical,24.0,,,,,,,,
+276,Ag,0,Pseudomonas aeruginosa,0,,green_synthesis,64,1.0,9.0,4.7,spherical,24.0,,,,,,,,
+1392,Ag,0,Staphylococcus haemolyticus,0,,Green synthesis using Saussurea costus,78.8,,,22.0,spherical,24.0,-21.57,water (distilled),50.0,300.0,AgNO3,2.5,66.2,
+235,Ag,0,Enterococcus faecium,0,ATCC 19434,chemical_synthesis,0.25,3.0,3.0,3.0,spherical,,,,,,,,,
+1759,Ag,0,Enterococcus sp.,1,E27.07,"Chemical synthesis, purchased from Sigma-Aldrich",500,,,25.0,,24.0,,,,,,,,
+107,Ag,0,Escherichia coli,0,GN2514,chemical_synthesis,6.3,4.0,10.0,8.0,spherical,24.0,,,,,,,,
+1983,Ag,0,Staphylococcus aureus,0,ATCC 29213,purchased from sigma aldrich,0.02,40.0,40.0,40.0,,24.0,,,,,,,,
+2048,Ag,0,Pseudomonas aeruginosa,0,Pa14,electrochemical synthesis,1.06,52.7,58.5,55.6,quasi-spherical,24.0,-51.5,,,,,,,
+1832,Ag,0,Escherichia coli,0,ATCC 25922,Green synthesis using Agrimonia eupatoria L.,625,20.0,50.0,40.0,,24.0,,aceton,,,AgNO3,5.0,,4.0
+137,Ag,0,Staphylococcus aureus,0,GP0004,chemical_synthesis,50,15.0,30.0,28.0,spherical,24.0,,,,,,,,
+1776,Ag,0,Candida albicans,0,MTCC 903,"Chemical synthesis, purchased from Nano-world Company",2.82,30.0,50.0,40.0,,,,,,,,,,
+1948,Ag,0,Staphylococcus aureus,0,GP0004,chem_synthesis_reduction_by_D_maltose,50,15.0,30.0,28.0,spherical,,,water,21.0,,AgNO3,1.0,,
+1801,Ag,0,Salmonella enterica,0,,Green synthesis using Agrimonia eupatoria L.,312.5,20.0,50.0,40.0,,24.0,,water,,,AgNO3,5.0,,6.0
+1512,Ag,0,Staphylococcus aureus,0,,Green synthesis using diatoms biomass,15.625,177.1,298.9,238.0,square,24.0,-16.33,water,25.0,1440.0,AgNO3,,186.73,
+1765,Ag,0,Pseudomonas sp.,0,M24T02,"Chemical synthesis, purchased from Sigma-Aldrich",31.25,,,25.0,,24.0,,,,,,,,
+864,Ag,1,Escherichia coli,0,,Green synthesis using Spirogyra varians,0.25,35.0,35.0,35.0,quasi-spherical,24.0,,water,4.0,10.0,AgNO3,1.0,,
+796,Ag,0,Escherichia coli,0,,Green synthesis using Phyllanthus niruri,20,,,20.0,spherical,24.0,,water (filtered sterilized),25.0,5.0,AgNO3,1.0,,
+1460,Ag,0,Pseudomonas aeruginosa,0,N90PS,"Chemical synthesis, purchased from Sigma-Aldrich",1.35,0.2,100.0,50.1,spherical,24.0,,water (sterile deionized),37.0,1440.0,AgNO3,1.0,,7.0
