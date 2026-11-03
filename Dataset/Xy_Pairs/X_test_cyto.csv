@@ -1,0 +1,1094 @@
+sn,material,shape,coat_functional_group,synthesis_method,surface_charge,size_in_medium_nm,zeta_in_medium_mv,no_of_cells_cells_well,human_animal,cell_source,cell_tissue,cell_morphology,cell_age,time_hr,concentration,test,test_indicator,hydrodynamic_nm,potential_mv,cell_type
+5983,Au,,Citrate and PVP,,,,,,H,Human,Lung,Epithelial,A,24,,MTT,tetrazolium salt,27.17,,A549
+1374,TiO2,Sphere,,Commercial,Negative,434.1,-7.83,10000.0,H,Human,Lung,Epithelial,Adult,48,100.0,MTT,TetrazoliumSalt,25.0,,A549
+944,CeO2,Sphere,,Commercial,,299.0,,60000.0,A,Rabbit,Cornea,,,24,1.0,MTT,TetrazoliumSalt,33.0,,SIRC
+2696,Fe3O4,Sphere,,Commercial,Positive,1025.0,1.7,50000.0,H,Human,Heart,Epithelial,Adult,24,0.01,MTT,TetrazoliumSalt,46.8,,HCMEC
+1000,Au,Sphere,,Commercial,,96.3,,50000.0,H,Human,Skin,Fibroblast,Adult,48,1.0,MTT,TetrazoliumSalt,50.0,,NHDF
+5354,Bi,,NH2,,,,,,H,Human,,,A,12,,MTT,tetrazolium salt,20.0,,MG-63
+5512,CaHCO3,,,,,,,,H,Human,liver,Epithelial,A,48,,MTT,tetrazolium salt,175.0,,HepG2
+180,Bi,Sphere,Silica,Precipitation,,,,20000.0,H,,,,,12,,Live/Dead,CalceinAM,20.0,,HeLa
+5082,TiO2,,,,,,,,H,Human,Blood,Lymphoblast,A,3,,NR,neutral red,100.0,,Lymphocytes
+3945,CeO2,Sphere,,Biosynthesis,,,,,H,Human,Colon,Epithelial,Adult,24,100.0,MTT,TetrazoliumSalt,12.5,,HT29
+3517,Au,Sphere,Citrate,Commercial,Negative,,-28.4,5000.0,H,Human,Skin,Fibroblast,,24,10.0,MTS,TetrazoliumSalt,61.06,-32.7,CCL-110
+914,Pt,Sphere,,Biosynthesis,,,,100000.0,H,Human,Blood,Monocyte,,24,150.0,CCK-8,TetrazoliumSalt,1.5,,THP-1
+4962,TiO2,,,,,,,,A,Mouse,Blood,Monocyte/Macrophage,A,24,,WST-1,tetrazolium salt,50.0,,RAW 264.7
+4059,CaHCO3,Rod,,Precipitation,Negative,109.0,,50000.0,H,Human,Lung,Epithelial,Adult,24,30.0,CCK-8,TetrazoliumSalt,30.0,-5.7,BEAS-2B
+3933,Cu,Sphere,AscorbicAcid,Chemical Reduction,Negative,,,10000.0,H,Human,Gingiva,Fibroblast,Adult,24,31.25,MTT,TetrazoliumSalt,250.0,-24.7,HGF
+6187,Ag,,,,,,,,H,Human,Cervix,Epithelial,A,48,,Alamar Blue,Alamar blue,28.41,-33.33,HeLa
+6164,Ag,,,,,,,,H,Human,Skin,Keratinocyte,A,72,,Alamar Blue,Alamar blue,28.41,-33.33,HaCaT
+690,SiO2,Sphere,,Commercial,Negative,96.0,-28.0,10000.0,H,Human,Liver,Epithelial,Adult,72,100.0,MTT,TetrazoliumSalt,14.23,-25.0,HepG2
+5489,CaHCO3,,,,,,,,H,Human,Blood,Monocyte/Macrophage,A,24,,MTT,tetrazolium salt,170.0,,HMM
+2535,Pt,Sphere,FA,Chemical Reduction,Negative,,,5000.0,H,Human,Breast,Epithelial,Adult,48,25.0,CellTiterGlo,LuciferaseEnzyme,12.5,-40.5,MCF-7
+5186,Cr,,,,,,,,A,Mouse,Blood,Monocyte/Macrophage,A,24,,Live/Dead,"Calcein AM, Ethidium homodimer-1",30.0,,RAW 264.7
+3696,Fe3O4,Sphere,,Pyrolysis,Negative,,,100000.0,H,Human,Lung,Epithelial,Adult,72,0.5,MTT,TetrazoliumSalt,6.0,-36.5,A549
+33,SiO2,Sphere,Ph,Precipitation,Negative,135.83,,5000.0,A,Rat,,,,24,15.6,MTT,TetrazoliumSalt,375.4,-26.8,PC12
+3266,C,Nanotube,,Commercial,Positive,112.9,12.9,10000.0,H,Human,Teeth,Fibroblast,Adult,24,10.0,MTT,TetrazoliumSalt,9.0,,hPDLF
+842,SiO2,Sphere,,Sol-Gel Method,Negative,,,50000.0,H,Human,Liver,Epithelial,Adult,24,10.0,MTT,TetrazoliumSalt,199.89,-36.3,HepG2
+6025,Au,,Citrate and PVP,,,,,,H,Human,Lung,Epithelial,A,24,,MTT,tetrazolium salt,28.18,,NCIH441
+308,Au,Sphere,PEG,Chemical Reduction,Negative,,,50000.0,A,Mouse,Cerebellum,Neuronal,,24,,MTT,TetrazoliumSalt,4.6,-7.6,C17.2
+6027,Au,,Citrate and PVP,,,,,,H,Human,Lung,Epithelial,A,72,,MTT,tetrazolium salt,28.18,,NCIH441
+5024,TiO2,,,,,,,,H,Human,Kidney,Spindle,A,24,,WST-1,tetrazolium salt,47.83,,IP15
+3790,SiO2,Sphere,,Commercial,Negative,27.2,,6000.0,A,Mouse,Ascites,Monocyte/Macrophage,Adult,48,5.0,Live/Dead,PropidiumIodide,9.0,-26.96,RAW264.7
+2600,MgO,Sphere,,Commercial,Positive,639.0,11.6,50000.0,H,Human,Heart,Epithelial,Adult,12,5.0,MTT,TetrazoliumSalt,39.2,,HCMEC
+2480,Pt,Sphere,PVP,Chemical Reduction,Negative,,,5000.0,H,Human,Cervix,Epithelial,Adult,72,25.0,CellTiterGlo,LuciferaseEnzyme,4.0,-8.0,HeLa
+5360,Bi,,PEG,,,,,,H,Human,,,A,24,,Live/Dead,"Calcein AM, Ethidium homodimer-1",20.0,,HeLa
+5972,Au,,PVP,,,,,,H,Human,Lung,Epithelial,A,48,,MTT,tetrazolium salt,21.2,,NCIH441
+4246,ZnO,,,,,,,,A,Mouse,Blood,Monocyte/Macrophage,A,24,,LDH,LDH activity assay kit,16.0,,RAW 264.7
+866,SiO2,Sphere,,Sol-Gel Method,Negative,,,50000.0,H,Human,Liver,Epithelial,Adult,72,500.0,MTT,TetrazoliumSalt,199.89,-36.3,HepG2
+4480,Fe3O4,,PEI,,,,,,H,Human,,,A,72,,Live/Dead,trypan blue,145.8,17.7,SH-SY5Y
+715,SiO2,Sphere,Chitosan,Hydrolysis,Positive,,,5000.0,H,Human,Colon,Epithelial,Adult,48,50.0,AlamarBlue,AlamarBlue,578.27,8.0,Caco-2
+5019,TiO2,,,,,,,,A,Pig,Kidney,Epithelial,A,24,,WST-1,tetrazolium salt,11.69,,LLC-PK1
+2697,Fe3O4,Sphere,,Commercial,Positive,1025.0,1.7,50000.0,H,Human,Heart,Epithelial,Adult,24,0.1,MTT,TetrazoliumSalt,46.8,,HCMEC
+1416,Fe3O4,,Silica,Commercial,Negative,,-6.52,30000.0,H,Human,Kidney,Epithelial,Adult,24,200.0,XTT,TetrazoliumSalt,114.0,,HK-2
+3684,Fe3O4,Sphere,Chitosan,Pyrolysis,Positive,,,100000.0,H,Human,Cervix,Epithelial,Adult,48,0.5,MTT,TetrazoliumSalt,8.0,11.0,HeLa
+3195,C,Sphere,,Emulsion-Solvent Evaporation,Negative,,,10000.0,H,Human,Kidney,Epithelial,Embryonic,24,18.0,MTT,TetrazoliumSalt,125.0,-25.3,HEK293
+1784,SiO2,Sphere,,Sol-Gel Method,Negative,,,40000.0,H,Human,Lung,Epithelial,Adult,24,16.0,CCK-8,TetrazoliumSalt,19.4,-21.77,A549
+6110,Au,,PEG,,,,,,A,Rat,,,,24,,MTT,,21.7,-7.6,PC12
+2074,MgO,Hexagon,,Sol-Gel Method,Negative,,,100000.0,A,Mouse,Embryo,Fibroblast,Embryonic,24,400.0,MTT,TetrazoliumSalt,43.8,-7.21,3T3-L1
+6155,Ag,,,,,,,,H,Human,Cervix,Epithelial,A,24,,ATP,luciferase,35.0,,HeLa
+5856,SiO2,,,,,,,,H,Human,Umbilical cord,Endothelial,E,48,,Alamar blue,Alamar blue,60.0,32.0,HUVEC
+4630,Fe3O4,,PEG to the PEI,,,,,,A,Mouse,,Monocyte/Macrophage,A,24,,Live/Dead,trypan blue,361.4,12.1,RAW 264.7
+4653,Fe3O4,,PEG to the PEI,,,,,,H,Human,,,A,4,,LDH,LDH activity assay kit,361.4,12.1,SH-SY5Y
+1145,Fe3O4,Sphere,OleicAcid,Reverse Microemulsion,Negative,202.7,-11.6,30000.0,H,Human,,,,3,300.0,MTT,TetrazoliumSalt,10.9,-45.4,SHSY5Y
+1627,Au,Sphere,,Chemical Reduction,,,,10000.0,H,Human,Bone,Fibroblast,,24,0.3,NRU,NeutralRed,6.3,,MG-63
+4297,ZnO,,,,,,,,H,Human,Heart,Endothelial,A,12,,LDH,LDH activity assay kit,639.0,,HCMEC
+1037,Au,Rod,Chitosan,Seed-Mediated Growth Method,Positive,,,5000.0,H,Human,Stomach,Epithelial,Adult,24,,MTT,TetrazoliumSalt,,33.23,AGS
+1567,Au,Sphere,GSH,Chemical Reduction,Negative,,,5000.0,A,Mouse,SubcutaneousConnectiveTissue,Fibroblast,,24,10.0,MTT,TetrazoliumSalt,100.0,-58.0,L929
+5212,Co,,,,,,,,A,Mouse,Blood,Monocyte/Macrophage,A,96,,Live/Dead,"Calcein AM, Ethidium homodimer-1",30.0,,RAW 264.7
+1738,SiO2,Sphere,,Soft Templating Method,Negative,,,10000.0,H,Human,Breast,,,96,500.0,MTT,TetrazoliumSalt,120.0,-5.21,MCF-7
+1387,TiO2,Sphere,,Commercial,Negative,,,30000.0,H,Human,Lung,Epithelial,Adult,48,0.1,MTT,TetrazoliumSalt,81.8,-8.6,A549
+1214,Fe3O4,Sphere,Silica,Reverse Microemulsion,Negative,111.1,-10.3,30000.0,H,Human,,,,6,200.0,NRU,NeutralRed,10.0,-31.8,SHSY5Y
+4852,Fe3O4,,PEG,,,,,,A,Canine,Kidney,Epithelial,A,24,,MTT,tetrazolium salt,120.0,,MDCK
+2207,SiO2,Sphere,,Commercial,Negative,14.6,-59.7,,H,Human,Skin,Keratinocyte,Adult,24,5.0,CCK-8,TetrazoliumSalt,15.0,,HaCat
+3582,Ag,Sphere,,Commercial,Negative,68.55,-15.83,10000.0,H,Human,Skin,Keratinocyte,Adult,24,800.0,NRU,NeutralRed,29.57,-33.33,HaCat
+5184,Cr,,,,,,,,A,Mouse,Blood,Monocyte/Macrophage,A,24,,Live/Dead,"Calcein AM, Ethidium homodimer-1",30.0,,RAW 264.7
+5425,Pt,,PVP,,,,,,H,Human,Lung,Fibroblast,A,24,,CellTiterGlo,luciferase,13.5,-8.0,IMR90
+5656,Al2O3,,,,,,,,H,Human,Heart,Endothelial,A,12,,MTT,tetrazolium salt,239.0,,HCMEC
+2273,Au,Sphere,,Commercial,Negative,57.0,-9.84,,H,Human,Liver,Epithelial,Embryonic,72,2.5,MTT,TetrazoliumSalt,50.0,-12.32,L-02
+1874,Ag,Sphere,,Commercial,,,,10000.0,A,Mouse,SubcutaneousConnectiveTissue,Fibroblast,Adult,24,5.0,CCK-8,TetrazoliumSalt,20.0,,L929
+3699,Fe3O4,Sphere,Chitosan,Pyrolysis,Positive,,,100000.0,H,Human,Lung,Epithelial,Adult,24,0.5,MTT,TetrazoliumSalt,8.0,11.0,A549
+2585,Fe3O4,Sphere,PEG,Commercial,Neutral,,,,H,Human,Ovary,Epithelial,Adult,48,6.25,MTS,TetrazoliumSalt,10.0,-0.52,SKOV-3
+242,Ag,Sphere,,Chemical Reduction,Negative,,,20000.0,H,Human,Skin,Epithelial,Adult,24,1.35,MTS,TetrazoliumSalt,36.4,-23.1,KEC
+1196,Fe3O4,Sphere,OleicAcid,Reverse Microemulsion,Negative,202.7,-11.6,30000.0,H,Human,,,,3,5.0,NRU,NeutralRed,10.9,-45.4,SHSY5Y
+3965,Bi2O3,Sphere,,Commercial,,183.0,,,H,Human,Liver,Epithelial,Adult,24,1.0,MTT,TetrazoliumSalt,149.1,,HepG2
+79,SiO2,Sphere,,Commercial,Negative,10.0,,6000.0,A,Mouse,,,,24,1000.0,Live/Dead,CalceinAM,10.0,-27.0,RAW264.7
+3930,Ag,Sphere,PEG,Commercial,Negative,57.7,-6.5,,H,Human,Skin,Keratinocyte,Adult,48,100.0,MTT,TetrazoliumSalt,27.7,-12.1,HaCat
+5129,TiO2,,,,,,,,H,Human,stomach,Epithelial,A,3,,MTS,tetrazolium salt,420.7,-9.96,AGS
+15,SiO2,Sphere,CTAB,Precipitation,Negative,90.09,,5000.0,A,Rat,,,,24,62.5,MTT,TetrazoliumSalt,386.9,-35.9,PC12
+3946,CeO2,Sphere,,Biosynthesis,,,,,H,Human,Colon,Epithelial,Adult,24,200.0,MTT,TetrazoliumSalt,12.5,,HT29
+4964,TiO2,,,,,,,,A,Mouse,Blood,Monocyte/Macrophage,A,24,,LDH,LDH activity assay kit,50.0,,RAW 264.7
+3441,C,Nanotube,,Commercial,Neutral,,,40000.0,H,Human,Umbilical Vein,Endothelial,Embryonic,24,4.0,NRU,NeutralRed,17.6,0.9,HUVEC
+635,Fe3O4,Sphere,PEG-FA,Solvothermal Process,Negative,362.8,-9.4,100000.0,H,Human,,,,48,0.5,MTT,TetrazoliumSalt,326.5,-23.5,SKOV-3
+586,Au,spherical,,Chemical Reduction,,,,50000.0,,,,,,24,0.2,MTT,TetrazoliumSalt,38.0,,MG-63
+2634,Fe3O4,Sphere,,Commercial,Negative,957.0,-8.2,50000.0,H,Human,Heart,Epithelial,Adult,12,0.1,MTT,TetrazoliumSalt,42.5,,HCMEC
+1337,CuO,Sphere,,Commercial,,,,60000.0,H,Human,Liver,Epithelial,Adult,48,10.0,MTT,TetrazoliumSalt,28.0,,HepG2
+144,Bi,Sphere,Silica,Precipitation,,,,20000.0,H,,,,,24,,MTT,TetrazoliumSalt,20.0,,HeLa
+4444,Fe3O4,,Dextran,,,,,,H,Human,Blood,Monocyte,A,72,,NR,neutral red,30.0,,Monocytes
+5888,SiO2,,CTAB,,,,,,A,Rat,,,,12,,MTT,tetrazolium salt,386.9,-35.9,PC12
+2806,TiO2,Irregular,,Commercial,,,,25000.0,A,Hamster,Ovary,Epithelial,Adult,24,5.0,MTT,TetrazoliumSalt,20.0,,CHO-K1
+1463,TiO2,Sphere,,Commercial,,,,15000.0,H,Human,Umbilical Vein,Endothelial,,24,12.5,CCK-8,,30.0,,HUVEC
+96,Fe3O4,Sphere,Dextran,Thermal Decomposition,,,,10000.0,A,,,,,24,500.0,MTT,TetrazoliumSalt,18.0,,VERO
+5113,TiO2,,,,,,,,H,Human,Umbilical cord,Endothelial,E,24,,CytoToxOne,LDH activity assay kit,38.0,,HUVEC
+4780,Fe3O4,,alginate,,,,,,A,Pig,Aorta,Endothelial,A,60,,Alamar blue,Alamar blue,30.0,,PAECs
+2304,Ag,Sphere,,Commercial,Negative,,,5000.0,H,Human,Lung,Epithelial,Adult,24,200.0,MTT,TetrazoliumSalt,65.0,-30.0,A549
+5315,Bi,,silica,,,,,,H,Human,,,A,24,,Live/Dead,"Calcein AM, Ethidium homodimer-1",30.0,,HeLa
+1945,CaHCO3,Sphere,,Sol-Gel Method,,,,100000.0,H,Human,Liver,,,24,200.0,MTT,TetrazoliumSalt,78.0,,HepG2
+291,Au,Sphere,PEG,Chemical Reduction,Negative,,,50000.0,A,Rat,,,,24,,MTT,TetrazoliumSalt,4.6,-7.6,PC12
+3935,Cu,Sphere,AscorbicAcid,Chemical Reduction,Negative,,,10000.0,H,Human,Gingiva,Fibroblast,Adult,24,125.0,MTT,TetrazoliumSalt,250.0,-24.7,HGF
+3542,Ag,Sphere,,Commercial,Negative,68.55,-15.83,10000.0,H,Human,Skin,Keratinocyte,Adult,48,800.0,AlamarBlue,AlamarBlue,29.57,-33.33,HaCat
+1778,SiO2,Sphere,,Soft Templating Method,Negative,61.8,-25.4,6000.0,H,Human,,,,48,100.0,MTT,TetrazoliumSalt,55.6,,HeLa
+1023,Au,Sphere,,Commercial,,125.1,,50000.0,H,Human,Skin,Fibroblast,Adult,72,15.0,MTT,TetrazoliumSalt,90.0,,NHDF
+5563,Cu2O,,,,,,,,H,Human,Blood,Macrophage,A,12,,NR,neutral red,88.5,,PMA activated THP-1
+4897,Fe3O4,,folic acid with intermediate inorganic (silica) coating,,,,,,H,Human,Ovary,Epithelial,A,24,,MTT,tetrazolium salt,274.1,-27.7,SKOV-3
+2005,ZnO,Sphere,,Commercial,Negative,245.0,-15.8,10000.0,H,Human,Skin,Keratinocyte,Adult,6,8.0,MTT,TetrazoliumSalt,,,HEK
+888,Pt,Sphere,,Green Synthesis,Negative,,,10000.0,H,Human,Kidney,Epithelial,Embryonic,48,60.0,NRU,NeutralRed,24.6,-11.0,HEK293
+4081,CaHCO3,Rod,,Surfactant-based Synthesis,Negative,195.0,,50000.0,H,Human,Liver,Epithelial,Adult,24,10.0,CCK-8,TetrazoliumSalt,20.0,-5.3,HepG2
+707,SiO2,Sphere,SodiumAlginate,Hydrolysis,Negative,,,5000.0,H,Human,Colon,Epithelial,Adult,24,50.0,AlamarBlue,AlamarBlue,345.2,-13.0,Caco-2
+2572,Fe3O4,Sphere,PEG,Commercial,Neutral,,,,A,Mouse,Ascites,Monocyte/Macrophage,Adult,48,3.125,MTS,TetrazoliumSalt,30.0,-0.52,RAW264.7
+3616,Ag,Sphere,,Commercial,Negative,65.45,-20.67,10000.0,H,Human,Cervix,Epithelial,Adult,72,20.0,NRU,NeutralRed,29.57,-33.33,HeLa
+3519,Au,Sphere,Citrate,Commercial,Negative,,-28.4,5000.0,H,Human,Skin,Fibroblast,,24,20.0,MTS,TetrazoliumSalt,61.06,-32.7,CCL-110
+3204,C,Sphere,,Commercial,Negative,142.0,-37.4,10000.0,A,Mouse,Skin,Fibroblast,Adult,24,0.1,MTT,TetrazoliumSalt,34.64,,mDF
+682,SiO2,Sphere,,Commercial,Negative,96.0,,10000.0,H,Human,Lung,Epithelial,Adult,72,50.0,MTT,TetrazoliumSalt,15.0,,A549
+5232,Co,,,,,,,,H,Human,Umbilical cord,Endothelial,E,24,,ApoToxTriplex,Caspase-GloReagent,17.0,,HUVEC
+2507,Pt,Sphere,PVP,Chemical Reduction,Negative,,,5000.0,H,Human,Lung,Fibroblast,Adult,48,100.0,CellTiterGlo,LuciferaseEnzyme,4.0,-8.0,IMR90
+1944,CaHCO3,Sphere,,Sol-Gel Method,,,,100000.0,H,Human,Liver,,,24,200.0,MTT,TetrazoliumSalt,45.0,,HepG2
+4219,ZnO,,,,,,,,H,Human,Skin,Epithelial,A,3,,NR,neutral red,165.0,-26.0,A431
+3631,Ag,Sphere,,Commercial,Negative,68.55,-15.83,10000.0,H,Human,Skin,Keratinocyte,Adult,24,1000.0,MTT,TetrazoliumSalt,29.57,-33.33,HaCat
+1892,Ag,Sphere,,Commercial,,,,10000.0,A,Mouse,SubcutaneousConnectiveTissue,Fibroblast,Adult,72,500.0,CCK-8,TetrazoliumSalt,20.0,,L929
+670,Au,Rod,,Commercial,,,,3000.0,A,Porcine,Kidney,Epithelial,,72,1.0,MTS,TetrazoliumSalt,,,PK-15
+2292,Au,Sphere,Citrate,Chemical Reduction,,,,2000.0,H,Human,Lung,Epithelial,Adult,24,50.0,CCK-8,TetrazoliumSalt,40.0,,95D
+3033,Ag,Sphere,Citrate,Commercial,Negative,136.0,-35.0,,H,Human,Lung,Epithelial,Adult,48,10.0,AlamarBlue,AlamarBlue,5.2,,HEBC3-KT
+4704,Fe3O4,,,,,,,,H,Human,Heart,Endothelial,A,24,,MTT,tetrazolium salt,957.0,,HCMEC
+5132,TiO2,,,,,,,,H,Human,stomach,Epithelial,A,3,,MTS,tetrazolium salt,420.7,-9.96,AGS
+8,SiO2,Sphere,CTAB,Precipitation,Negative,90.09,,5000.0,A,Rat,,,,12,500.0,MTT,TetrazoliumSalt,386.9,-35.9,PC12
+1856,SiO2,Sphere,,Sol-Gel Method,,,,,H,Human,Skin,Keratinocyte,Adult,4,200.0,MTT,TetrazoliumSalt,50.0,,HaCat
+6341,Ag,,,,,,,,H,Human,Colon,Epithelial,A,24,,CellTiterBlue,Alamar blue,100.0,,LoVo
+1598,Au,Sphere,,Chemical Reduction,,,,10000.0,H,Human,Bone,Osteoblast,,24,0.6,NRU,NeutralRed,6.3,,hFOB1.19
+3976,Bi2O3,Sphere,,Commercial,,183.0,,,A,Rat,Kidney,Epithelial,Adult,24,50.0,MTT,TetrazoliumSalt,149.1,,NRK-52E
+913,Pt,Sphere,,Biosynthesis,,,,100000.0,H,Human,Blood,Monocyte,,24,125.0,CCK-8,TetrazoliumSalt,1.5,,THP-1
+5172,Ti,,,,,,,,A,Mouse,Blood,Monocyte/Macrophage,A,24,,Live/Dead,"Calcein AM, Ethidium homodimer-1",35.0,,RAW 264.7
+1204,Fe3O4,Sphere,OleicAcid,Reverse Microemulsion,Negative,202.7,-11.6,30000.0,H,Human,,,,3,200.0,NRU,NeutralRed,10.9,-45.4,SHSY5Y
+4922,TiO2,,,,,,,,A,hamster,Ovary,Epithelial,A,24,,NR,neutral red,20.0,,CHO-K1
+4585,Fe3O4,,PEG to the PEI,,,,,,H,Human,,,A,72,,CellTiterBlue,Alamar blue,361.4,12.1,SH-SY5Y
+5560,Cu2O,,,,,,,,H,Human,Blood,Macrophage,A,9,,NR,neutral red,88.5,,PMA activated THP-1
+5487,CaHCO3,,,,,,,,H,Human,Blood,Monocyte/Macrophage,A,24,,Live/Dead,"Calcein AM, Ethidium homodimer-1",50.0,,HMM
+3311,C,Nanotube,,Commercial,Negative,601.7,-13.005,500000.0,A,Rat,Lung,Macrophage,Adult,24,100.0,MTT,TetrazoliumSalt,,,NR8383
+2266,Au,Sphere,,Commercial,Negative,13.5,-5.88,,H,Human,Liver,Epithelial,Embryonic,72,12.5,MTT,TetrazoliumSalt,5.0,-10.33,L-02
+3164,C,Sphere,,Commercial,Negative,,,10000.0,A,Hamster,Lung,Fibroblast,Adult,24,10.0,MTT,TetrazoliumSalt,7.0,-25.0,V79
+3424,C,Nanotube,,Commercial,Negative,205.9,-8.02,40000.0,H,Human,Umbilical Vein,Endothelial,,24,64.0,CCK-8,,21.55,-21.47,HUVEC
+1405,TiO2,Sphere,,Commercial,Negative,,,30000.0,H,Human,Colon,Epithelial,Adult,48,0.1,MTT,TetrazoliumSalt,81.8,-8.6,Caco-2
+6228,Ag,,,,,,,,H,Human,Skin,Keratinocyte,A,24,,NR,neutral red,28.41,-33.33,HaCaT
+6354,Ag,,PVP,,,,,,H,Human,Skin,Epithelial,A,24,,MTS,tetrazolium salt,27.02,-18.4,KEC
+2311,ZnO,Rod,,Commercial,,,,10000.0,A,Mouse,BoneMarrow,Macrophage,Adult,24,10.0,CCK-8,TetrazoliumSalt,173.48,,Ana-1
+1537,Au,Sphere,,Biosynthesis,Negative,,,5000.0,H,Human,Lung,,Adult,24,100.0,MTT,TetrazoliumSalt,6.0,,A549
+1065,Au,Rod,Chitosan,Seed-Mediated Growth Method,Positive,,,5000.0,H,Human,Liver,Epithelial,Adult,24,,MTT,TetrazoliumSalt,,33.23,HepG2
+4690,Fe3O4,,,,,,,,H,Human,Heart,Endothelial,A,12,,MTT,tetrazolium salt,957.0,,HCMEC
+2972,Au,Star,,Chemical Reduction,Negative,206.7,-23.76,5000.0,A,Rat,FatPad,Endothelial,Adult,96,2.0,MTS,TetrazoliumSalt,33.69,-24.52,RFPEC
+728,SiO2,Sphere,Chitosan,Hydrolysis,Positive,,,5000.0,H,Human,Liver,Epithelial,Adult,24,100.0,AlamarBlue,AlamarBlue,578.27,8.0,HepG2
+3494,Au,Rod,,EBPVD,Negative,,-32.8,5000.0,H,Human,Skin,Fibroblast,,24,20.0,MTS,TetrazoliumSalt,65.0,-23.3,CCL-110
+1315,SiO2,Sphere,,Sol-Gel Method,,,,100000.0,H,Human,Umbilical Vein,Endothelial,Embryonic,24,15.0,CVS,CrystalViolet,21.8,,HUVEC
+6076,Au,,,,,,,,H,Human,Kidney,Epithelial,E,48,,WST-1,tetrazolium salt,20.0,,HEK-293
+4693,Fe3O4,,,,,,,,H,Human,Heart,Endothelial,A,12,,MTT,tetrazolium salt,957.0,,HCMEC
+5478,CaHCO3,,,,,,,,H,Human,Blood,Monocyte/Macrophage,A,24,,MTT,tetrazolium salt,49.0,,HMM
+179,Bi,Sphere,NH2,Precipitation,,,,20000.0,H,,,,,96,,Live/Dead,CalceinAM,20.0,,MG-63
+5899,SiO2,,CTAB,,,,,,A,Rat,,,,24,,MTT,tetrazolium salt,386.9,-35.9,PC12
+3101,Ag,Sphere,Citrate-Oligonucleotide,Chemical Reduction,Negative,144.0,-9.0,3000.0,H,Human,Lung,Epithelial,Adult,48,25.0,MTS,,50.0,-30.0,A549
+699,SiO2,Sphere,,Hydrolysis,Negative,,,5000.0,H,Human,Colon,Epithelial,Adult,24,50.0,AlamarBlue,AlamarBlue,289.76,-28.0,Caco-2
+6022,Au,,Citrate and PVP,,,,,,H,Human,Lung,Epithelial,A,24,,MTT,tetrazolium salt,28.18,,A549
+5479,CaHCO3,,,,,,,,H,Human,Blood,Monocyte/Macrophage,A,24,,MTT,tetrazolium salt,49.0,,HMM
+760,SiO2,Sphere,,Sol-Gel Method,Negative,,,50000.0,H,Human,Lung,Epithelial,Adult,24,200.0,MTT,TetrazoliumSalt,100.33,-31.7,A549
+6095,Au,,,,,,,,H,Human,Breast,Epithelial,A,48,,MTT,tetrazolium salt,25.0,,MDA-MB-231
+4733,Fe3O4,,,,,,,,H,Human,Lung,Epithelial,A,24,,LDH,LDH activity assay kit,196.4,,A549
+5665,Al2O3,,,,,,,,H,Human,Heart,Endothelial,A,24,,MTT,tetrazolium salt,239.0,,HCMEC
+5222,Co,,,,,,,,H,Human,Aorta,Endothelial,A,24,,CytoToxOne,LDH activity assay kit,17.0,,HAEC
+3918,Ag,Sphere,PEG,Commercial,Negative,57.7,-6.5,,H,Human,Skin,Keratinocyte,Adult,24,5.0,MTT,TetrazoliumSalt,27.7,-12.1,HaCat
+3984,Bi2O3,Sphere,,Commercial,,183.0,,,H,Human,Colon,Epithelial,Adult,24,75.0,MTT,TetrazoliumSalt,149.1,,Caco-2
+780,SiO2,Sphere,,Sol-Gel Method,Negative,,,50000.0,H,Human,Lung,Epithelial,Adult,72,200.0,MTT,TetrazoliumSalt,100.33,-31.7,A549
+3957,CeO2,Cubic,,Commercial,Negative,245.0,-20.0,30000.0,H,Human,Breast,,,24,25.0,NRU,NeutralRed,25.0,-13.0,MCF-7
+2355,Ni,Sphere,,Commercial,,176.0,,10000.0,H,Human,Lung,Epithelial,Adult,24,25.0,MTT,TetrazoliumSalt,65.17,,A549
+622,Fe3O4,Sphere,PEG-FA,Solvothermal Process,Negative,362.8,-9.4,100000.0,H,Human,,,,24,100.0,MTT,TetrazoliumSalt,326.5,-23.5,SKOV-3
+4812,Fe3O4,,PEG,,,,,,H,Human,Foreskin,Fibroblast,A,29,,MTT,tetrazolium salt,45.0,,hTERT-BJ1
+1096,Ag,Sphere,,Commercial,,,,10000.0,H,Human,Colon,Epithelial,Adult,24,10.0,CCK-8,,90.0,,Caco-2
+980,Au,Sphere,,Commercial,,70.4,,50000.0,H,Human,Skin,Fibroblast,Adult,24,1.0,MTT,TetrazoliumSalt,30.0,,NHDF
+2674,CuO,Sphere,,Commercial,Positive,239.0,42.8,50000.0,H,Human,Heart,Epithelial,Adult,24,20.0,MTT,TetrazoliumSalt,46.3,,HCMEC
+4076,CaHCO3,Rod,,Precipitation,Neutral,116.0,,50000.0,A,Mouse,Ascites,Monocyte/Macrophage,Adult,24,300.0,CCK-8,TetrazoliumSalt,25.0,-0.4,RAW264.7
+5361,Bi,,PEG,,,,,,H,Human,,,A,24,,Live/Dead,"Calcein AM, Ethidium homodimer-1",20.0,,HeLa
+23,SiO2,Sphere,Ph,Precipitation,Negative,135.83,,5000.0,A,Rat,,,,12,15.6,MTT,TetrazoliumSalt,375.4,-26.8,PC12
+4291,ZnO,,,,,,,,H,Human,Heart,Endothelial,A,12,,LDH,LDH activity assay kit,639.0,,HCMEC
+5627,MgO,,,,,,,,H,Human,Heart,Endothelial,A,12,,LDH,LDH activity assay kit,639.0,,HCMEC
+4963,TiO2,,,,,,,,A,Mouse,Blood,Monocyte/Macrophage,A,24,,WST-1,tetrazolium salt,50.0,,RAW 264.7
+3767,NiO,Sphere,,Commercial,,151.0,,10000.0,H,Human,Breast,Epithelial,Adult,24,1.0,NRU,NeutralRed,22.0,,MCF-7
+6017,Au,,Citrate and PVP,,,,,,H,Human,Lung,Epithelial,A,48,,MTT,tetrazolium salt,28.18,,A549
+3502,Au,Rod,,EBPVD,Negative,,-32.8,5000.0,H,Human,Skin,Fibroblast,,96,20.0,MTS,TetrazoliumSalt,65.0,-23.3,CCL-110
+5530,Cu2O,,,,,,,,H,Human,Lung,Epithelial,A,24,,NR,neutral red,88.5,,A549
+608,ZnO,Sph/Tri/Hex,,Biosynthesis,,,,100000.0,H,Human,Blood,,,3,250.0,,TrypanBlue,75.0,,Lymphocyte
+1036,Au,Rod,Chitosan,Seed-Mediated Growth Method,Positive,,,5000.0,H,Human,Stomach,Epithelial,Adult,24,,MTT,TetrazoliumSalt,,33.23,AGS
+2923,Au,Sphere,,Commercial,Negative,102.8,-23.98,5000.0,H,Human,Skin,Fibroblast,Fetus,24,0.4,MTS,TetrazoliumSalt,61.46,-32.66,CCL-110
+5083,TiO2,,,,,,,,H,Human,Blood,Lymphoblast,A,3,,NR,neutral red,100.0,,Lymphocytes
+2547,Pt,Sphere,FA,Chemical Reduction,Negative,,,5000.0,H,Human,Lung,Fibroblast,Adult,24,100.0,CellTiterGlo,LuciferaseEnzyme,12.5,-40.5,IMR90
+5423,Pt,,PVP,,,,,,H,Human,Lung,Fibroblast,A,48,,CellTiterGlo,luciferase,13.5,-8.0,IMR90
+662,Au,Rod,,Commercial,,,,3000.0,A,Mouse,Embryo,Fibroblast,Embryonic,72,0.36,MTS,TetrazoliumSalt,,,NIH3T3
+2531,Pt,Sphere,FA,Chemical Reduction,Negative,,,5000.0,H,Human,Breast,Epithelial,Adult,24,50.0,CellTiterGlo,LuciferaseEnzyme,12.5,-40.5,MCF-7
+4211,ZnO,,,,,,,,H,Human,Skin,Epithelial,A,48,,MTT,tetrazolium salt,165.0,-26.0,A431
+4125,CuO,,,,,,,,H,Human,Lung,Epithelial,A,24,,NR,neutral red,52.51,-39.67,A549
+3179,C,Sphere,Dextran,Commercial,Negative,,,1000000.0,A,Rat,Brain,Fibroblast,Adult,24,50.0,Live/Dead,CalceinAM,30.0,-16.9,C6
+3756,NiO,Sphere,,Commercial,,151.0,,10000.0,H,Human,Breast,Epithelial,Adult,24,10.0,MTT,TetrazoliumSalt,22.0,,MCF-7
+5581,Cu2O,,,,,,,,H,Human,Blood,Macrophage,A,3,,MTT,tetrazolium salt,88.5,,PMA activated THP-1
+3794,Au,Sphere,Citrate,Commercial,Negative,146.1,,6000.0,A,Mouse,Ascites,Monocyte/Macrophage,Adult,48,5.0,Live/Dead,PropidiumIodide,4.7,-57.5,RAW264.7
+3529,Ag,Sphere,,Commercial,Negative,68.55,-15.83,10000.0,H,Human,Skin,Keratinocyte,Adult,24,50.0,AlamarBlue,AlamarBlue,29.57,-33.33,HaCat
+1407,TiO2,Sphere,,Commercial,Negative,,,30000.0,H,Human,Colon,Epithelial,Adult,48,10.0,MTT,TetrazoliumSalt,81.8,-8.6,Caco-2
+5206,Co,,,,,,,,A,Mouse,Blood,Monocyte/Macrophage,A,96,,Live/Dead,"Calcein AM, Ethidium homodimer-1",30.0,,RAW 264.7
+5122,TiO2,,,,,,,,H,Human,Umbilical cord,Endothelial,E,24,,CellTiterGlo,,38.0,,HUVEC
+5170,Ti,,,,,,,,A,Mouse,Blood,Monocyte/Macrophage,A,24,,Live/Dead,"Calcein AM, Ethidium homodimer-1",35.0,,RAW 264.7
+994,Au,Sphere,,Commercial,,125.1,,50000.0,H,Human,Skin,Fibroblast,Adult,24,25.0,MTT,TetrazoliumSalt,90.0,,NHDF
+3045,Au,Sphere,Citrate,Commercial,Negative,300.0,-37.0,,H,Human,Lung,Epithelial,Adult,48,10.0,AlamarBlue,AlamarBlue,49.2,,HEBC3-KT
+711,SiO2,Sphere,,Hydrolysis,Negative,,,5000.0,H,Human,Colon,Epithelial,Adult,48,50.0,AlamarBlue,AlamarBlue,289.76,-28.0,Caco-2
+302,Au,Sphere,PEG,Chemical Reduction,Negative,,,50000.0,A,Mouse,Cerebellum,Neuronal,,24,,MTT,TetrazoliumSalt,4.6,-7.6,C17.2
+1385,TiO2,Sphere,,Commercial,Negative,,,30000.0,H,Human,Lung,Epithelial,Adult,48,60.0,MTT,TetrazoliumSalt,24.59,-14.25,A549
+5238,Co,,,,,,,,H,Human,Umbilical cord,Endothelial,E,24,,CytoToxOne,LDH activity assay kit,17.0,,HUVEC
+4185,CuS,,,,,,,,H,Human,Kidney,,E,48,,WST-1,tetrazolium salt,3.0,,HEK-293
+3656,Ag,Sphere,,Commercial,Negative,65.45,-20.67,10000.0,H,Human,Cervix,Epithelial,Adult,48,20.0,MTT,TetrazoliumSalt,29.57,-33.33,HeLa
+5220,Co,,,,,,,,H,Human,Aorta,Endothelial,A,24,,CytoToxOne,LDH activity assay kit,17.0,,HAEC
+1611,Au,Star,,Chemical Reduction,,,,10000.0,H,Human,Bone,Fibroblast,,24,5.0,MTT,TetrazoliumSalt,215.0,,MG-63
+4980,TiO2,,,,,,,,H,Human,Colon,Epithelial,A,24,,Live/Dead,Annexin V,115.0,,Caco-2
+5094,TiO2,,,,,,,,H,Human,Aorta,Endothelial,A,24,,CytoToxOne,LDH activity assay kit,38.0,,HAEC
+92,Fe3O4,Sphere,Dextran,Thermal Decomposition,,,,10000.0,A,,,,,24,100.0,MTT,TetrazoliumSalt,18.0,,VERO
+4656,Fe3O4,,PEG to the PEI,,,,,,H,Human,,,A,24,,LDH,LDH activity assay kit,361.4,12.1,SH-SY5Y
+1801,SiO2,Sphere,DPPC,Sol-Gel Method,Negative,,,40000.0,H,Human,RespiratoryTract,Epithelial,Adult,24,16.0,CCK-8,TetrazoliumSalt,19.4,-13.5,16HBE
+5408,Pt,,PVP,,,,,,H,Human,Breast,Epithelial,A,48,,CellTiterGlo,luciferase,13.5,-8.0,MCF7
+1798,SiO2,Sphere,DPPC,Sol-Gel Method,Negative,,,40000.0,H,Human,Lung,Epithelial,Adult,24,64.0,CCK-8,TetrazoliumSalt,19.4,-13.5,A549
+3704,Fe3O4,Sphere,Chitosan,Pyrolysis,Positive,,,100000.0,H,Human,Lung,Epithelial,Adult,48,4.0,MTT,TetrazoliumSalt,8.0,11.0,A549
+640,Fe3O4,Sphere,PEG-FA,Solvothermal Process,Negative,362.8,-9.4,100000.0,H,Human,,,,48,100.0,MTT,TetrazoliumSalt,326.5,-23.5,SKOV-3
+3236,Fe3O4,Sphere,,Commercial,Negative,316.6,-18.4,10000.0,A,Mouse,Skin,Fibroblast,Adult,24,10.0,MTT,TetrazoliumSalt,28.33,,mDF
+4830,Fe3O4,,,,,,,,H,Human,Bone Marrow,Epithelial,A,48,,MTS,tetrazolium salt,13.5,,SH-SY5Y
+1641,Au,Star,,Chemical Reduction,,,,10000.0,H,Human,Bone,Mixed,,24,5.0,MTT,TetrazoliumSalt,215.0,,143B
+1500,Au,Sphere,MSA,Chemical Reduction,Negative,,,100000.0,H,Human,Embryo,Spindle,Embryonic,24,1.0,MTT,TetrazoliumSalt,1.5,,WA09
+1516,Au,Sph/Hex/Ova,Citrate,Chemical Reduction,,,,5000.0,H,Human,Kidney,,Embryonic,24,50.0,MTT,TetrazoliumSalt,12.5,,HEK293
+1731,SiO2,Sphere,COOH,Soft Templating Method,Negative,,,10000.0,H,Human,,,,96,50.0,MTT,TetrazoliumSalt,120.0,-28.7,A2780
+5353,Bi,,NH2,,,,,,H,Human,,,A,96,,Live/Dead,"Calcein AM, Ethidium homodimer-1",20.0,,HeLa
+4158,CuO,,,,,,,,H,Human,,Endothelial,A,24,,LDH,LDH activity assay kit,239.0,,HCMEC
+3118,Ag,Sphere,Citrate-Lactose,Chemical Reduction,Negative,130.0,-9.0,3000.0,H,Human,Lung,Epithelial,Adult,72,50.0,MTS,,50.0,-31.0,A549
+4945,TiO2,,,,,,,,H,Human,Skin,Epithelial,A,24,,NR,neutral red,124.9,-17.6,A431
+6235,Ag,,,,,,,,H,Human,Cervix,Epithelial,A,48,,NR,neutral red,28.41,-33.33,HeLa
+5297,Bi,,,,,,,,H,Human,,,A,24,,Live/Dead,"Calcein AM, Ethidium homodimer-1",20.0,,MG-63
+5225,Co,,,,,,,,H,Human,Aorta,Endothelial,A,24,,CellTiterGlo,,17.0,,HAEC
+6337,Ag,,,,,,,,H,Human,Colon,Epithelial,A,48,,CellTiterBlue,Alamar blue,60.0,,LoVo
+4818,Fe3O4,,dimercaptosuccinic,,,,,,A,Rat,Adrenal gland,Irregular,A,48,,Live/Dead,"Calcein AM, Ethidium homodimer-1",8.5,,PC12
+5105,TiO2,,,,,,,,H,Human,Umbilical cord,Endothelial,E,24,,ApoToxTriplex,Caspase-GloReagent,38.0,,HUVEC
+5507,CaHCO3,,,,,,,,H,Human,liver,Epithelial,A,48,,MTT,tetrazolium salt,78.0,,HepG2
+4856,Fe3O4,,Dextran,,,,,,A,Monkey (Cercopithecus aethiops),kidney,Epithelial,A,24,,MTT,tetrazolium salt,170.0,,VERO
+3931,Cu,Sphere,AscorbicAcid,Chemical Reduction,Negative,,,10000.0,H,Human,Gingiva,Fibroblast,Adult,24,7.8125,MTT,TetrazoliumSalt,250.0,-24.7,HGF
+4451,Fe3O4,,Dextran,,,,,,H,Human,Blood,Monocyte,A,72,,MTT,tetrazolium salt,30.0,,Monocytes
+3412,C,Nanotube,COOH,Chemical Vapor Deposition,Negative,50.4,,12000.0,H,Human,Lung,Epithelial,Adult,24,50.0,MTS,,50.0,-11.0,A549
+1100,Ag,Sphere,,Commercial,,,,10000.0,H,Human,Colon,Epithelial,Adult,24,200.0,CCK-8,,90.0,,Caco-2
+1521,Au,Sphere,,Biosynthesis,Negative,,,5000.0,H,Human,Lung,,Adult,24,100.0,MTT,TetrazoliumSalt,6.0,,H1299
+4813,Fe3O4,,PEG,,,,,,H,Human,Foreskin,Fibroblast,A,30,,MTT,tetrazolium salt,45.0,,hTERT-BJ1
+6001,Au,,Citrate and PVP,,,,,,H,Human,Lung,Epithelial,A,24,,MTT,tetrazolium salt,27.17,,NCIH441
+5942,Au,,PEG-OCH3,,,,,,A,Mouse,axillary lymph node,Endothelial,A,72,,ATPLite,luciferase,40.0,,SVEC4-10
+3253,C,Sphere,,Commercial,Negative,142.0,-37.4,10000.0,H,Human,Teeth,Fibroblast,Adult,24,100.0,MTT,TetrazoliumSalt,34.64,,hPDLF
+4340,ZnO,,,,,,,,H,Human,Blood,,A,24,,,propidium iodide,8.0,,CD4+T cells
+4680,Fe3O4,,PEG to the PEI,,,,,,A,Mouse,,Monocyte/Macrophage,A,24,,LDH,LDH activity assay kit,361.4,12.1,RAW 264.7
+252,Ag,Sphere,PVP,Chemical Reduction,Negative,,,20000.0,H,Human,Skin,Epithelial,Adult,24,5.39,MTS,TetrazoliumSalt,36.4,-18.4,KEC
+1221,Fe3O4,Sphere,OleicAcid,Reverse Microemulsion,Negative,202.7,-11.6,30000.0,H,Human,,,,6,100.0,NRU,NeutralRed,10.9,-45.4,SHSY5Y
+5655,Al2O3,,,,,,,,H,Human,Heart,Endothelial,A,12,,MTT,tetrazolium salt,239.0,,HCMEC
+4565,Fe3O4,,PEI,,,,,,A,Mouse,,Monocyte/Macrophage,A,4,,LDH,LDH activity assay kit,145.8,17.7,RAW 264.7
+4383,ZnO,,l-cysteine l-lysine l-lysine,,,,,,H,Human,Colon,Epithelial,A,24,,CellTiterBlue,Alamar blue,20.0,,Caco-2
+6320,Ag,,,,,,,,H,Human,Colon,Epithelial,A,48,,CellTiterBlue,Alamar blue,20.0,,LoVo
+1491,Au,Sphere,Citrate,Chemical Reduction,Negative,21.2,,100000.0,H,Human,Embryo,Spindle,Embryonic,24,10.0,MTT,TetrazoliumSalt,13.6,,WA09
+4123,CuO,,,,,,,,H,Human,Lung,Epithelial,A,24,,NR,neutral red,52.51,-39.67,A549
+1881,Ag,Sphere,,Commercial,,,,10000.0,A,Mouse,SubcutaneousConnectiveTissue,Fibroblast,Adult,48,0.5,CCK-8,TetrazoliumSalt,20.0,,L929
+1657,Au,Sphere,,Chemical Reduction,,,,10000.0,H,Human,Bone,Mixed,,24,0.3,NRU,NeutralRed,6.3,,143B
+1717,Ag,Wire,,Commercial,Negative,,-0.25,10000.0,A,Mouse,,Macrophage,,24,20.0,MTS,,100.0,-1.46,J774A.1
+1505,Au,Sphere,,Biosynthesis,Negative,,,5000.0,H,Human,,,,24,100.0,MTT,TetrazoliumSalt,6.0,,HeLa
+3988,Bi2O3,Sphere,,Commercial,,183.0,,,H,Human,Lung,Epithelial,Adult,24,10.0,MTT,TetrazoliumSalt,149.1,,A549
+1364,TiO2,Sphere,,Commercial,Negative,434.1,-7.83,10000.0,H,Human,Lung,Epithelial,Adult,6,100.0,MTT,TetrazoliumSalt,25.0,,A549
+5643,Al2O3,,,,,,,,A,hamster,Ovary,Epithelial,A,24,,NR,neutral red,28.0,,CHO-K1
+5248,Co,,,,,,,,H,Human,Umbilical cord,Endothelial,E,24,,CellTiterGlo,,17.0,,HUVEC
+2681,ZnO,Sphere,,Commercial,Positive,310.0,32.7,50000.0,H,Human,Heart,Epithelial,Adult,24,5.0,MTT,TetrazoliumSalt,45.3,,HCMEC
+742,SiO2,Sphere,Chitosan,Hydrolysis,Positive,,,5000.0,H,Human,Liver,Epithelial,Adult,48,500.0,AlamarBlue,AlamarBlue,578.27,8.0,HepG2
+1713,Ag,Wire,,Commercial,Negative,,-0.32,10000.0,A,Mouse,,Macrophage,,24,50.0,MTS,,50.0,-2.49,J774A.1
+5628,MgO,,,,,,,,H,Human,Heart,Endothelial,A,12,,LDH,LDH activity assay kit,639.0,,HCMEC
+5931,SiO2,,NH2,,,,,,A,Rat,,,,24,,MTT,tetrazolium salt,437.0,21.7,PC12
+3231,Fe3O4,Sphere,,Commercial,Negative,316.6,-18.4,10000.0,A,Mouse,Skin,Fibroblast,Adult,6,10.0,MTT,TetrazoliumSalt,28.33,,mDF
+2574,Fe3O4,Sphere,PEG,Commercial,Neutral,,,,A,Mouse,Ascites,Monocyte/Macrophage,Adult,48,12.5,MTS,TetrazoliumSalt,30.0,-0.52,RAW264.7
+4047,C,Nanotube,,Chemical Vapor Deposition,Negative,,-15.53,10000.0,A,Rat,Adrenal Gland,Irregular,Adult,24,0.1,XTT,TetrazoliumSalt,1.15,,PC12
+3465,C,Sphere,,Explosion,Positive,,,10000.0,H,Human,Brain,,,24,20.0,MTT,TetrazoliumSalt,4.0,31.4,U87
+3662,Ag,Sphere,,Commercial,Negative,65.45,-20.67,10000.0,H,Human,Cervix,Epithelial,Adult,48,200.0,MTT,TetrazoliumSalt,29.57,-33.33,HeLa
+260,TiO2,,,Commercial,Negative,171.4,-11.5,10000.0,H,Human,Skin,Epithelial,,6,0.8,MTT,TetrazoliumSalt,124.9,-17.6,A431
+1797,SiO2,Sphere,DPPC,Sol-Gel Method,Negative,,,40000.0,H,Human,Lung,Epithelial,Adult,24,32.0,CCK-8,TetrazoliumSalt,19.4,-13.5,A549
+6000,Au,,Citrate and PVP,,,,,,H,Human,Lung,Epithelial,A,72,,MTT,tetrazolium salt,27.17,,NCIH441
+604,ZnO,Sph/Tri/Hex,,Biosynthesis,,,,100000.0,H,Human,Blood,,,3,250.0,MTT,TetrazoliumSalt,75.0,,Lymphocyte
+2204,ZnO,Sphere,,Commercial,,222.0,,10000.0,H,Human,Liver,Epithelial,Adult,24,40.0,MTT,TetrazoliumSalt,200.0,,HepG2
+4412,ZnO,,,,,,,,H,Human,Brain,Epithelial,A,48,,MTS,tetrazolium salt,60.0,,H4
+2620,CuO,Sphere,,Commercial,Positive,239.0,42.8,50000.0,H,Human,Heart,Epithelial,Adult,12,20.0,MTT,TetrazoliumSalt,46.3,,HCMEC
+915,Pt,Sphere,Citrate,Commercial,Negative,112.4,-12.2,30000.0,H,Human,Liver,,,24,5.0,MTS,TetrazoliumSalt,68.3,-40.6,HepG2
+1185,Fe3O4,Sphere,OleicAcid,Reverse Microemulsion,Negative,202.7,-11.6,30000.0,H,Human,,,,24,300.0,MTT,TetrazoliumSalt,10.9,-45.4,SHSY5Y
+3402,C,Nanotube,COOH,Chemical Vapor Deposition,Negative,16.3,,12000.0,H,Human,Lung,Epithelial,Adult,24,200.0,MTS,,8.0,-9.64,A549
+1548,Ag,Sphere,CYS,Chemical Reduction,Negative,,,5000.0,A,,,Fibroblast,,24,50.0,MTT,TetrazoliumSalt,8.0,-56.9,L929
+5564,Cu2O,,,,,,,,H,Human,Blood,Macrophage,A,24,,NR,neutral red,88.5,,PMA activated THP-1
+5209,Co,,,,,,,,A,Mouse,Blood,Monocyte/Macrophage,A,96,,Live/Dead,"Calcein AM, Ethidium homodimer-1",30.0,,RAW 264.7
+2306,Ag,Sphere,,Commercial,Negative,,,5000.0,H,Human,Lung,Epithelial,Adult,48,50.0,MTT,TetrazoliumSalt,65.0,-30.0,A549
+4626,Fe3O4,,PEG to the PEI,,,,,,A,Mouse,,Monocyte/Macrophage,A,24,,Live/Dead,trypan blue,361.4,12.1,RAW 264.7
+1474,C,Nanotube,COOH,Oxidation/Sonication,,128.5,,15000.0,H,Human,Umbilical Vein,Endothelial,,24,7.5,CCK-8,,,,HUVEC
+6080,Au,,Star anise,,,,,,H,Human,Lung,Epithelial,A,48,,ApoToxTriplex,Caspase-GloReagent,35.0,,A549
+1053,Au,Rod,Chitosan,Seed-Mediated Growth Method,Positive,,,5000.0,H,Human,Cervix,Epithelial,Adult,24,,MTT,TetrazoliumSalt,,33.23,HeLa
+119,Bi,Sphere,,Precipitation,,,,20000.0,H,,,,,24,,MTT,TetrazoliumSalt,20.0,,HeLa
+4411,ZnO,,,,,,,,H,Human,Bone Marrow,Epithelial,A,48,,MTS,tetrazolium salt,60.0,,SH-SY5Y
+29,SiO2,Sphere,Ph,Precipitation,Negative,135.83,,5000.0,A,Rat,,,,12,1000.0,MTT,TetrazoliumSalt,375.4,-26.8,PC12
+1192,Fe3O4,Sphere,Silica,Reverse Microemulsion,Negative,111.1,-10.3,30000.0,H,Human,,,,3,150.0,NRU,NeutralRed,10.0,-31.8,SHSY5Y
+1253,ZnO,,,Commercial,Negative,273.4,-11.7,350000.0,H,Human,,,,3,80.0,MTT,TetrazoliumSalt,100.0,-8.23,SHSY5Y
+251,Ag,Sphere,PVP,Chemical Reduction,Negative,,,20000.0,H,Human,Skin,Epithelial,Adult,24,2.7,MTS,TetrazoliumSalt,36.4,-18.4,KEC
+6058,Au,,Starch,,,,,,H,Human,Ovary,Epithelial,A,60,,NR,neutral red,21.0,,CHO22
+5230,Co,,,,,,,,H,Human,Aorta,Endothelial,A,24,,CellTiterGlo,,17.0,,HAEC
+2966,Au,Star,,Chemical Reduction,Negative,206.7,-23.76,5000.0,A,Rat,FatPad,Endothelial,Adult,24,20.0,MTS,TetrazoliumSalt,33.69,-24.52,RFPEC
+2497,Pt,Sphere,PVP,Chemical Reduction,Negative,,,5000.0,H,Human,Breast,Epithelial,Adult,72,100.0,CellTiterGlo,LuciferaseEnzyme,4.0,-8.0,MCF-7
+5993,Au,,Citrate and PVP,,,,,,H,Human,Lung,Epithelial,A,48,,MTT,tetrazolium salt,27.17,,A549
+4941,TiO2,,,,,,,,H,Human,Skin,Epithelial,A,6,,MTT,tetrazolium salt,124.9,-17.6,A431
+4086,CaHCO3,Rod,,Precipitation,Negative,109.0,,50000.0,H,Human,Liver,Epithelial,Adult,24,100.0,CCK-8,TetrazoliumSalt,30.0,-5.7,HepG2
+5861,SiO2,,,,,,,,H,Human,Umbilical cord,Endothelial,E,96,,Alamar blue,Alamar blue,60.0,32.0,HUVEC
+6088,Au,,Citrate,,,,,,H,Human,Lung,Epithelial,A,48,,ApoToxTriplex,Caspase-GloReagent,35.0,,A549
+1258,ZnO,,,Commercial,Negative,273.4,-11.7,350000.0,H,Human,,,,6,30.0,MTT,TetrazoliumSalt,100.0,-8.23,SHSY5Y
+2657,MgO,Sphere,,Commercial,Positive,639.0,11.6,50000.0,H,Human,Heart,Epithelial,Adult,24,50.0,MTT,TetrazoliumSalt,39.2,,HCMEC
+4735,Fe3O4,,,,,,,,H,Human,Lung,Epithelial,A,24,,Live/Dead,"propidium iodide, Annexin V",196.4,,A549
+1999,ZnO,Sphere,,Commercial,,56.53,,5000.0,H,Human,Lung,Epithelial,Adult,24,5.0,CCK-8,TetrazoliumSalt,30.0,,A549
+2247,Au,Sphere,,Commercial,Negative,13.5,-5.88,,H,Human,Liver,Epithelial,Adult,72,1.67,MTT,TetrazoliumSalt,5.0,-10.33,HepG2
+4155,CuO,,,,,,,,H,Human,,Endothelial,A,24,,LDH,LDH activity assay kit,239.0,,HCMEC
+1486,Au,Sphere,MSA,Chemical Reduction,Negative,,,,H,Human,Embryo,Spindle,Embryonic,24,10.0,Live/Dead,TrypanBlue,1.5,,WA09
+1699,Ag,Wire,,Commercial,Negative,,-0.87,10000.0,A,Mouse,,Macrophage,,24,2.0,MTS,,30.0,-3.85,J774A.1
+6266,Ag,,,,,,,,H,Human,Skin,Keratinocyte,A,72,,MTT,tetrazolium salt,28.41,-33.33,HaCaT
+1541,Au,Sph/Hex/Ova,Citrate,Chemical Reduction,,,,5000.0,H,Human,Lung,,Adult,24,100.0,MTT,TetrazoliumSalt,12.5,,A549
+1469,TiO2,Sphere,,Commercial,,,,15000.0,H,Human,Umbilical Vein,Endothelial,,24,50.0,CCK-8,,80.0,,HUVEC
+2977,Au,Star,,Chemical Reduction,Negative,206.7,-23.76,5000.0,A,Rat,FatPad,Endothelial,Adult,96,400.0,MTS,TetrazoliumSalt,33.69,-24.52,RFPEC
+1926,CaHCO3,Rod,,Precipitation,,567.86,,,H,Human,BoneMarrow,,,72,5.0,CCK-8,,,,hMSC
+2642,Fe3O4,Sphere,,Commercial,Positive,1025.0,1.7,50000.0,H,Human,Heart,Epithelial,Adult,12,0.01,MTT,TetrazoliumSalt,46.8,,HCMEC
+5867,SiO2,,,,,,,,H,Human,Umbilical cord,Endothelial,E,96,,Alamar blue,Alamar blue,60.0,-30.0,HUVEC
+1456,SiO2,Sphere,,Commercial,,,,15000.0,H,Human,Umbilical Vein,Endothelial,,24,25.0,CCK-8,,100.0,,HUVEC
+4665,Fe3O4,,PEG to the PEI,,,,,,H,Human,,,A,72,,LDH,LDH activity assay kit,361.4,12.1,SH-SY5Y
+5164,TiO2,,,,,,,,H,Human,stomach,Epithelial,A,24,,MTS,tetrazolium salt,160.5,-27.8,AGS
+4417,ZnO,,,,,,,,H,Human,Bone Marrow,Epithelial,A,48,,Live/Dead,"Calcein AM, Ethidium homodimer-1",60.0,,SH-SY5Y
+1127,Fe3O4,Sphere,Silica,Reverse Microemulsion,Negative,111.1,-10.3,30000.0,H,Human,,,,3,10.0,MTT,TetrazoliumSalt,10.0,-31.8,SHSY5Y
+660,Au,Rod,,Commercial,,,,3000.0,A,Mouse,Embryo,Fibroblast,Embryonic,72,0.72,MTS,TetrazoliumSalt,,,NIH3T3
+4788,Fe3O4,,alginate,,,,,,A,Pig,Aorta,Endothelial,A,144,,Alamar blue,Alamar blue,30.0,,PAECs
+1178,Fe3O4,Sphere,OleicAcid,Reverse Microemulsion,Negative,202.7,-11.6,30000.0,H,Human,,,,24,25.0,MTT,TetrazoliumSalt,10.9,-45.4,SHSY5Y
+2032,TiO2,Sphere,,Commercial,Negative,,,10000.0,H,Human,Stomach,Epithelial,Adult,24,20.0,MTS,TetrazoliumSalt,25.0,-9.96,AGS
+1099,Ag,Sphere,,Commercial,,,,10000.0,H,Human,Colon,Epithelial,Adult,24,100.0,CCK-8,,90.0,,Caco-2
+5359,Bi,,PEG,,,,,,H,Human,,,A,24,,Live/Dead,"Calcein AM, Ethidium homodimer-1",20.0,,HeLa
+5570,Cu2O,,,,,,,,H,Human,Blood,Macrophage,A,24,,NR,neutral red,88.5,,PMA activated THP-1
+2687,Fe3O4,Sphere,,Commercial,Negative,957.0,-8.2,50000.0,H,Human,Heart,Epithelial,Adult,24,0.01,MTT,TetrazoliumSalt,42.5,,HCMEC
+714,SiO2,Sphere,,Hydrolysis,Negative,,,5000.0,H,Human,Colon,Epithelial,Adult,48,500.0,AlamarBlue,AlamarBlue,289.76,-28.0,Caco-2
+169,Bi,Sphere,,Precipitation,,,,20000.0,H,,,,,96,,Live/Dead,CalceinAM,20.0,,MG-63
+65,SiO2,Sphere,,Commercial,Negative,10.0,,2600.0,A,Mouse,,,,24,10.0,XTT,TetrazoliumSalt,10.0,-27.0,RAW264.7
+1939,CaHCO3,Sphere,,Sol-Gel Method,,,,100000.0,H,Human,Liver,,,48,200.0,MTT,TetrazoliumSalt,26.0,,L-02
+257,Ag,Sphere,PVP,Chemical Reduction,Negative,,,20000.0,H,Human,Skin,Epithelial,Adult,48,13.48,MTS,TetrazoliumSalt,36.4,-18.4,KEC
+1168,Fe3O4,Sphere,Silica,Reverse Microemulsion,Negative,111.1,-10.3,30000.0,H,Human,,,,24,25.0,MTT,TetrazoliumSalt,10.0,-31.8,SHSY5Y
+2251,Au,Sphere,,Commercial,Negative,13.5,-5.88,,H,Human,Liver,Epithelial,Adult,72,12.5,MTT,TetrazoliumSalt,5.0,-10.33,HepG2
+2839,TiO2,Sphere,,Commercial,,163.4,,10000.0,H,Human,Lung,Fibroblast,Fetus,48,250.0,MTT,TetrazoliumSalt,21.0,,HFL1
+1786,SiO2,Sphere,,Sol-Gel Method,Negative,,,40000.0,H,Human,Lung,Epithelial,Adult,24,64.0,CCK-8,TetrazoliumSalt,19.4,-21.77,A549
+1031,Au,Star,Chitosan,Green Synthesis,Positive,,,5000.0,H,Human,Stomach,Epithelial,Adult,24,,MTT,TetrazoliumSalt,99.0,47.44,AGS
+2071,MgO,Sphere,,Sol-Gel Method,Negative,,,100000.0,A,Mouse,Embryo,Fibroblast,Embryonic,24,800.0,MTT,TetrazoliumSalt,47.9,-7.01,3T3-L1
+985,Au,Sphere,,Commercial,,96.3,,50000.0,H,Human,Skin,Fibroblast,Adult,24,1.0,MTT,TetrazoliumSalt,50.0,,NHDF
+5974,Au,,PVP,,,,,,H,Human,Lung,Epithelial,A,24,,MTT,tetrazolium salt,21.2,,NCIH441
+3495,Au,Rod,,EBPVD,Negative,,-32.8,5000.0,H,Human,Skin,Fibroblast,,24,40.0,MTS,TetrazoliumSalt,65.0,-23.3,CCL-110
+3303,C,Nanotube,,Commercial,Negative,601.7,-13.005,500000.0,A,Rat,Lung,Macrophage,Adult,4,25.0,MTT,TetrazoliumSalt,,,NR8383
+1868,Ag,Sphere,,Chemical Reduction,Negative,43.9,-16.2,10000.0,A,Mouse,Ascites,Macrophage,Adult,72,100.0,MTT,TetrazoliumSalt,,,J774A.1
+4906,Fe3O4,,folic acid with intermediate inorganic (silica) coating,,,,,,H,Human,Ovary,Epithelial,A,48,,MTT,tetrazolium salt,274.1,-27.7,SKOV-3
+5375,Bi,,PEG,,,,,,H,Human,,,A,96,,Live/Dead,"Calcein AM, Ethidium homodimer-1",20.0,,HeLa
+3929,Ag,Sphere,PEG,Commercial,Negative,57.7,-6.5,,H,Human,Skin,Keratinocyte,Adult,48,75.0,MTT,TetrazoliumSalt,27.7,-12.1,HaCat
+2254,Au,Sphere,,Commercial,Negative,26.5,-4.46,,H,Human,Liver,Epithelial,Adult,72,5.0,MTT,TetrazoliumSalt,20.0,-4.58,HepG2
+1712,Ag,Wire,,Commercial,Negative,,-0.32,10000.0,A,Mouse,,Macrophage,,24,20.0,MTS,,50.0,-2.49,J774A.1
+3538,Ag,Sphere,,Commercial,Negative,68.55,-15.83,10000.0,H,Human,Skin,Keratinocyte,Adult,48,100.0,AlamarBlue,AlamarBlue,29.57,-33.33,HaCat
+1477,C,Nanotube,COOH,Oxidation/Sonication,,128.5,,15000.0,H,Human,Umbilical Vein,Endothelial,,24,60.0,CCK-8,,,,HUVEC
+4822,Fe3O4,,dimercaptosuccinic,,,,,,A,Rat,Adrenal gland,Irregular,A,96,,Live/Dead,"Calcein AM, Ethidium homodimer-1",8.5,,PC12
+163,Bi,Sphere,,Precipitation,,,,20000.0,H,,,,,72,,Live/Dead,CalceinAM,20.0,,HeLa
+4336,ZnO,,,,,,,,H,Human,Blood,,A,24,,,propidium iodide,8.0,,CD3+ T cells
+2035,TiO2,Sphere,,Commercial,Negative,,,10000.0,H,Human,Stomach,Epithelial,Adult,24,80.0,MTS,TetrazoliumSalt,25.0,-9.96,AGS
+4048,C,Nanotube,,Chemical Vapor Deposition,Negative,,-15.53,10000.0,A,Rat,Adrenal Gland,Irregular,Adult,24,1.0,XTT,TetrazoliumSalt,1.15,,PC12
+5620,MgO,,,,,,,,H,Human,Heart,Endothelial,A,24,,MTT,tetrazolium salt,639.0,,HCMEC
+1897,Ag,Sphere,,Commercial,,,,10000.0,A,Mouse,SubcutaneousConnectiveTissue,Fibroblast,Adult,24,0.5,CCK-8,TetrazoliumSalt,100.0,,L929
+972,ZnO,Sphere,,Commercial,,404.0,,60000.0,A,Rabbit,Cornea,,,9,50.0,MTT,TetrazoliumSalt,141.0,,SIRC
+4554,Fe3O4,,PEI,,,,,,H,Human,,,A,72,,LDH,LDH activity assay kit,145.8,17.7,SH-SY5Y
+3551,Ag,Sphere,,Commercial,Negative,68.55,-15.83,10000.0,H,Human,Skin,Keratinocyte,Adult,72,1000.0,AlamarBlue,AlamarBlue,29.57,-33.33,HaCat
+6246,Ag,,,,,,,,H,Human,Cervix,Epithelial,A,24,,NR,neutral red,28.41,-33.33,HeLa
+4240,ZnO,,,,,,,,A,Mouse,Blood,Monocyte/Macrophage,A,24,,WST-1,tetrazolium salt,10.0,,RAW 264.7
+2194,ZnO,Sphere,,Commercial,,37.77,,10000.0,H,Human,Liver,Epithelial,Adult,24,160.0,MTT,TetrazoliumSalt,20.0,,HepG2
+754,SiO2,Sphere,,Sol-Gel Method,Negative,,,50000.0,H,Human,Lung,Epithelial,Adult,24,100.0,MTT,TetrazoliumSalt,59.72,-38.1,A549
+3759,NiO,Sphere,,Commercial,,151.0,,10000.0,H,Human,Breast,Epithelial,Adult,24,100.0,MTT,TetrazoliumSalt,22.0,,MCF-7
+827,SiO2,Sphere,,Sol-Gel Method,Negative,,,50000.0,H,Human,Liver,Epithelial,Adult,24,10.0,MTT,TetrazoliumSalt,21.06,-24.5,HepG2
+4370,ZnO,,,,,,,,H,Human,Blood,,A,3,,MTT,tetrazolium salt,75.0,,Lymphocytes
+823,SiO2,Sphere,,Sol-Gel Method,Negative,,,50000.0,A,Mouse,Embryo,Fibroblast,Embryonic,72,50.0,MTT,TetrazoliumSalt,199.89,-36.3,NIH3T3
+2080,MgO,Rod,,Sol-Gel Method,Negative,,,100000.0,A,Mouse,Embryo,Fibroblast,Embryonic,24,600.0,MTT,TetrazoliumSalt,12.0,-9.83,3T3-L1
+2036,TiO2,Sphere,,Commercial,Negative,,,10000.0,H,Human,Stomach,Epithelial,Adult,24,100.0,MTS,TetrazoliumSalt,25.0,-9.96,AGS
+1559,Au,Sphere,CYS,Chemical Reduction,Negative,,,5000.0,A,,,Fibroblast,,24,5.0,MTT,TetrazoliumSalt,100.0,-46.8,L929
+1561,Au,Sphere,CYS,Chemical Reduction,Negative,,,5000.0,A,,,Fibroblast,,24,25.0,MTT,TetrazoliumSalt,100.0,-46.8,L929
+5278,MnO,,,,,,,,A,Human,,Endothelial,A,24,,ATPLite,,10.0,,HMEC-1
+4859,Fe3O4,,Dextran,,,,,,A,Monkey (Cercopithecus aethiops),kidney,Epithelial,A,24,,MTT,tetrazolium salt,170.0,,VERO
+3170,C,Sphere,Dextran,Commercial,Negative,,,10000.0,A,Rat,Brain,Fibroblast,Adult,24,50.0,MTT,TetrazoliumSalt,30.0,-16.9,C6
+2077,MgO,Hexagon,,Sol-Gel Method,Negative,,,100000.0,A,Mouse,Embryo,Fibroblast,Embryonic,24,1000.0,MTT,TetrazoliumSalt,43.8,-7.21,3T3-L1
+5651,Al2O3,,,,,,,,H,Human,Heart,Endothelial,A,12,,MTT,tetrazolium salt,239.0,,HCMEC
+1578,Au,Star,,Chemical Reduction,,,,10000.0,H,Human,Bone,Osteoblast,,24,0.6,MTT,TetrazoliumSalt,215.0,,hFOB1.19
+5256,Co3O4,,,,,,,,H,Human,Lung,Epithelial,A,24,,CellTiterGlo,luciferase,200.0,,BEAS-2B
+1949,CaHCO3,Sphere,,Sol-Gel Method,,,,100000.0,H,Human,Liver,,,48,200.0,MTT,TetrazoliumSalt,78.0,,HepG2
+5178,Ti,,,,,,,,A,Mouse,Blood,Monocyte/Macrophage,A,96,,Live/Dead,"Calcein AM, Ethidium homodimer-1",35.0,,RAW 264.7
+2294,Au,Sphere,Citrate,Chemical Reduction,,,,2000.0,H,Human,Lung,Epithelial,Adult,48,50.0,CCK-8,TetrazoliumSalt,10.0,,95D
+263,TiO2,,,Commercial,Negative,171.4,-11.5,10000.0,H,Human,Skin,Epithelial,,24,0.008,MTT,TetrazoliumSalt,124.9,-17.6,A431
+4544,Fe3O4,,PEI,,,,,,H,Human,,,A,4,,LDH,LDH activity assay kit,145.8,17.7,SH-SY5Y
+3669,Ag,Sphere,,Commercial,Negative,65.45,-20.67,10000.0,H,Human,Cervix,Epithelial,Adult,72,150.0,MTT,TetrazoliumSalt,29.57,-33.33,HeLa
+2565,Fe3O4,Sphere,PEI,Commercial,Positive,,,,A,Mouse,Ascites,Monocyte/Macrophage,Adult,48,100.0,MTS,TetrazoliumSalt,10.0,29.28,RAW264.7
+2788,C,Nanotube,,Chemical Vapor Deposition,,,,2000.0,H,Human,UrinaryBladder,Epithelial,Adult,48,50.0,CytoTox-Glo,Dead-Cell-Protease,18.0,,UM-UC-3
+239,Fe3O4,Sphere,,Precipitation,,,,10000.0,H,Human,Lung,Epithelial,,24,10.0,NRU,NeutralRed,22.0,,A549
+2050,TiO2,Sphere,,Commercial,Negative,,,10000.0,H,Human,Stomach,Epithelial,Adult,6,100.0,MTS,TetrazoliumSalt,21.0,-27.8,AGS
+790,SiO2,Sphere,,Sol-Gel Method,Negative,,,50000.0,A,Mouse,Embryo,Fibroblast,Embryonic,24,200.0,MTT,TetrazoliumSalt,21.06,-24.5,NIH3T3
+1862,Ag,Sphere,,Chemical Reduction,Negative,43.9,-16.2,10000.0,A,Mouse,Ascites,Monocyte/Macrophage,Adult,72,30.0,MTT,TetrazoliumSalt,,,RAW264.7
+3056,Ag,Sphere,Citrate,Chemical Reduction,Negative,110.0,-10.0,3000.0,H,Human,Skin,Fibroblast,Adult,24,12.5,MTS,,50.0,-35.0,HDF
+1685,CuO,,,Commercial,Positive,214.0,-10.5,,H,Human,Lung,Epithelial,Adult,4,40.0,CellTiterBlue,AlamarBlue,28.2,35.9,A549
+3814,SiO2,Sphere,,Commercial,Negative,14.3,,6000.0,A,Mouse,Ascites,Monocyte/Macrophage,Adult,48,100.0,Live/Dead,CalceinAM,280.0,-73.8,RAW264.7
+5395,Pt,,PVP,,,,,,H,Human,Cervix,Epithelial,A,24,,CellTiterGlo,luciferase,13.5,-8.0,HeLa
+3319,C,Nanotube,,Commercial,Negative,217.2,-13.005,500000.0,A,Rat,Lung,Macrophage,Adult,24,6.0,AlamarBlue,AlamarBlue,,,NR8383
+833,SiO2,Sphere,,Sol-Gel Method,Negative,,,50000.0,H,Human,Liver,Epithelial,Adult,24,50.0,MTT,TetrazoliumSalt,59.72,-38.1,HepG2
+878,Pt,Sphere,,Green Synthesis,Negative,,,10000.0,H,Human,Kidney,Epithelial,Embryonic,48,360.0,MTS,TetrazoliumSalt,24.6,-11.0,HEK293
+4705,Fe3O4,,,,,,,,H,Human,Heart,Endothelial,A,24,,MTT,tetrazolium salt,957.0,,HCMEC
+3290,C,Nanotube,,Commercial,Negative,217.2,-13.005,500000.0,A,Rat,Lung,Macrophage,Adult,4,12.5,MTT,TetrazoliumSalt,,,NR8383
+5370,Bi,,PEG,,,,,,H,Human,,,A,24,,MTT,tetrazolium salt,20.0,,MG-63
+3368,C,Nanotube,,Chemical Vapor Deposition,Negative,16.4,,16000.0,A,Hamster,Lung,Fibroblast,Adult,24,100.0,MTS,,1.5,-9.72,V79
+304,Au,Sphere,PEG,Chemical Reduction,Negative,,,50000.0,A,Mouse,Cerebellum,Neuronal,,24,,MTT,TetrazoliumSalt,4.6,-7.6,C17.2
+3048,Pt,Sphere,Citrate,Commercial,Negative,195.0,-43.0,,H,Human,Lung,Epithelial,Adult,48,0.5,AlamarBlue,AlamarBlue,4.8,,HEBC3-KT
+873,Pt,Sphere,,Green Synthesis,Negative,,,10000.0,H,Human,Kidney,Epithelial,Embryonic,24,180.0,MTS,TetrazoliumSalt,24.6,-11.0,HEK293
+4502,Fe3O4,,PEI,,,,,,H,Human,,,A,72,,Live/Dead,trypan blue,145.8,17.7,SH-SY5Y
+4672,Fe3O4,,PEG to the PEI,,,,,,A,Mouse,,Monocyte/Macrophage,A,4,,LDH,LDH activity assay kit,361.4,12.1,RAW 264.7
+4728,Fe3O4,,,,,,,,H,Human,Lung,Epithelial,A,24,,Alamar Blue,Alamar blue,196.4,,A549
+1137,Fe3O4,Sphere,OleicAcid,Reverse Microemulsion,Negative,202.7,-11.6,30000.0,H,Human,,,,3,10.0,MTT,TetrazoliumSalt,10.9,-45.4,SHSY5Y
+736,SiO2,Sphere,,Hydrolysis,Negative,,,5000.0,H,Human,Liver,Epithelial,Adult,48,100.0,AlamarBlue,AlamarBlue,289.76,-28.0,HepG2
+6214,Ag,,,,,,,,H,Human,Skin,Keratinocyte,A,48,,NR,neutral red,28.41,-33.33,HaCaT
+6131,Ag,,,,,,,,H,Human,liver,Epithelial,A,28,,Alamar Blue,Alamar blue,7.5,,HepG2
+2278,Au,Sphere,Citrate,Chemical Reduction,,,,2000.0,H,Human,Lung,Epithelial,Adult,24,50.0,CCK-8,TetrazoliumSalt,10.0,,A549
+3323,C,Nanotube,,Commercial,Negative,217.2,-13.005,500000.0,A,Rat,Lung,Macrophage,Adult,24,100.0,AlamarBlue,AlamarBlue,,,NR8383
+3039,Ag,Sphere,Citrate,Commercial,Negative,77.0,-37.0,,H,Human,Lung,Epithelial,Adult,48,50.0,AlamarBlue,AlamarBlue,47.3,,HEBC3-KT
+1384,TiO2,Sphere,,Commercial,Negative,,,30000.0,H,Human,Lung,Epithelial,Adult,48,30.0,MTT,TetrazoliumSalt,24.59,-14.25,A549
+4210,ZnO,,,,,,,,H,Human,Skin,Epithelial,A,48,,MTT,tetrazolium salt,165.0,-26.0,A431
+6249,Ag,,,,,,,,H,Human,Cervix,Epithelial,A,24,,NR,neutral red,28.41,-33.33,HeLa
+3315,C,Nanotube,,Commercial,Negative,217.2,-13.005,500000.0,A,Rat,Lung,Macrophage,Adult,4,25.0,AlamarBlue,AlamarBlue,,,NR8383
+1651,Au,Rod,,Seed-Mediated Growth Method,,,,10000.0,H,Human,Bone,Mixed,,24,5.0,NRU,NeutralRed,18.0,,143B
+3651,Ag,Sphere,,Commercial,Negative,65.45,-20.67,10000.0,H,Human,Cervix,Epithelial,Adult,24,80.0,MTT,TetrazoliumSalt,29.57,-33.33,HeLa
+5424,Pt,,PVP,,,,,,H,Human,Lung,Fibroblast,A,72,,CellTiterGlo,luciferase,13.5,-8.0,IMR90
+2203,ZnO,Sphere,,Commercial,,222.0,,10000.0,H,Human,Liver,Epithelial,Adult,24,16.0,MTT,TetrazoliumSalt,200.0,,HepG2
+211,Ag,Sphere,CKK,Precipitation,,,,10000.0,H,Human,Colon,,,48,10.0,CellTiterBlue,AlamarBlue,20.0,,Caco-2
+1636,Au,Rod,,Seed-Mediated Growth Method,,,,10000.0,H,Human,Bone,Mixed,,24,5.0,MTT,TetrazoliumSalt,18.0,,143B
+1834,Ag,Irregular,PVP,Commercial,Negative,121.0,-9.0,2000.0,A,Mouse,Embryo,Fibroblast,Embryonic,24,4.6,WST-1,TetrazoliumSalt,20.0,-17.1,BALB/c3T3
+1965,CuO,Sphere,,Commercial,Negative,310.0,-12.1,4500.0,H,Human,BoneMarrow,,,48,17.8,NRU,NeutralRed,30.09,-20.0,hMSC
+4709,Fe3O4,,,,,,,,H,Human,Heart,Endothelial,A,12,,LDH,LDH activity assay kit,957.0,,HCMEC
+5276,MnO,,PEG-NH2,,,,,,A,Human,,Endothelial,A,72,,ATPLite,,24.0,,HMEC-1
+5093,TiO2,,,,,,,,H,Human,Aorta,Endothelial,A,24,,CytoToxOne,LDH activity assay kit,38.0,,HAEC
+4805,Fe3O4,,NH2,,,,,,H,Human,Bone,Fibroblast,A,24,,Live/Dead,"Calcein AM, Ethidium homodimer-1",20.0,,MG-63
+2509,Pt,Sphere,PVP,Chemical Reduction,Negative,,,5000.0,H,Human,Lung,Fibroblast,Adult,48,400.0,CellTiterGlo,LuciferaseEnzyme,4.0,-8.0,IMR90
+6230,Ag,,,,,,,,H,Human,Skin,Keratinocyte,A,72,,NR,neutral red,28.41,-33.33,HaCaT
+6259,Ag,,,,,,,,H,Human,Skin,Keratinocyte,A,48,,MTT,tetrazolium salt,28.41,-33.33,HaCaT
+5871,SiO2,,,,,,,,H,Human,Umbilical cord,Endothelial,E,96,,LDH,LDH activity assay kit,60.0,-30.0,HUVEC
+4053,C,Nanotube,PEG,Chemical Vapor Deposition,Negative,,-30.14,10000.0,A,Rat,Adrenal Gland,Irregular,Adult,24,10.0,XTT,TetrazoliumSalt,3.0,,PC12
+5190,Cr,,,,,,,,A,Mouse,Blood,Monocyte/Macrophage,A,96,,Live/Dead,"Calcein AM, Ethidium homodimer-1",30.0,,RAW 264.7
+6294,Ag,,,,,,,,H,Human,Cervix,Epithelial,A,24,,MTT,tetrazolium salt,28.41,-33.33,HeLa
+2850,Fe3O4,Sphere,Tween80,Precipitation,,,,,,,,Macrophage,,3,100.0,MTT,TetrazoliumSalt,30.0,,J774A.1
+2588,Fe3O4,Sphere,PEG,Commercial,Neutral,,,,H,Human,Ovary,Epithelial,Adult,48,50.0,MTS,TetrazoliumSalt,10.0,-0.52,SKOV-3
+4647,Fe3O4,,PEG to the PEI,,,,,,H,Human,,,A,1,,LDH,LDH activity assay kit,361.4,12.1,SH-SY5Y
+114,Bi,Sphere,,Precipitation,,,,20000.0,H,,,,,24,,Live/Dead,CalceinAM,20.0,,HeLa
+1323,SiO2,Sphere,,Sol-Gel Method,,,,100000.0,H,Human,Umbilical Vein,Endothelial,Embryonic,24,5.0,CVS,CrystalViolet,56.7,,HUVEC
+887,Pt,Sphere,,Green Synthesis,Negative,,,10000.0,H,Human,Kidney,Epithelial,Embryonic,48,20.0,NRU,NeutralRed,24.6,-11.0,HEK293
+3149,C,Sphere,Dextran,Commercial,Negative,,,10000.0,A,Rat,Brain,Fibroblast,Adult,24,10.0,NRU,NeutralRed,30.29,-10.1,C6
+4750,Fe3O4,,BSA,,,,,,H,Human,liver,Epithelial,A,6,,Alamar Blue,Alamar blue,12.0,,HepG2
+4473,Fe3O4,,PEI,,,,,,H,Human,,,A,72,,CellTiterGlo,luciferase,145.8,17.7,SH-SY5Y
+118,Bi,Sphere,,Precipitation,,,,20000.0,H,,,,,24,,MTT,TetrazoliumSalt,20.0,,HeLa
+5447,Pt,,Folic acid,,,,,,H,Human,Breast,Epithelial,A,48,,CellTiterGlo,luciferase,13.5,-40.5,MCF7
+4366,ZnO,,,,,,,,H,Human,Blood,,A,24,,,propidium iodide,20.0,,CD4+T cells
+4687,Fe3O4,,PEG,,,,,,H,Human,Skin,Endothelial-like,E,72,,ATPLite,luciferase,16.0,,HMEC-1
+5252,Co3O4,,,,,,,,H,Human,Lung,Epithelial,A,24,,,Trypan Blue,200.0,,BEAS-2B
+1889,Ag,Sphere,,Commercial,,,,10000.0,A,Mouse,SubcutaneousConnectiveTissue,Fibroblast,Adult,72,0.5,CCK-8,TetrazoliumSalt,20.0,,L929
+3663,Ag,Sphere,,Commercial,Negative,65.45,-20.67,10000.0,H,Human,Cervix,Epithelial,Adult,48,250.0,MTT,TetrazoliumSalt,29.57,-33.33,HeLa
+3027,TiO2,Sphere,,Sonomechanical Method,,152.0,,10000.0,H,Human,Amnion,Epithelial,Embryonic,24,0.625,NRU,NeutralRed,30.6,,WISH
+1953,CaHCO3,Sphere,,Sol-Gel Method,,,,100000.0,H,Human,Liver,,,72,200.0,MTT,TetrazoliumSalt,78.0,,HepG2
+844,SiO2,Sphere,,Sol-Gel Method,Negative,,,50000.0,H,Human,Liver,Epithelial,Adult,24,100.0,MTT,TetrazoliumSalt,199.89,-36.3,HepG2
+4414,ZnO,,,,,,,,H,Human,Brain,Epithelial,A,48,,MTS,tetrazolium salt,60.0,,H4
+1608,Au,Star,,Chemical Reduction,,,,10000.0,H,Human,Bone,Fibroblast,,24,0.6,MTT,TetrazoliumSalt,215.0,,MG-63
+1040,Au,Sphere,Chitosan,Green Synthesis,Positive,,,5000.0,H,Human,Cervix,Epithelial,Adult,24,,MTT,TetrazoliumSalt,8.7,42.28,HeLa
+1322,SiO2,Sphere,,Sol-Gel Method,,,,100000.0,H,Human,Umbilical Vein,Endothelial,Embryonic,24,25.0,CVS,CrystalViolet,31.4,,HUVEC
+1076,Au,Star,Chitosan,Green Synthesis,Positive,,,5000.0,H,Human,Colon,Epithelial,Adult,24,,MTT,TetrazoliumSalt,99.0,47.44,HT29
+3483,Ag,Rod,,EBPVD,Negative,,-29.3,5000.0,H,Human,Skin,Fibroblast,,96,0.4,MTS,TetrazoliumSalt,47.0,-34.1,CCL-110
+4756,Fe3O4,,BSA,,,,,,A,Rat,pituitary gland,Epithelial,A,6,,Alamar Blue,Alamar blue,12.0,,GH3
+5905,SiO2,,Phosphonate,,,,,,A,Rat,,,,12,,MTT,tetrazolium salt,375.4,-26.8,PC12
+5446,Pt,,Folic acid,,,,,,H,Human,Breast,Epithelial,A,24,,CellTiterGlo,luciferase,13.5,-40.5,MCF7
+5128,TiO2,,,,,,,,H,Human,stomach,Epithelial,A,24,,MTS,tetrazolium salt,420.7,-9.96,AGS
+2223,SiO2,Sphere,,Commercial,Negative,20.4,-63.31,,H,Human,Skin,Keratinocyte,Adult,24,60.0,CCK-8,TetrazoliumSalt,30.0,,HaCat
+4833,Fe3O4,,,,,,,,H,Human,Brain,Epithelial,A,48,,MTS,tetrazolium salt,13.5,,H4
+3897,CaHCO3,Rod,,Precipitation,Negative,,-11.7,10000.0,A,Mouse,Bone,Osteoblast,Adult,72,500.0,MTT,TetrazoliumSalt,20.0,,MC3T3-E1
+3065,Ag,Sphere,Citrate-Lactose,Chemical Reduction,Negative,195.0,-9.0,3000.0,H,Human,Skin,Fibroblast,Adult,24,25.0,MTS,,50.0,-31.0,HDF
+1837,Ag,Irregular,PVP,Commercial,Negative,121.0,-9.0,2000.0,A,Mouse,Embryo,Fibroblast,Embryonic,48,0.67,NRU,NeutralRed,20.0,-17.1,BALB/c3T3
+705,SiO2,Sphere,Chitosan,Hydrolysis,Positive,,,5000.0,H,Human,Colon,Epithelial,Adult,24,200.0,AlamarBlue,AlamarBlue,578.27,8.0,Caco-2
+3671,Ag,Sphere,,Commercial,Negative,65.45,-20.67,10000.0,H,Human,Cervix,Epithelial,Adult,72,250.0,MTT,TetrazoliumSalt,29.57,-33.33,HeLa
+2488,Pt,Sphere,PVP,Chemical Reduction,Negative,,,5000.0,H,Human,Breast,Epithelial,Adult,24,200.0,CellTiterGlo,LuciferaseEnzyme,4.0,-8.0,MCF-7
+4550,Fe3O4,,PEI,,,,,,H,Human,,,A,24,,LDH,LDH activity assay kit,145.8,17.7,SH-SY5Y
+2017,ZnO,Sphere,,Commercial,Negative,245.0,-15.8,10000.0,H,Human,Skin,Keratinocyte,Adult,24,20.0,MTT,TetrazoliumSalt,,,HEK
+2661,Al2O3,Sphere,,Commercial,Positive,267.0,36.3,50000.0,H,Human,Heart,Epithelial,Adult,24,0.1,MTT,TetrazoliumSalt,39.7,,HCMEC
+3403,C,Nanotube,,Chemical Vapor Deposition,Negative,124.4,,12000.0,H,Human,Lung,Epithelial,Adult,24,50.0,MTS,,25.0,-9.78,A549
+2526,Pt,Sphere,FA,Chemical Reduction,Negative,,,5000.0,H,Human,Cervix,Epithelial,Adult,72,50.0,CellTiterGlo,LuciferaseEnzyme,12.5,-40.5,HeLa
+4663,Fe3O4,,PEG to the PEI,,,,,,H,Human,,,A,72,,LDH,LDH activity assay kit,361.4,12.1,SH-SY5Y
+191,Bi,Sphere,PEG,Precipitation,,,,20000.0,H,,,,,24,,Live/Dead,CalceinAM,20.0,,HeLa
+5577,Cu2O,,,,,,,,H,Human,Blood,Macrophage,A,3,,MTT,tetrazolium salt,88.5,,PMA activated THP-1
+4668,Fe3O4,,PEG to the PEI,,,,,,A,Mouse,,Monocyte/Macrophage,A,1,,LDH,LDH activity assay kit,361.4,12.1,RAW 264.7
+2477,Pt,Sphere,PVP,Chemical Reduction,Negative,,,5000.0,H,Human,Cervix,Epithelial,Adult,48,100.0,CellTiterGlo,LuciferaseEnzyme,4.0,-8.0,HeLa
+6378,Ag,,Citrate,,,,,,H,Human,,Epithelial,A,24,,WST-1,tetrazolium salt,92.0,,ECV304
+5909,SiO2,,Phosphonate,,,,,,A,Rat,,,,12,,MTT,tetrazolium salt,375.4,-26.8,PC12
+819,SiO2,Sphere,,Sol-Gel Method,Negative,,,50000.0,A,Mouse,Embryo,Fibroblast,Embryonic,72,100.0,MTT,TetrazoliumSalt,100.33,-31.7,NIH3T3
+2256,Au,Sphere,,Commercial,Negative,26.5,-4.46,,H,Human,Liver,Epithelial,Adult,72,12.5,MTT,TetrazoliumSalt,20.0,-4.58,HepG2
+3812,SiO2,Sphere,,Commercial,Negative,14.3,,6000.0,A,Mouse,Ascites,Monocyte/Macrophage,Adult,48,5.0,Live/Dead,CalceinAM,280.0,-73.8,RAW264.7
+5828,SiO2,,,,,,,,A,Mouse,Blood,Monocyte/Macrophage,A,24,,CellTiterBlue,Alamar blue,13.0,-27.0,RAW 264.7
+794,SiO2,Sphere,,Sol-Gel Method,Negative,,,50000.0,A,Mouse,Embryo,Fibroblast,Embryonic,24,100.0,MTT,TetrazoliumSalt,59.72,-38.1,NIH3T3
+757,SiO2,Sphere,,Sol-Gel Method,Negative,,,50000.0,H,Human,Lung,Epithelial,Adult,24,10.0,MTT,TetrazoliumSalt,100.33,-31.7,A549
+3775,CuO,Sphere,,Commercial,Negative,185.2,-7.05,5000.0,H,Human,Lung,Epithelial,Adult,24,1.0,CCK-8,,30.0,-29.1,A549
+5482,CaHCO3,,,,,,,,H,Human,Blood,Monocyte/Macrophage,A,24,,MTT,tetrazolium salt,50.0,,HMM
+1336,CuO,Sphere,,Commercial,,,,60000.0,H,Human,Liver,Epithelial,Adult,48,5.0,MTT,TetrazoliumSalt,28.0,,HepG2
+6062,Au,,Gum Arabic,,,,,,H,Human,Ovary,Epithelial,A,24,,NR,neutral red,20.0,,CHO22
+5847,SiO2,,,,,,,,H,Human,Umbilical cord,Endothelial,E,48,,Alamar blue,Alamar blue,25.0,30.0,HUVEC
+4276,ZnO,,,,,,,,H,Human,Heart,Endothelial,A,12,,MTT,tetrazolium salt,639.0,,HCMEC
+786,SiO2,Sphere,,Sol-Gel Method,Negative,,,50000.0,H,Human,Lung,Epithelial,Adult,72,500.0,MTT,TetrazoliumSalt,199.89,-36.3,A549
+3305,C,Nanotube,,Commercial,Negative,601.7,-13.005,500000.0,A,Rat,Lung,Macrophage,Adult,4,100.0,MTT,TetrazoliumSalt,,,NR8383
+4634,Fe3O4,,PEG to the PEI,,,,,,A,Mouse,,Monocyte/Macrophage,A,72,,Live/Dead,trypan blue,361.4,12.1,RAW 264.7
+5438,Pt,,Folic acid,,,,,,H,Human,Cervix,Epithelial,A,48,,CellTiterGlo,luciferase,13.5,-40.5,HeLa
+5961,Au,,PVP,,,,,,H,Human,Lung,Epithelial,A,72,,MTT,tetrazolium salt,21.2,,A549
+6302,Ag,,,,,,,,H,Human,Cervix,Epithelial,A,72,,MTT,tetrazolium salt,28.41,-33.33,HeLa
+6100,Au,,PEG,,,,,,A,,,Endothelial,,24,,MTT,,21.7,-7.6,C17.2
+3177,C,Sphere,Dextran,Commercial,Negative,,,10000.0,A,Rat,Brain,Fibroblast,Adult,24,200.0,NRU,NeutralRed,30.0,-16.9,C6
+761,SiO2,Sphere,,Sol-Gel Method,Negative,,,50000.0,H,Human,Lung,Epithelial,Adult,24,500.0,MTT,TetrazoliumSalt,100.33,-31.7,A549
+4324,ZnO,,,,,,,,H,Human,Lung,Epithelial,A,48,,WST-1,tetrazolium salt,67.0,44.1,A549
+4488,Fe3O4,,PEI,,,,,,A,Mouse,,,A,72,,CellTiterBlue,Alamar blue,145.8,17.7,RAW 264.7
+3278,Fe3O4,Sphere,,Commercial,Negative,316.6,-18.4,10000.0,H,Human,Teeth,Fibroblast,Adult,6,100.0,MTT,TetrazoliumSalt,28.33,,hPDLF
+3410,C,Nanotube,,Chemical Vapor Deposition,Negative,51.9,,12000.0,H,Human,Lung,Epithelial,Adult,24,100.0,MTS,,50.0,-7.28,A549
+6115,Au,,PEG,,,,,,A,Rat,,,,24,,MTT,,21.7,-7.6,PC12
+1767,Fe3O4,Rod,Urea,Chemical Reduction,,,,10000.0,A,Mouse,SubcutaneousConnectiveTissue,Fibroblast,Adult,24,200.0,MTT,TetrazoliumSalt,150.0,,L929
+3060,Ag,Sphere,Citrate,Chemical Reduction,Negative,111.0,-9.0,3000.0,H,Human,Lung,Epithelial,Adult,24,12.5,MTS,,50.0,-35.0,A549
+5221,Co,,,,,,,,H,Human,Aorta,Endothelial,A,24,,CytoToxOne,LDH activity assay kit,17.0,,HAEC
+2305,Ag,Sphere,,Commercial,Negative,,,5000.0,H,Human,Lung,Epithelial,Adult,48,25.0,MTT,TetrazoliumSalt,65.0,-30.0,A549
+5249,Co3O4,,,,,,,,H,Human,Lung,Epithelial,A,24,,,Trypan Blue,200.0,,BEAS-2B
+4061,CaHCO3,Rod,,Precipitation,Neutral,116.0,,50000.0,H,Human,Lung,Epithelial,Adult,24,100.0,CCK-8,TetrazoliumSalt,25.0,-0.4,BEAS-2B
+284,TiO2,,,Commercial,Negative,171.4,-11.5,10000.0,H,Human,Skin,Epithelial,,48,0.08,NRU,NeutralRed,124.9,-17.6,A431
+6289,Ag,,,,,,,,H,Human,Cervix,Epithelial,A,48,,MTT,tetrazolium salt,28.41,-33.33,HeLa
+625,Fe3O4,Sphere,Silica-FA,Solvothermal Process,Negative,567.3,-7.6,100000.0,H,Human,,,,24,5.0,MTT,TetrazoliumSalt,274.1,-27.7,SKOV-3
+1241,Fe3O4,Sphere,OleicAcid,Reverse Microemulsion,Negative,202.7,-11.6,30000.0,H,Human,,,,24,100.0,NRU,NeutralRed,10.9,-45.4,SHSY5Y
+3079,Ag,Sphere,Citrate-Oligonucleotide,Chemical Reduction,Negative,132.0,-9.0,3000.0,H,Human,Lung,Epithelial,Adult,24,100.0,MTS,,50.0,-30.0,A549
+2963,Au,Star,,Chemical Reduction,Negative,206.7,-23.76,5000.0,A,Rat,FatPad,Endothelial,Adult,24,0.4,MTS,TetrazoliumSalt,33.69,-24.52,RFPEC
+4090,CaHCO3,Rod,,Surfactant-based Synthesis,Negative,195.0,,50000.0,H,Human,Liver,Epithelial,Adult,24,300.0,CCK-8,TetrazoliumSalt,20.0,-5.3,HepG2
+4046,C,Nanotube,PEG,Chemical Vapor Deposition,Negative,,-30.14,10000.0,A,Rat,Adrenal Gland,Irregular,Adult,24,100.0,MTT,TetrazoliumSalt,3.0,,PC12
+1931,CaHCO3,Rod,,Precipitation,,626.1,,,H,Human,BoneMarrow,,,72,50.0,CCK-8,,,,hMSC
+775,SiO2,Sphere,,Sol-Gel Method,Negative,,,50000.0,H,Human,Lung,Epithelial,Adult,72,200.0,MTT,TetrazoliumSalt,59.72,-38.1,A549
+298,Au,Sphere,PEG,Chemical Reduction,Negative,,,50000.0,H,Human,Umbilical Vein,Endothelial,,24,,MTT,TetrazoliumSalt,4.6,-7.6,HUVEC
+6138,Ag,,,,,,,,H,Human,liver,Epithelial,A,28,,LDH,LDH activity assay kit,7.5,,HepG2
+3546,Ag,Sphere,,Commercial,Negative,68.55,-15.83,10000.0,H,Human,Skin,Keratinocyte,Adult,72,100.0,AlamarBlue,AlamarBlue,29.57,-33.33,HaCat
+5612,MgO,,,,,,,,H,Human,Heart,Endothelial,A,12,,MTT,tetrazolium salt,639.0,,HCMEC
+266,TiO2,,,Commercial,Negative,171.4,-11.5,10000.0,H,Human,Skin,Epithelial,,24,8.0,MTT,TetrazoliumSalt,124.9,-17.6,A431
+1951,CaHCO3,Sphere,,Sol-Gel Method,,,,100000.0,H,Human,Liver,,,72,200.0,MTT,TetrazoliumSalt,26.0,,HepG2
+2984,Au,Sphere,CTAB,Commercial,,,,12000.0,A,Dog,Kidney,Epithelial,Adult,24,18.0,MTS,TetrazoliumSalt,42.9,,MDCK-II
+3210,C,Sphere,,Commercial,Negative,142.0,-37.4,10000.0,A,Mouse,Skin,Fibroblast,Adult,48,1.0,MTT,TetrazoliumSalt,34.64,,mDF
+1518,Au,Sph/Hex/Ova,Citrate,Chemical Reduction,,,,5000.0,H,Human,Kidney,,Embryonic,24,200.0,MTT,TetrazoliumSalt,12.5,,HEK293
+1438,Pt,Sphere,Citrate,Commercial,,,,15000.0,H,Human,Umbilical Vein,Endothelial,,24,0.5,CCK-8,,30.0,,HUVEC
+1286,ZnO,,,Commercial,Negative,273.4,-11.7,350000.0,H,Human,,,,6,15.0,NRU,NeutralRed,100.0,-8.23,SHSY5Y
+5481,CaHCO3,,,,,,,,H,Human,Blood,Monocyte/Macrophage,A,24,,Live/Dead,"Calcein AM, Ethidium homodimer-1",49.0,,HMM
+1310,ZnO,Sphere,,Commercial,Negative,278.8,-11.5,400000.0,A,Mouse,Peritoneal Cavity,Macrophage,Adult,24,2.5,MTT,TetrazoliumSalt,50.0,,Macrophages
+1839,Ag,Irregular,PVP,Commercial,Negative,121.0,-9.0,2000.0,A,Mouse,Embryo,Fibroblast,Embryonic,48,1.5,NRU,NeutralRed,20.0,-17.1,BALB/c3T3
+1497,Au,Sphere,MSA,Chemical Reduction,Negative,,,100000.0,H,Human,Embryo,Spindle,Embryonic,24,0.001,MTT,TetrazoliumSalt,1.5,,WA09
+3187,C,Sphere,Dextran,Commercial,Negative,,,10000.0,A,Mouse,SubcutaneousConnectiveTissue,Fibroblast,Adult,24,20.0,NRU,NeutralRed,15.0,-20.7,L929
+4873,Fe3O4,,PEG,,,,,,H,Human,Ovary,Epithelial,A,48,,MTT,tetrazolium salt,18.4,,SKOV-3
+3073,Ag,Sphere,Citrate-Oligonucleotide,Chemical Reduction,Negative,210.0,-11.0,3000.0,H,Human,Skin,Fibroblast,Adult,24,25.0,MTS,,50.0,-30.0,HDF
+4182,CuS,,,,,,,,H,Human,Kidney,,E,48,,WST-1,tetrazolium salt,3.0,,HEK-293
+1347,ZnO,Sph/Rho/Rod,,Commercial,,,,60000.0,A,Catfish,Liver,Epithelial,Adult,48,200.0,MTT,TetrazoliumSalt,71.0,,Hepatocytes
+2308,Ag,Sphere,,Commercial,Negative,,,5000.0,H,Human,Lung,Epithelial,Adult,48,200.0,MTT,TetrazoliumSalt,65.0,-30.0,A549
+4662,Fe3O4,,PEG to the PEI,,,,,,H,Human,,,A,72,,LDH,LDH activity assay kit,361.4,12.1,SH-SY5Y
+6068,Au,,Gum Arabic,,,,,,H,Human,Ovary,Epithelial,A,60,,NR,neutral red,20.0,,CHO22
+2567,Fe3O4,Sphere,PEG,Commercial,Neutral,,,,A,Mouse,Ascites,Monocyte/Macrophage,Adult,48,6.25,MTS,TetrazoliumSalt,10.0,-0.52,RAW264.7
+1052,Au,Rod,Chitosan,Seed-Mediated Growth Method,Positive,,,5000.0,H,Human,Cervix,Epithelial,Adult,24,,MTT,TetrazoliumSalt,,33.23,HeLa
+4183,CuS,,,,,,,,H,Human,Kidney,,,48,,WST-1,tetrazolium salt,3.0,,HEK-293
+4154,CuO,,,,,,,,H,Human,,Endothelial,A,24,,LDH,LDH activity assay kit,239.0,,HCMEC
+6034,Au,,Citrate and PVP,,,,,,H,Human,Lung,Epithelial,A,24,,MTT,tetrazolium salt,28.18,,NCIH441
+3148,C,Sphere,Dextran,Commercial,Negative,,,10000.0,A,Rat,Brain,Fibroblast,Adult,24,5.0,NRU,NeutralRed,30.29,-10.1,C6
+5296,Bi,,,,,,,,H,Human,,,A,24,,Live/Dead,"Calcein AM, Ethidium homodimer-1",20.0,,MG-63
+2358,Ni,Sphere,,Commercial,,176.0,,10000.0,H,Human,Lung,Epithelial,Adult,48,5.0,MTT,TetrazoliumSalt,65.17,,A549
+3126,Ag,Sphere,Citrate-Oligonucleotide,Chemical Reduction,Negative,146.0,-10.0,3000.0,H,Human,Lung,Epithelial,Adult,72,50.0,MTS,,50.0,-30.0,A549
+2623,ZnO,Sphere,,Commercial,Positive,310.0,32.7,50000.0,H,Human,Heart,Epithelial,Adult,12,0.001,MTT,TetrazoliumSalt,45.3,,HCMEC
+3275,Fe3O4,Sphere,,Commercial,Negative,316.6,-18.4,10000.0,H,Human,Teeth,Fibroblast,Adult,6,1.0,MTT,TetrazoliumSalt,28.33,,hPDLF
+240,Fe3O4,Sphere,,Precipitation,,,,10000.0,H,Human,Lung,Epithelial,,24,25.0,NRU,NeutralRed,22.0,,A549
+1718,Ag,Wire,,Commercial,Negative,,-0.25,10000.0,A,Mouse,,Macrophage,,24,50.0,MTS,,100.0,-1.46,J774A.1
+5659,Al2O3,,,,,,,,H,Human,Heart,Endothelial,A,24,,MTT,tetrazolium salt,239.0,,HCMEC
+5215,Co,,,,,,,,H,Human,Aorta,Endothelial,A,24,,ApoToxTriplex,Caspase-GloReagent,17.0,,HAEC
+1976,CuO,Sphere,,Commercial,,644.0,,,H,Human,Lung,Epithelial,Adult,24,5.0,MTS,TetrazoliumSalt,40.0,,A549
+4588,Fe3O4,,PEG to the PEI,,,,,,H,Human,,,A,72,,CellTiterBlue,Alamar blue,361.4,12.1,SH-SY5Y
+17,SiO2,Sphere,CTAB,Precipitation,Negative,90.09,,5000.0,A,Rat,,,,24,250.0,MTT,TetrazoliumSalt,386.9,-35.9,PC12
+5008,TiO2,,,,,,,,H,Human,Kidney,Spindle,A,24,,WST-1,tetrazolium salt,11.69,,IP15
+5603,MgO,,,,,,,,A,Mouse,Blood,Monocyte/Macrophage,A,24,,LDH,LDH activity assay kit,8.0,,RAW 264.7
+3222,C,Nanotube,,Commercial,Positive,112.9,12.9,10000.0,A,Mouse,Skin,Fibroblast,Adult,24,50.0,MTT,TetrazoliumSalt,9.0,,mDF
+732,SiO2,Sphere,SodiumAlginate,Hydrolysis,Negative,,,5000.0,H,Human,Liver,Epithelial,Adult,24,100.0,AlamarBlue,AlamarBlue,345.2,-13.0,HepG2
+1496,Au,Sphere,MSA,Chemical Reduction,Negative,,,,H,Human,Embryo,Spindle,Embryonic,24,10.0,Live/Dead,TrypanBlue,1.5,,WA09
+37,SiO2,Sphere,Ph,Precipitation,Negative,135.83,,5000.0,A,Rat,,,,24,250.0,MTT,TetrazoliumSalt,375.4,-26.8,PC12
+3038,Ag,Sphere,Citrate,Commercial,Negative,77.0,-37.0,,H,Human,Lung,Epithelial,Adult,48,20.0,AlamarBlue,AlamarBlue,47.3,,HEBC3-KT
+5391,Pt,,PVP,,,,,,H,Human,Cervix,Epithelial,A,72,,CellTiterGlo,luciferase,13.5,-8.0,HeLa
+5817,SiO2,,,,,,,,H,Human,Colon,Epithelial,A,4,,Vialight,luciferase,29.5,,Caco-2
+2638,Fe3O4,Sphere,,Commercial,Negative,957.0,-8.2,50000.0,H,Human,Heart,Epithelial,Adult,12,20.0,MTT,TetrazoliumSalt,42.5,,HCMEC
+5607,MgO,,,,,,,,H,Human,Heart,Endothelial,A,12,,MTT,tetrazolium salt,639.0,,HCMEC
+1200,Fe3O4,Sphere,OleicAcid,Reverse Microemulsion,Negative,202.7,-11.6,30000.0,H,Human,,,,3,75.0,NRU,NeutralRed,10.9,-45.4,SHSY5Y
+2213,SiO2,Sphere,,Commercial,Negative,14.6,-59.7,,H,Human,Skin,Keratinocyte,Adult,24,20.0,CCK-8,TetrazoliumSalt,15.0,,HaCat
+5287,MnO,,,,,,,,H,Human,Lung,Epithelial,A,48,,Live/Dead,"Calcein AM, Ethidium homodimer-1",14.0,,A549
+1698,Ag,Wire,,Commercial,Negative,,-0.87,10000.0,A,Mouse,,Macrophage,,24,50.0,MTS,,30.0,-4.23,J774A.1
+6265,Ag,,,,,,,,H,Human,Skin,Keratinocyte,A,48,,MTT,tetrazolium salt,28.41,-33.33,HaCaT
+1866,Ag,Sphere,,Chemical Reduction,Negative,43.9,-16.2,10000.0,A,Mouse,Ascites,Macrophage,Adult,72,10.0,MTT,TetrazoliumSalt,,,J774A.1
+4673,Fe3O4,,PEG to the PEI,,,,,,A,Mouse,,Monocyte/Macrophage,A,4,,LDH,LDH activity assay kit,361.4,12.1,RAW 264.7
+3102,Ag,Sphere,Citrate-Oligonucleotide,Chemical Reduction,Negative,144.0,-9.0,3000.0,H,Human,Lung,Epithelial,Adult,48,50.0,MTS,,50.0,-30.0,A549
+3184,C,Sphere,Dextran,Commercial,Negative,,,10000.0,A,Mouse,SubcutaneousConnectiveTissue,Fibroblast,Adult,24,40.0,MTT,TetrazoliumSalt,15.0,-20.7,L929
+6216,Ag,,,,,,,,H,Human,Skin,Keratinocyte,A,24,,NR,neutral red,28.41,-33.33,HaCaT
+100,Fe3O4,Sphere,Dextran,Thermal Decomposition,,,,10000.0,A,,,,,24,400.0,MTT,TetrazoliumSalt,18.0,,MDCK
+6093,Au,,,,,,,,H,Human,Breast,Epithelial,A,48,,MTT,tetrazolium salt,25.0,,MDA-MB-231
+5110,TiO2,,,,,,,,H,Human,Umbilical cord,Endothelial,E,24,,ApoToxTriplex,Caspase-GloReagent,38.0,,HUVEC
+5340,Bi,,NH2,,,,,,H,Human,,,A,24,,Live/Dead,"Calcein AM, Ethidium homodimer-1",20.0,,MG-63
+4227,ZnO,,,,,,,,H,Human,Skin,Epithelial,A,6,,NR,neutral red,165.0,-26.0,A431
+1154,Fe3O4,Sphere,Silica,Reverse Microemulsion,Negative,111.1,-10.3,30000.0,H,Human,,,,6,200.0,MTT,TetrazoliumSalt,10.0,-31.8,SHSY5Y
+3629,Ag,Sphere,,Commercial,Negative,68.55,-15.83,10000.0,H,Human,Skin,Keratinocyte,Adult,24,600.0,MTT,TetrazoliumSalt,29.57,-33.33,HaCat
+5180,Ti,,,,,,,,A,Mouse,Blood,Monocyte/Macrophage,A,96,,Live/Dead,"Calcein AM, Ethidium homodimer-1",35.0,,RAW 264.7
+1726,SiO2,Sphere,COOH,Soft Templating Method,Negative,,,10000.0,H,Human,Lung,Epithelial,Adult,96,500.0,MTT,TetrazoliumSalt,120.0,-28.7,A549
+156,Bi,Sphere,PEG,Precipitation,,,,20000.0,H,,,,,24,,MTT,TetrazoliumSalt,20.0,,HeLa
+3603,Ag,Sphere,,Commercial,Negative,65.45,-20.67,10000.0,H,Human,Cervix,Epithelial,Adult,24,80.0,NRU,NeutralRed,29.57,-33.33,HeLa
+4661,Fe3O4,,PEG to the PEI,,,,,,H,Human,,,A,72,,LDH,LDH activity assay kit,361.4,12.1,SH-SY5Y
+1035,Au,Rod,Chitosan,Seed-Mediated Growth Method,Positive,,,5000.0,H,Human,Stomach,Epithelial,Adult,24,,MTT,TetrazoliumSalt,,33.23,AGS
+2360,Ni,Sphere,,Commercial,,176.0,,10000.0,H,Human,Lung,Epithelial,Adult,48,25.0,MTT,TetrazoliumSalt,65.17,,A549
+4862,Fe3O4,,Dextran,,,,,,A,Canine,Kidney,Epithelial,A,24,,MTT,tetrazolium salt,170.0,,MDCK
+3520,Au,Sphere,Citrate,Commercial,Negative,,-28.4,5000.0,H,Human,Skin,Fibroblast,,24,25.0,MTS,TetrazoliumSalt,61.06,-32.7,CCL-110
+4140,CuO,,,,,,,,H,Human,,Endothelial,A,24,,MTT,tetrazolium salt,239.0,,HCMEC
+4924,TiO2,,,,,,,,A,hamster,Ovary,Epithelial,A,24,,NR,neutral red,20.0,,CHO-K1
+774,SiO2,Sphere,,Sol-Gel Method,Negative,,,50000.0,H,Human,Lung,Epithelial,Adult,72,100.0,MTT,TetrazoliumSalt,59.72,-38.1,A549
+4699,Fe3O4,,,,,,,,H,Human,Heart,Endothelial,A,24,,MTT,tetrazolium salt,957.0,,HCMEC
+3355,C,Sphere,,Commercial,,,,100000.0,A,Mouse,Peritoneal Cavity,Macrophage,Adult,24,75.0,WST-1,,21.0,,Macrophages
+3196,C,Sphere,,Emulsion-Solvent Evaporation,Negative,,,10000.0,H,Human,Kidney,Epithelial,Embryonic,24,36.0,MTT,TetrazoliumSalt,125.0,-25.3,HEK293
+6156,Ag,,,,,,,,H,Human,Cervix,Epithelial,A,24,,ATP,luciferase,35.0,,HeLa
+6194,Ag,,,,,,,,H,Human,Cervix,Epithelial,A,72,,Alamar Blue,Alamar blue,28.41,-33.33,HeLa
+5153,TiO2,,,,,,,,H,Human,stomach,Epithelial,A,3,,MTS,tetrazolium salt,160.5,-27.8,AGS
+3641,Ag,Sphere,,Commercial,Negative,68.55,-15.83,10000.0,H,Human,Skin,Keratinocyte,Adult,72,50.0,MTT,TetrazoliumSalt,29.57,-33.33,HaCat
+2352,Ni,Sphere,,Commercial,,176.0,,10000.0,H,Human,Lung,Epithelial,Adult,24,2.0,MTT,TetrazoliumSalt,65.17,,A549
+1292,ZnO,,,Commercial,Negative,273.4,-11.7,350000.0,H,Human,,,,6,80.0,NRU,NeutralRed,100.0,-8.23,SHSY5Y
+5023,TiO2,,,,,,,,H,Human,Kidney,Spindle,A,24,,WST-1,tetrazolium salt,47.83,,IP15
+3635,Ag,Sphere,,Commercial,Negative,68.55,-15.83,10000.0,H,Human,Skin,Keratinocyte,Adult,48,200.0,MTT,TetrazoliumSalt,29.57,-33.33,HaCat
+1001,Au,Sphere,,Commercial,,96.3,,50000.0,H,Human,Skin,Fibroblast,Adult,48,5.0,MTT,TetrazoliumSalt,50.0,,NHDF
+4879,Fe3O4,,folic acid with intermediate organic (PEG) coating,,,,,,H,Human,Ovary,Epithelial,A,24,,MTT,tetrazolium salt,326.5,-23.5,SKOV-3
+2904,ZnO,Sphere,,Commercial,Positive,253.6,,1000000.0,H,Human,Blood,Monocyte,Adult,24,80.0,MTT,TetrazoliumSalt,94.5,17.5,THP-1
+2216,SiO2,Sphere,,Commercial,Negative,14.6,-59.7,,H,Human,Skin,Keratinocyte,Adult,24,40.0,CCK-8,TetrazoliumSalt,15.0,,HaCat
+4165,CuO,,,,,,,,H,Human,,Epithelial,A,48,,MTS,tetrazolium salt,33.0,,SH-SY5Y
+112,Bi,Sphere,,Precipitation,,,,20000.0,H,,,,,24,,Live/Dead,CalceinAM,20.0,,HeLa
+4089,CaHCO3,Rod,,Precipitation,Negative,109.0,,50000.0,H,Human,Liver,Epithelial,Adult,24,300.0,CCK-8,TetrazoliumSalt,30.0,-5.7,HepG2
+1864,Ag,Sphere,,Chemical Reduction,Negative,43.9,-16.2,10000.0,A,Mouse,Ascites,Macrophage,Adult,72,1.0,MTT,TetrazoliumSalt,,,J774A.1
+3317,C,Nanotube,,Commercial,Negative,217.2,-13.005,500000.0,A,Rat,Lung,Macrophage,Adult,4,100.0,AlamarBlue,AlamarBlue,,,NR8383
+1913,Ag,Sphere,,Commercial,,,,10000.0,A,Mouse,SubcutaneousConnectiveTissue,Fibroblast,Adult,72,0.5,CCK-8,TetrazoliumSalt,100.0,,L929
+5156,TiO2,,,,,,,,H,Human,stomach,Epithelial,A,3,,MTS,tetrazolium salt,160.5,-27.8,AGS
+1054,Au,Rod,Chitosan,Seed-Mediated Growth Method,Positive,,,5000.0,H,Human,Cervix,Epithelial,Adult,24,,MTT,TetrazoliumSalt,,33.23,HeLa
+5858,SiO2,,,,,,,,H,Human,Umbilical cord,Endothelial,E,96,,Alamar blue,Alamar blue,60.0,32.0,HUVEC
+3487,Ag,Rod,,EBPVD,Negative,,-29.3,5000.0,H,Human,Skin,Fibroblast,,96,40.0,MTS,TetrazoliumSalt,47.0,-34.1,CCL-110
+4057,CaHCO3,Rod,,Surfactant-based Synthesis,Negative,195.0,,50000.0,H,Human,Lung,Epithelial,Adult,24,10.0,CCK-8,TetrazoliumSalt,20.0,-5.3,BEAS-2B
+1815,Au,Sphere,Citrate,Commercial,Negative,48.0,-7.7,2000.0,A,Mouse,Embryo,Fibroblast,Embryonic,48,0.131,NRU,NeutralRed,13.0,-60.7,BALB/c3T3
+1727,SiO2,Sphere,,Soft Templating Method,Negative,,,10000.0,H,Human,Ovary,Epithelial,Adult,96,50.0,MTT,TetrazoliumSalt,120.0,-5.21,A2780
+121,Bi,Sphere,,Precipitation,,,,20000.0,H,,,,,24,,MTT,TetrazoliumSalt,20.0,,MG-63
+3593,Ag,Sphere,,Commercial,Negative,68.55,-15.83,10000.0,H,Human,Skin,Keratinocyte,Adult,72,50.0,NRU,NeutralRed,29.57,-33.33,HaCat
+5591,Cu2O,,,,,,,,H,Human,Blood,Macrophage,A,24,,MTT,tetrazolium salt,88.5,,PMA activated THP-1
+5434,Pt,,Folic acid,,,,,,H,Human,Cervix,Epithelial,A,24,,CellTiterGlo,luciferase,13.5,-40.5,HeLa
+4073,CaHCO3,Rod,,Precipitation,Neutral,116.0,,50000.0,A,Mouse,Ascites,Monocyte/Macrophage,Adult,24,100.0,CCK-8,TetrazoliumSalt,25.0,-0.4,RAW264.7
+3183,C,Sphere,Dextran,Commercial,Negative,,,10000.0,A,Mouse,SubcutaneousConnectiveTissue,Fibroblast,Adult,24,20.0,MTT,TetrazoliumSalt,15.0,-20.7,L929
+2002,ZnO,Sphere,,Commercial,,270.46,,5000.0,H,Human,Lung,Epithelial,Adult,24,50.0,CCK-8,TetrazoliumSalt,30.0,,A549
+3726,ZnO,Rod,,Sol-Gel Method,Negative,97.0,-29.0,10000.0,H,Human,Lung,Epithelial,Adult,24,5.0,MTT,TetrazoliumSalt,52.0,,A549
+1215,Fe3O4,Sphere,Silica,Reverse Microemulsion,Negative,111.1,-10.3,30000.0,H,Human,,,,6,300.0,NRU,NeutralRed,10.0,-31.8,SHSY5Y
+2076,MgO,Hexagon,,Sol-Gel Method,Negative,,,100000.0,A,Mouse,Embryo,Fibroblast,Embryonic,24,800.0,MTT,TetrazoliumSalt,43.8,-7.21,3T3-L1
+3711,Fe3O4,Sphere,,Pyrolysis,Negative,,,100000.0,H,Human,Kidney,Epithelial,Embryonic,48,0.5,MTT,TetrazoliumSalt,6.0,-36.5,HEK293
+1656,Au,Star,,Chemical Reduction,,,,10000.0,H,Human,Bone,Mixed,,24,5.0,NRU,NeutralRed,215.0,,143B
+4145,CuO,,,,,,,,H,Human,,Endothelial,A,12,,LDH,LDH activity assay kit,239.0,,HCMEC
+4793,Fe3O4,,,,,,,,H,Human,Breast,Epithelial,A,96,,Live/Dead,"Calcein AM, Ethidium homodimer-1",14.0,,MCF7
+4006,Bi2O3,Sphere,,Commercial,,183.0,,,A,Rat,Kidney,Epithelial,Adult,24,50.0,NRU,NeutralRed,149.1,,NRK-52E
+6077,Au,,Star anise,,,,,,H,Human,Lung,Epithelial,A,48,,ApoToxTriplex,Caspase-GloReagent,35.0,,A549
+4910,Fe3O4,,folic acid with intermediate inorganic (silica) coating,,,,,,H,Human,Blood,Monocyte,A,24,,LDH,LDH activity assay kit,274.1,-27.7,Monocytes
+5363,Bi,,PEG,,,,,,H,Human,,,A,24,,Live/Dead,"Calcein AM, Ethidium homodimer-1",20.0,,MG-63
+3980,Bi2O3,Sphere,,Commercial,,183.0,,,H,Human,Colon,Epithelial,Adult,24,6.25,MTT,TetrazoliumSalt,149.1,,Caco-2
+6012,Au,,Citrate and PVP,,,,,,H,Human,Lung,Epithelial,A,72,,MTT,tetrazolium salt,28.18,,A549
+1963,CuO,Sphere,,Commercial,Negative,310.0,-12.1,4500.0,H,Human,BoneMarrow,,,48,5.62,NRU,NeutralRed,30.09,-20.0,hMSC
+2937,Au,Sphere,,Commercial,Negative,102.8,-23.98,5000.0,A,Rat,FatPad,Endothelial,Adult,24,4.0,MTS,TetrazoliumSalt,61.46,-32.66,RFPEC
+4546,Fe3O4,,PEI,,,,,,H,Human,,,A,24,,LDH,LDH activity assay kit,145.8,17.7,SH-SY5Y
+597,TiO2,Lentil,,Commercial,,,,160000.0,H,Human,,,,24,50.0,MTT,TetrazoliumSalt,5.0,,SH-SY5Y
+6297,Ag,,,,,,,,H,Human,Cervix,Epithelial,A,24,,MTT,tetrazolium salt,28.41,-33.33,HeLa
+5085,TiO2,,,,,,,,H,Human,Blood,Lymphoblast,A,3,,Resazurin,Alamar blue,100.0,,Lymphocytes
+5387,Pt,,PVP,,,,,,H,Human,Cervix,Epithelial,A,48,,CellTiterGlo,luciferase,13.5,-8.0,HeLa
+4717,Fe3O4,,,,,,,,H,Human,Heart,Endothelial,A,24,,LDH,LDH activity assay kit,957.0,,HCMEC
+1329,ZnO,Sph/Rho/Rod,,Commercial,,,,60000.0,H,Human,Liver,Epithelial,Adult,48,25.0,MTT,TetrazoliumSalt,71.0,,HepG2
+2794,C,Nanotube,,Chemical Vapor Deposition,,,,300.0,H,Human,UrinaryBladder,Epithelial,Adult,96,100.0,WST-1,TetrazoliumSalt,11.0,,EJ28
+3526,Au,Sphere,Citrate,Commercial,Negative,,-28.4,5000.0,H,Human,Skin,Fibroblast,,96,20.0,MTS,TetrazoliumSalt,61.06,-32.7,CCL-110
+2928,Au,Sphere,,Commercial,Negative,102.8,-23.98,5000.0,H,Human,Skin,Fibroblast,Fetus,96,0.2,MTS,TetrazoliumSalt,61.46,-32.66,CCL-110
+2505,Pt,Sphere,PVP,Chemical Reduction,Negative,,,5000.0,H,Human,Lung,Fibroblast,Adult,48,25.0,CellTiterGlo,LuciferaseEnzyme,4.0,-8.0,IMR90
+245,Ag,Sphere,,Chemical Reduction,Negative,,,20000.0,H,Human,Skin,Epithelial,Adult,24,13.48,MTS,TetrazoliumSalt,36.4,-23.1,KEC
+4220,ZnO,,,,,,,,H,Human,Skin,Epithelial,A,3,,NR,neutral red,165.0,-26.0,A431
+3050,Pt,Sphere,Citrate,Commercial,Negative,195.0,-43.0,,H,Human,Lung,Epithelial,Adult,48,20.0,AlamarBlue,AlamarBlue,4.8,,HEBC3-KT
+4474,Fe3O4,,PEI,,,,,,H,Human,,,A,72,,CellTiterGlo,luciferase,145.8,17.7,SH-SY5Y
+5097,TiO2,,,,,,,,H,Human,Aorta,Endothelial,A,24,,CytoToxOne,LDH activity assay kit,38.0,,HAEC
+3139,CuO,Sphere,,Precipitation,Negative,167.48,-25.41,10000.0,H,Human,Liver,Epithelial,Adult,24,10.0,NRU,NeutralRed,22.83,-20.36,HepG2
+5268,CdO,,,,,,,,A,Mouse,Brain,Neuronal,A,24,,MTT,tetrazolium salt,179.3,,Neuro-2a
+4835,Fe3O4,,,,,,,,H,Human,Brain,Epithelial,A,48,,MTS,tetrazolium salt,13.5,,H4
+1843,Ag,Irregular,PVP,Commercial,Negative,121.0,-9.0,2000.0,A,Mouse,Embryo,Fibroblast,Embryonic,48,6.8,NRU,NeutralRed,20.0,-17.1,BALB/c3T3
+4609,Fe3O4,,PEG to the PEI,,,,,,H,Human,,,A,24,,Live/Dead,trypan blue,361.4,12.1,SH-SY5Y
+6254,Ag,,,,,,,,H,Human,Cervix,Epithelial,A,72,,NR,neutral red,28.41,-33.33,HeLa
+44,SiO2,Sphere,NH2,Precipitation,Positive,142.11,,5000.0,A,Rat,,,,12,31.2,MTT,TetrazoliumSalt,437.0,21.7,PC12
+4959,TiO2,,,,,,,,A,Mouse,Blood,Monocyte/Macrophage,A,24,,WST-1,tetrazolium salt,50.0,,RAW 264.7
+5870,SiO2,,,,,,,,H,Human,Umbilical cord,Endothelial,E,96,,Alamar blue,Alamar blue,60.0,-30.0,HUVEC
+727,SiO2,Sphere,Chitosan,Hydrolysis,Positive,,,5000.0,H,Human,Liver,Epithelial,Adult,24,50.0,AlamarBlue,AlamarBlue,578.27,8.0,HepG2
+3348,C,Nanotube,PEG,Chemical Vapor Deposition,Negative,,-35.6,100000.0,A,Mouse,Ascites,Monocyte/Macrophage,Adult,24,25.0,WST-1,,27.3,,RAW264.7
+3956,CeO2,Cubic,,Commercial,Negative,245.0,-20.0,30000.0,H,Human,,,,24,200.0,MTT,TetrazoliumSalt,25.0,-13.0,HT-1080
+5485,CaHCO3,,,,,,,,H,Human,Blood,Monocyte/Macrophage,A,24,,MTT,tetrazolium salt,50.0,,HMM
+5975,Au,,PVP,,,,,,H,Human,Lung,Epithelial,A,48,,MTT,tetrazolium salt,21.2,,NCIH441
+4847,Fe3O4,,PEG,,,,,,A,Monkey (Cercopithecus aethiops),kidney,Epithelial,A,24,,MTT,tetrazolium salt,120.0,,VERO
+1985,CuO,Rod,,Commercial,,527.0,,,H,Human,Lung,Epithelial,Adult,24,100.0,MTS,TetrazoliumSalt,10.0,,A549
+5311,Bi,,,,,,,,H,Human,,,A,24,,MTT,tetrazolium salt,20.0,,MG-63
+161,Bi,Sphere,,Precipitation,,,,20000.0,H,,,,,24,,Live/Dead,CalceinAM,20.0,,HeLa
+875,Pt,Sphere,,Green Synthesis,Negative,,,10000.0,H,Human,Kidney,Epithelial,Embryonic,48,20.0,MTS,TetrazoliumSalt,24.6,-11.0,HEK293
+6040,Au,,Citrate,,,,,,H,Human,Ovary,Epithelial,A,24,,NR,neutral red,21.0,,CHO22
+726,SiO2,Sphere,,Hydrolysis,Negative,,,5000.0,H,Human,Liver,Epithelial,Adult,24,500.0,AlamarBlue,AlamarBlue,289.76,-28.0,HepG2
+12,SiO2,Sphere,CTAB,Precipitation,Negative,90.09,,5000.0,A,Rat,,,,24,7.8,MTT,TetrazoliumSalt,386.9,-35.9,PC12
+105,Fe3O4,Sphere,PEG,Thermal Decomposition,,,,10000.0,A,,,,,24,400.0,MTT,TetrazoliumSalt,18.0,,MDCK
+5338,Bi,,NH2,,,,,,H,Human,,,A,24,,Live/Dead,"Calcein AM, Ethidium homodimer-1",20.0,,HeLa
+195,Bi,Sphere,PEG,Precipitation,,,,20000.0,H,,,,,12,,Live/Dead,CalceinAM,20.0,,MG-63
+1166,Fe3O4,Sphere,Silica,Reverse Microemulsion,Negative,111.1,-10.3,30000.0,H,Human,,,,24,5.0,MTT,TetrazoliumSalt,10.0,-31.8,SHSY5Y
+931,TiO2,Sphere,,Commercial,,780.0,,60000.0,A,Rabbit,Cornea,,,24,100.0,MTT,TetrazoliumSalt,6.0,,SIRC
+1089,Au,Rod,Chitosan,Seed-Mediated Growth Method,Positive,,,5000.0,H,Human,Liver,Epithelial,Adult,24,,MTT,TetrazoliumSalt,,33.23,HepG2
+1170,Fe3O4,Sphere,Silica,Reverse Microemulsion,Negative,111.1,-10.3,30000.0,H,Human,,,,24,75.0,MTT,TetrazoliumSalt,10.0,-31.8,SHSY5Y
+6029,Au,,Citrate and PVP,,,,,,H,Human,Lung,Epithelial,A,48,,MTT,tetrazolium salt,28.18,,NCIH441
+1376,TiO2,Sphere,,Commercial,Negative,,,30000.0,H,Human,Lung,Epithelial,Adult,48,3.0,MTT,TetrazoliumSalt,15.84,-43.29,A549
+3100,Ag,Sphere,Citrate-Oligonucleotide,Chemical Reduction,Negative,144.0,-9.0,3000.0,H,Human,Lung,Epithelial,Adult,48,12.5,MTS,,50.0,-30.0,A549
+1339,CuO,Sphere,,Commercial,,,,60000.0,H,Human,Liver,Epithelial,Adult,48,50.0,MTT,TetrazoliumSalt,28.0,,HepG2
+6104,Au,,PEG,,,,,,H,Human,Umbilical cord,Endothelial,,24,,MTT,,21.7,-7.6,HUVEC
+4785,Fe3O4,,alginate,,,,,,A,Pig,Aorta,Endothelial,A,48,,Alamar blue,Alamar blue,30.0,,PAECs
+3571,Ag,Sphere,,Commercial,Negative,65.45,-20.67,10000.0,H,Human,Cervix,Epithelial,Adult,72,80.0,AlamarBlue,AlamarBlue,29.57,-33.33,HeLa
+1873,Ag,Sphere,,Commercial,,,,10000.0,A,Mouse,SubcutaneousConnectiveTissue,Fibroblast,Adult,24,0.5,CCK-8,TetrazoliumSalt,20.0,,L929
+1013,Au,Sphere,,Commercial,,70.4,,50000.0,H,Human,Skin,Fibroblast,Adult,72,15.0,MTT,TetrazoliumSalt,30.0,,NHDF
+3638,Ag,Sphere,,Commercial,Negative,68.55,-15.83,10000.0,H,Human,Skin,Keratinocyte,Adult,48,800.0,MTT,TetrazoliumSalt,29.57,-33.33,HaCat
+3431,C,Nanotube,,Commercial,Neutral,,,40000.0,H,Human,Umbilical Vein,Endothelial,Embryonic,24,4.0,CCK-8,TetrazoliumSalt,17.6,0.9,HUVEC
+942,SiO2,Sphere,,Commercial,,224.0,,60000.0,A,Rabbit,Cornea,,,24,50.0,MTT,TetrazoliumSalt,18.3,,SIRC
+718,SiO2,Sphere,Chitosan,Hydrolysis,Positive,,,5000.0,H,Human,Colon,Epithelial,Adult,48,500.0,AlamarBlue,AlamarBlue,578.27,8.0,Caco-2
+1361,TiO2,Sphere,,Commercial,Negative,434.1,-7.83,10000.0,H,Human,Lung,Epithelial,Adult,6,5.0,MTT,TetrazoliumSalt,25.0,,A549
+3233,Fe3O4,Sphere,,Commercial,Negative,316.6,-18.4,10000.0,A,Mouse,Skin,Fibroblast,Adult,6,100.0,MTT,TetrazoliumSalt,28.33,,mDF
+3000,ZrO2,Sphere,,Green Synthesis,Negative,,,10000.0,A,Monkey,Kidney,Epithelial,Adult,24,50.0,MTT,TetrazoliumSalt,10.0,-45.5,VERO
+3055,Pt,Sphere,Citrate,Commercial,Negative,130.0,-29.0,,H,Human,Lung,Epithelial,Adult,48,50.0,AlamarBlue,AlamarBlue,44.3,,HEBC3-KT
+4191,CuS,,,,,,,,H,Human,Kidney,,,48,,WST-1,tetrazolium salt,3.0,,HEK-293
+1101,ZnO,Sphere,,Commercial,,,,10000.0,H,Human,Colon,Epithelial,Adult,24,10.0,CCK-8,,90.0,,Caco-2
+1345,ZnO,Sph/Rho/Rod,,Commercial,,,,60000.0,A,Catfish,Liver,Epithelial,Adult,48,50.0,MTT,TetrazoliumSalt,71.0,,Hepatocytes
+3507,Ag,Sphere,Citrate,Commercial,Negative,,-23.0,5000.0,H,Human,Skin,Fibroblast,,24,1.0,MTS,TetrazoliumSalt,39.94,-23.5,CCL-110
+63,SiO2,Sphere,,Commercial,Negative,10.0,,2600.0,A,Mouse,,,,24,1000.0,CellTiterBlue,AlamarBlue,10.0,-27.0,RAW264.7
+4540,Fe3O4,,PEI,,,,,,H,Human,,,A,1,,LDH,LDH activity assay kit,145.8,17.7,SH-SY5Y
+4448,Fe3O4,,Dextran,,,,,,H,Human,Blood,Monocyte,A,72,,MTT,tetrazolium salt,30.0,,Monocytes
+5652,Al2O3,,,,,,,,H,Human,Heart,Endothelial,A,12,,MTT,tetrazolium salt,239.0,,HCMEC
+1233,Fe3O4,Sphere,Silica,Reverse Microemulsion,Negative,111.1,-10.3,30000.0,H,Human,,,,24,175.0,NRU,NeutralRed,10.0,-31.8,SHSY5Y
+3294,C,Nanotube,,Commercial,Negative,217.2,-13.005,500000.0,A,Rat,Lung,Macrophage,Adult,4,200.0,MTT,TetrazoliumSalt,,,NR8383
+3416,C,Nanotube,,Commercial,Negative,304.9,-9.48,40000.0,H,Human,Umbilical Vein,Endothelial,,24,8.0,CCK-8,,10.33,-8.7,HUVEC
+2339,TiO2,Sphere,,Commercial,,165.5,,100000.0,H,Human,Kidney,Epithelial,Embryonic,24,200.0,MTT,TetrazoliumSalt,15.0,,HEK293
+6016,Au,,Citrate and PVP,,,,,,H,Human,Lung,Epithelial,A,24,,MTT,tetrazolium salt,28.18,,A549
+5777,SiO2,,,,,,,,A,Mouse,Blood,Monocyte/Macrophage,A,24,,LDH,LDH activity assay kit,14.0,,RAW 264.7
+3803,Au,Sphere,Citrate,Commercial,Negative,167.2,,6000.0,A,Mouse,Ascites,Monocyte/Macrophage,Adult,48,100.0,Live/Dead,PropidiumIodide,270.0,-45.96,RAW264.7
+1010,Au,Sphere,,Commercial,,70.4,,50000.0,H,Human,Skin,Fibroblast,Adult,72,1.0,MTT,TetrazoliumSalt,30.0,,NHDF
+6127,Ag,,,,,,,,H,Human,liver,Epithelial,A,28,,MTT,tetrazolium salt,7.5,,HepG2
+4808,Fe3O4,,,,,,,,H,Human,Foreskin,Fibroblast,A,25,,MTT,tetrazolium salt,12.5,,hTERT-BJ1
+6048,Au,,Citrate,,,,,,H,Human,Ovary,Epithelial,A,60,,NR,neutral red,21.0,,CHO22
+6078,Au,,Star anise,,,,,,H,Human,Lung,Epithelial,A,48,,ApoToxTriplex,Caspase-GloReagent,35.0,,A549
+299,Au,Sphere,PEG,Chemical Reduction,Negative,,,50000.0,H,Human,Umbilical Vein,Endothelial,,24,,MTT,TetrazoliumSalt,4.6,-7.6,HUVEC
+5321,Bi,,silica,,,,,,H,Human,,,A,24,,MTT,tetrazolium salt,30.0,,HeLa
+4844,Fe3O4,,,,,,,,H,Human,Brain,Epithelial,A,48,,Live/Dead,"Calcein AM, Ethidium homodimer-1",13.5,,H4
+2626,ZnO,Sphere,,Commercial,Positive,310.0,32.7,50000.0,H,Human,Heart,Epithelial,Adult,12,1.0,MTT,TetrazoliumSalt,45.3,,HCMEC
+3257,C,Sphere,,Commercial,Negative,142.0,-37.4,10000.0,H,Human,Teeth,Fibroblast,Adult,48,50.0,MTT,TetrazoliumSalt,34.64,,hPDLF
+5141,TiO2,,,,,,,,H,Human,stomach,Epithelial,A,3,,MTS,tetrazolium salt,420.7,-9.96,AGS
+3339,C,Sphere,,Commercial,,,,100000.0,A,Mouse,Ascites,Monocyte/Macrophage,Adult,24,50.0,WST-1,,21.0,,RAW264.7
+1363,TiO2,Sphere,,Commercial,Negative,434.1,-7.83,10000.0,H,Human,Lung,Epithelial,Adult,6,50.0,MTT,TetrazoliumSalt,25.0,,A549
+850,SiO2,Sphere,,Sol-Gel Method,Negative,,,50000.0,H,Human,Liver,Epithelial,Adult,72,200.0,MTT,TetrazoliumSalt,21.06,-24.5,HepG2
+1807,Au,Sphere,Citrate,Commercial,Negative,48.0,-7.7,2000.0,A,Mouse,Embryo,Fibroblast,Embryonic,24,0.131,WST-1,TetrazoliumSalt,13.0,-60.7,BALB/c3T3
+4834,Fe3O4,,,,,,,,H,Human,Brain,Epithelial,A,48,,MTS,tetrazolium salt,13.5,,H4
+1916,Ag,Sphere,,Commercial,,,,10000.0,A,Mouse,SubcutaneousConnectiveTissue,Fibroblast,Adult,72,500.0,CCK-8,TetrazoliumSalt,100.0,,L929
+6067,Au,,Gum Arabic,,,,,,H,Human,Ovary,Epithelial,A,48,,NR,neutral red,20.0,,CHO22
+3111,Ag,Sphere,Citrate,Chemical Reduction,Negative,114.0,-5.0,3000.0,H,Human,Lung,Epithelial,Adult,72,100.0,MTS,,50.0,-35.0,A549
+1998,ZnO,Sphere,,Commercial,,55.74,,5000.0,H,Human,Lung,Epithelial,Adult,24,2.5,CCK-8,TetrazoliumSalt,30.0,,A549
+1083,Au,Rod,Chitosan,Seed-Mediated Growth Method,Positive,,,5000.0,H,Human,Colon,Epithelial,Adult,24,,MTT,TetrazoliumSalt,,33.23,HT29
+5508,CaHCO3,,,,,,,,H,Human,liver,Epithelial,A,72,,MTT,tetrazolium salt,78.0,,HepG2
+2637,Fe3O4,Sphere,,Commercial,Negative,957.0,-8.2,50000.0,H,Human,Heart,Epithelial,Adult,12,10.0,MTT,TetrazoliumSalt,42.5,,HCMEC
+5247,Co,,,,,,,,H,Human,Umbilical cord,Endothelial,E,24,,CellTiterGlo,,17.0,,HUVEC
+5291,MnO,,,,,,,,H,Human,Breast,Epithelial,A,96,,Live/Dead,"Calcein AM, Ethidium homodimer-1",14.0,,MCF7
+2484,Pt,Sphere,PVP,Chemical Reduction,Negative,,,5000.0,H,Human,Cervix,Epithelial,Adult,72,400.0,CellTiterGlo,LuciferaseEnzyme,4.0,-8.0,HeLa
+5663,Al2O3,,,,,,,,H,Human,Heart,Endothelial,A,24,,MTT,tetrazolium salt,239.0,,HCMEC
+2485,Pt,Sphere,PVP,Chemical Reduction,Negative,,,5000.0,H,Human,Breast,Epithelial,Adult,24,25.0,CellTiterGlo,LuciferaseEnzyme,4.0,-8.0,MCF-7
+1967,CuO,Sphere,,Commercial,Negative,310.0,-12.1,4500.0,H,Human,BoneMarrow,,,48,56.2,NRU,NeutralRed,30.09,-20.0,hMSC
+3120,Ag,Sphere,Citrate-Oligonucleotide,Chemical Reduction,Negative,230.0,-9.0,3000.0,H,Human,Skin,Fibroblast,Adult,72,12.5,MTS,,50.0,-30.0,HDF
+3470,C,Sphere,,Explosion,Negative,,,30000.0,H,Human,Liver,,,24,100.0,MTT,TetrazoliumSalt,4.0,-35.6,C3A
+5196,Cr,,,,,,,,A,Mouse,Blood,Monocyte/Macrophage,A,96,,Live/Dead,"Calcein AM, Ethidium homodimer-1",30.0,,RAW 264.7
+3558,Ag,Sphere,,Commercial,Negative,65.45,-20.67,10000.0,H,Human,Cervix,Epithelial,Adult,24,200.0,AlamarBlue,AlamarBlue,29.57,-33.33,HeLa
+1365,TiO2,Sphere,,Commercial,Negative,434.1,-7.83,10000.0,H,Human,Lung,Epithelial,Adult,24,1.0,MTT,TetrazoliumSalt,25.0,,A549
+3939,CeO2,Sphere,,Biosynthesis,,,,,H,Human,Colon,Epithelial,Adult,24,1.56,MTT,TetrazoliumSalt,12.5,,HT29
+2818,Al2O3,Sphere,,Commercial,,,,25000.0,A,Hamster,Ovary,Epithelial,Adult,24,100.0,MTT,TetrazoliumSalt,28.0,,CHO-K1
+4005,Bi2O3,Sphere,,Commercial,,183.0,,,A,Rat,Kidney,Epithelial,Adult,24,25.0,NRU,NeutralRed,149.1,,NRK-52E
+1328,ZnO,Sph/Rho/Rod,,Commercial,,,,60000.0,H,Human,Liver,Epithelial,Adult,48,10.0,MTT,TetrazoliumSalt,71.0,,HepG2
+3437,C,Nanotube,,Commercial,Negative,,,40000.0,H,Human,Umbilical Vein,Endothelial,Embryonic,24,8.0,CCK-8,TetrazoliumSalt,17.4,-18.9,HUVEC
+5986,Au,,Citrate and PVP,,,,,,H,Human,Lung,Epithelial,A,24,,MTT,tetrazolium salt,27.17,,A549
+2990,Au,Rod,CTAB,Seed-Mediated Growth Method,,,,12000.0,A,Dog,Kidney,Epithelial,Adult,24,19.0,MTS,TetrazoliumSalt,17.2,,MDCK-II
+2905,ZnO,Sphere,,Commercial,Positive,253.6,,1000000.0,H,Human,Blood,Monocyte,Adult,24,100.0,MTT,TetrazoliumSalt,94.5,17.5,THP-1
+3553,Ag,Sphere,,Commercial,Negative,65.45,-20.67,10000.0,H,Human,Cervix,Epithelial,Adult,24,40.0,AlamarBlue,AlamarBlue,29.57,-33.33,HeLa
+1706,Ag,Wire,,Commercial,Negative,,-0.82,10000.0,A,Mouse,,Macrophage,,24,10.0,MTS,,30.0,-3.36,J774A.1
+5686,Al2O3,,,,,,,,H,Human,Bone marrow,Epithelial,A,48,,ApoToxTriplex,Caspase-GloReagent,45.0,,SH-SY5Y
+5336,Bi,,silica,,,,,,H,Human,,,A,96,,MTT,tetrazolium salt,30.0,,MG-63
+2959,Au,Star,,Chemical Reduction,Negative,206.7,-23.76,5000.0,H,Human,Skin,Fibroblast,Fetus,96,40.0,MTS,TetrazoliumSalt,33.69,-24.52,CCL-110
+2283,Au,Sphere,Citrate,Chemical Reduction,,,,2000.0,H,Human,Lung,Epithelial,Adult,48,50.0,CCK-8,TetrazoliumSalt,20.0,,A549
+4517,Fe3O4,,PEI,,,,,,A,Mouse,,,A,24,,Live/Dead,trypan blue,145.8,17.7,RAW 264.7
+2322,ZnO,Rod,,Commercial,,,,10000.0,A,Mouse,BoneMarrow,Macrophage,Adult,24,100.0,CCK-8,TetrazoliumSalt,60.21,,Ana-1
+4408,ZnO,,,,,,,,H,Human,Bone Marrow,Epithelial,A,48,,MTS,tetrazolium salt,60.0,,SH-SY5Y
+6336,Ag,,,,,,,,H,Human,Colon,Epithelial,A,48,,CellTiterBlue,Alamar blue,60.0,,LoVo
+4877,Fe3O4,,PEG,,,,,,H,Human,Ovary,Epithelial,A,48,,MTT,tetrazolium salt,18.4,,SKOV-3
+703,SiO2,Sphere,Chitosan,Hydrolysis,Positive,,,5000.0,H,Human,Colon,Epithelial,Adult,24,50.0,AlamarBlue,AlamarBlue,578.27,8.0,Caco-2
+4771,Fe3O4,,BSA,,,,,,A,Mouse,Breast,Epithelial,A,6,,Alamar Blue,Alamar blue,12.0,,TD
+4603,Fe3O4,,PEG to the PEI,,,,,,A,Mouse,,Monocyte/Macrophage,A,72,,CellTiterBlue,Alamar blue,361.4,12.1,RAW 264.7
+4071,CaHCO3,Rod,,Precipitation,Negative,109.0,,50000.0,A,Mouse,Ascites,Monocyte/Macrophage,Adult,24,30.0,CCK-8,TetrazoliumSalt,30.0,-5.7,RAW264.7
+5927,SiO2,,NH2,,,,,,A,Rat,,,,12,,MTT,tetrazolium salt,437.0,21.7,PC12
+5933,SiO2,,NH2,,,,,,A,Rat,,,,24,,MTT,tetrazolium salt,437.0,21.7,PC12
+3158,C,Sphere,,Commercial,Negative,,,10000.0,A,Hamster,Lung,Fibroblast,Adult,24,10.0,MTT,TetrazoliumSalt,76.0,-36.0,V79
+3384,C,Nanotube,COOH,Chemical Vapor Deposition,Negative,38.8,,16000.0,A,Hamster,Lung,Fibroblast,Adult,24,200.0,MTS,,25.0,-10.3,V79
+2061,Ag,Sphere,,Commercial,Negative,31.89,-7.06,,H,Human,Liver,Epithelial,Adult,24,140.5,MTT,TetrazoliumSalt,21.8,-16.8,HepG2
+3119,Ag,Sphere,Citrate-Lactose,Chemical Reduction,Negative,130.0,-9.0,3000.0,H,Human,Lung,Epithelial,Adult,72,100.0,MTS,,50.0,-31.0,A549
+5947,Au,,PEG-COOH,,,,,,A,Mouse,axillary lymph node,Endothelial,A,24,,ATPLite,luciferase,40.0,,SVEC4-10
+264,TiO2,,,Commercial,Negative,171.4,-11.5,10000.0,H,Human,Skin,Epithelial,,24,0.08,MTT,TetrazoliumSalt,124.9,-17.6,A431
+5090,TiO2,,,,,,,,H,Human,Aorta,Endothelial,A,24,,ApoToxTriplex,Caspase-GloReagent,38.0,,HAEC
+943,SiO2,Sphere,,Commercial,,224.0,,60000.0,A,Rabbit,Cornea,,,24,100.0,MTT,TetrazoliumSalt,18.3,,SIRC
+639,Fe3O4,Sphere,PEG-FA,Solvothermal Process,Negative,362.8,-9.4,100000.0,H,Human,,,,48,50.0,MTT,TetrazoliumSalt,326.5,-23.5,SKOV-3
+5936,SiO2,,NH2,,,,,,A,Rat,,,,24,,MTT,tetrazolium salt,437.0,21.7,PC12
+2667,Al2O3,Sphere,,Commercial,Positive,267.0,36.3,50000.0,H,Human,Heart,Epithelial,Adult,24,100.0,MTT,TetrazoliumSalt,39.7,,HCMEC
+1983,CuO,Rod,,Commercial,,527.0,,,H,Human,Lung,Epithelial,Adult,24,25.0,MTS,TetrazoliumSalt,10.0,,A549
+746,SiO2,Sphere,SodiumAlginate,Hydrolysis,Negative,,,5000.0,H,Human,Liver,Epithelial,Adult,48,500.0,AlamarBlue,AlamarBlue,345.2,-13.0,HepG2
+6227,Ag,,,,,,,,H,Human,Skin,Keratinocyte,A,72,,NR,neutral red,28.41,-33.33,HaCaT
+1884,Ag,Sphere,,Commercial,,,,10000.0,A,Mouse,SubcutaneousConnectiveTissue,Fibroblast,Adult,48,500.0,CCK-8,TetrazoliumSalt,20.0,,L929
+102,Fe3O4,Sphere,PEG,Thermal Decomposition,,,,10000.0,A,,,,,24,100.0,MTT,TetrazoliumSalt,18.0,,MDCK
+1087,Au,Rod,Chitosan,Seed-Mediated Growth Method,Positive,,,5000.0,H,Human,Liver,Epithelial,Adult,24,,MTT,TetrazoliumSalt,,33.23,HepG2
+6234,Ag,,,,,,,,H,Human,Cervix,Epithelial,A,24,,NR,neutral red,28.41,-33.33,HeLa
+3944,CeO2,Sphere,,Biosynthesis,,,,,H,Human,Colon,Epithelial,Adult,24,50.0,MTT,TetrazoliumSalt,12.5,,HT29
+4426,ZnO,,,,,,,,H,Human,Brain,Epithelial,A,48,,Live/Dead,"Calcein AM, Ethidium homodimer-1",60.0,,H4
+26,SiO2,Sphere,Ph,Precipitation,Negative,135.83,,5000.0,A,Rat,,,,12,125.0,MTT,TetrazoliumSalt,375.4,-26.8,PC12
+3145,C,Sphere,Dextran,Commercial,Negative,,,10000.0,A,Rat,Brain,Fibroblast,Adult,24,40.0,MTT,TetrazoliumSalt,30.29,-10.1,C6
+838,SiO2,Sphere,,Sol-Gel Method,Negative,,,50000.0,H,Human,Liver,Epithelial,Adult,24,50.0,MTT,TetrazoliumSalt,100.33,-31.7,HepG2
+5963,Au,,PVP,,,,,,H,Human,Lung,Epithelial,A,48,,MTT,tetrazolium salt,21.2,,A549
+193,Bi,Sphere,PEG,Precipitation,,,,20000.0,H,,,,,72,,Live/Dead,CalceinAM,20.0,,HeLa
+1526,Au,Sph/Hex/Ova,Citrate,Chemical Reduction,,,,5000.0,H,Human,Lung,,Adult,24,200.0,MTT,TetrazoliumSalt,12.5,,H1299
+275,TiO2,,,Commercial,Negative,171.4,-11.5,10000.0,H,Human,Skin,Epithelial,,6,0.8,NRU,NeutralRed,124.9,-17.6,A431
+4956,TiO2,,,,,,,,H,Human,Skin,Epithelial,A,6,,NR,neutral red,124.9,-17.6,A431
+2647,Fe3O4,Sphere,,Commercial,Positive,1025.0,1.7,50000.0,H,Human,Heart,Epithelial,Adult,12,20.0,MTT,TetrazoliumSalt,46.8,,HCMEC
+6124,Ag,,PEI,,,,,,H,Human,liver,Epithelial,A,24,,NR,neutral red,8.5,,HepG2
+5504,CaHCO3,,,,,,,,H,Human,liver,Epithelial,E,48,,MTT,tetrazolium salt,78.0,,L-02
+2298,Au,Sphere,Citrate,Chemical Reduction,,,,2000.0,H,Human,Lung,Epithelial,Adult,72,50.0,CCK-8,TetrazoliumSalt,10.0,,95D
+6316,Ag,,,,,,,,H,Human,Colon,Epithelial,A,24,,CellTiterBlue,Alamar blue,20.0,,LoVo
+3727,ZnO,Rod,,Sol-Gel Method,Negative,97.0,-29.0,10000.0,H,Human,Lung,Epithelial,Adult,24,10.0,MTT,TetrazoliumSalt,52.0,,A549
+4135,CuO,,,,,,,,H,Human,,Endothelial,A,24,,MTT,tetrazolium salt,239.0,,HCMEC
+5878,SiO2,,,,,,,,H,Human,Umbilical cord,Endothelial,E,96,,Alamar blue,Alamar blue,115.0,-48.0,HUVEC
+3678,Fe3O4,Sphere,,Pyrolysis,Negative,,,100000.0,H,Human,Cervix,Epithelial,Adult,72,0.5,MTT,TetrazoliumSalt,6.0,-36.5,HeLa
+5544,Cu2O,,,,,,,,H,Human,Lung,Epithelial,A,24,,MTT,tetrazolium salt,88.5,,A549
+3647,Ag,Sphere,,Commercial,Negative,68.55,-15.83,10000.0,H,Human,Skin,Keratinocyte,Adult,72,1000.0,MTT,TetrazoliumSalt,29.57,-33.33,HaCat
+3243,Fe3O4,Sphere,,Commercial,Negative,316.6,-18.4,10000.0,A,Mouse,Skin,Fibroblast,Adult,48,100.0,MTT,TetrazoliumSalt,28.33,,mDF
+2900,ZnO,Sphere,,Commercial,Positive,253.6,,1000000.0,H,Human,Lung,Epithelial,Embryonic,24,100.0,MTT,TetrazoliumSalt,94.5,17.5,L-132
+4371,ZnO,,,,,,,,H,Human,Blood,,A,3,,MTT,tetrazolium salt,75.0,,Lymphocytes
+5996,Au,,Citrate and PVP,,,,,,H,Human,Lung,Epithelial,A,48,,MTT,tetrazolium salt,27.17,,NCIH441
+5343,Bi,,NH2,,,,,,H,Human,,,A,24,,MTT,tetrazolium salt,20.0,,HeLa
+4979,TiO2,,,,,,,,H,Human,Colon,Epithelial,A,24,,Live/Dead,Sytox Red,115.0,,Caco-2
+4943,TiO2,,,,,,,,H,Human,Skin,Epithelial,A,48,,MTT,tetrazolium salt,124.9,-17.6,A431
+6037,Au,,Citrate and PVP,,,,,,H,Human,Lung,Epithelial,A,24,,MTT,tetrazolium salt,28.18,,NCIH441
+2210,SiO2,Sphere,,Commercial,Negative,14.6,-59.7,,H,Human,Skin,Keratinocyte,Adult,24,10.0,CCK-8,TetrazoliumSalt,15.0,,HaCat
+1888,Ag,Sphere,,Commercial,,,,10000.0,H,Human,Embryo,Fibroblast,Embryonic,72,500.0,CCK-8,TetrazoliumSalt,20.0,,EBF
+69,SiO2,Sphere,,Commercial,Negative,10.0,,2600.0,A,Mouse,,,,24,10.0,LDH,LDHrelease,10.0,-27.0,RAW264.7
+2856,Fe3O4,Sphere,Tween80,Precipitation,,,,,,,,Macrophage,,6,100.0,MTT,TetrazoliumSalt,30.0,,J774A.1
+5204,Co,,,,,,,,A,Mouse,Blood,Monocyte/Macrophage,A,24,,Live/Dead,"Calcein AM, Ethidium homodimer-1",30.0,,RAW 264.7
+965,ZnO,Sphere,,Commercial,,404.0,,60000.0,A,Rabbit,Cornea,,,6,25.0,MTT,TetrazoliumSalt,141.0,,SIRC
+5266,Co3O4,,,,,,,,H,Human,Lung,Epithelial,A,72,,CellTiterGlo,luciferase,200.0,,BEAS-2B
+6285,Ag,,,,,,,,H,Human,Cervix,Epithelial,A,24,,MTT,tetrazolium salt,28.41,-33.33,HeLa
+5241,Co,,,,,,,,H,Human,Umbilical cord,Endothelial,E,24,,CytoToxOne,LDH activity assay kit,17.0,,HUVEC
+3986,Bi2O3,Sphere,,Commercial,,183.0,,,H,Human,Lung,Epithelial,Adult,24,1.0,MTT,TetrazoliumSalt,149.1,,A549
+215,Ag,Sphere,CKK,Precipitation,,,,10000.0,H,Human,Colon,,,24,50.0,CellTiterBlue,AlamarBlue,20.0,,Caco-2
+4387,ZnO,,l-cysteine l-lysine l-lysine,,,,,,H,Human,Colon,Epithelial,A,36,,CellTiterBlue,Alamar blue,20.0,,Caco-2
+628,Fe3O4,Sphere,Silica-FA,Solvothermal Process,Negative,567.3,-7.6,100000.0,H,Human,,,,24,100.0,MTT,TetrazoliumSalt,274.1,-27.7,SKOV-3
+4506,Fe3O4,,PEI,,,,,,H,Human,,,A,120,,Live/Dead,trypan blue,145.8,17.7,SH-SY5Y
+1182,Fe3O4,Sphere,OleicAcid,Reverse Microemulsion,Negative,202.7,-11.6,30000.0,H,Human,,,,24,150.0,MTT,TetrazoliumSalt,10.9,-45.4,SHSY5Y
+4947,TiO2,,,,,,,,H,Human,Skin,Epithelial,A,6,,NR,neutral red,124.9,-17.6,A431
+676,Au,Rod,,Commercial,,,,3000.0,A,Monkey,Kidney,Epithelial,,72,1.0,MTS,TetrazoliumSalt,,,VERO
+4415,ZnO,,,,,,,,H,Human,Brain,Epithelial,A,48,,MTS,tetrazolium salt,60.0,,H4
+2602,MgO,Sphere,,Commercial,Positive,639.0,11.6,50000.0,H,Human,Heart,Epithelial,Adult,12,20.0,MTT,TetrazoliumSalt,39.2,,HCMEC
+1621,Au,Rod,,Seed-Mediated Growth Method,,,,10000.0,H,Human,Bone,Fibroblast,,24,5.0,NRU,NeutralRed,18.0,,MG-63
+4528,Fe3O4,,PEI,,,,,,A,Mouse,,,A,120,,Live/Dead,trypan blue,145.8,17.7,RAW 264.7
+3810,Au,Sphere,Citrate,Commercial,Negative,146.1,,6000.0,A,Mouse,Ascites,Monocyte/Macrophage,Adult,48,10.0,Live/Dead,CalceinAM,4.7,-57.5,RAW264.7
+3634,Ag,Sphere,,Commercial,Negative,68.55,-15.83,10000.0,H,Human,Skin,Keratinocyte,Adult,48,100.0,MTT,TetrazoliumSalt,29.57,-33.33,HaCat
+4384,ZnO,,l-cysteine l-lysine l-lysine,,,,,,H,Human,Colon,Epithelial,A,36,,CellTiterBlue,Alamar blue,20.0,,Caco-2
+3646,Ag,Sphere,,Commercial,Negative,68.55,-15.83,10000.0,H,Human,Skin,Keratinocyte,Adult,72,800.0,MTT,TetrazoliumSalt,29.57,-33.33,HaCat
+6173,Ag,,,,,,,,H,Human,Skin,Keratinocyte,A,72,,Alamar Blue,Alamar blue,28.41,-33.33,HaCaT
+4870,Fe3O4,,PEG,,,,,,H,Human,Ovary,Epithelial,A,24,,MTT,tetrazolium salt,18.4,,SKOV-3
+4776,Fe3O4,,BSA,,,,,,A,Mouse,Breast,Epithelial,A,6,,Alamar Blue,Alamar blue,12.0,,V14
+3588,Ag,Sphere,,Commercial,Negative,68.55,-15.83,10000.0,H,Human,Skin,Keratinocyte,Adult,48,400.0,NRU,NeutralRed,29.57,-33.33,HaCat
+233,Ag,Sphere,CKK,Precipitation,,,,10000.0,H,Human,Colon,,,24,100.0,CellTiterBlue,AlamarBlue,40.0,,Caco-2
+966,ZnO,Sphere,,Commercial,,404.0,,60000.0,A,Rabbit,Cornea,,,6,50.0,MTT,TetrazoliumSalt,141.0,,SIRC
+5509,CaHCO3,,,,,,,,H,Human,liver,Epithelial,E,48,,MTT,tetrazolium salt,175.0,,L-02
+1677,Au,Sphere,PAMAM,Chemical Reduction,Positive,12.1,-6.8,100000.0,H,Human,Blood,,,24,,MTT,TetrazoliumSalt,7.2,41.0,PBMC
+1933,CaHCO3,Rod,,Precipitation,,1262.33,,,H,Human,BoneMarrow,,,72,10.0,CCK-8,,,,hMSC
+1094,Au,Rod,,Commercial,,,,5000.0,H,Human,Lung,,,4,12.5,CCK-8,TetrazoliumSalt,25.0,,A549
+1266,ZnO,,,Commercial,Negative,273.4,-11.7,350000.0,H,Human,,,,24,30.0,MTT,TetrazoliumSalt,100.0,-8.23,SHSY5Y
+2271,Au,Sphere,,Commercial,Negative,26.5,-4.46,,H,Human,Liver,Epithelial,Embryonic,72,12.5,MTT,TetrazoliumSalt,20.0,-4.58,L-02
+4548,Fe3O4,,PEI,,,,,,H,Human,,,A,24,,LDH,LDH activity assay kit,145.8,17.7,SH-SY5Y
+5505,CaHCO3,,,,,,,,H,Human,liver,Epithelial,A,48,,MTT,tetrazolium salt,78.0,,HepG2
+5109,TiO2,,,,,,,,H,Human,Umbilical cord,Endothelial,E,24,,ApoToxTriplex,Caspase-GloReagent,38.0,,HUVEC
+3674,Fe3O4,Sphere,,Pyrolysis,Negative,,,100000.0,H,Human,Cervix,Epithelial,Adult,24,4.0,MTT,TetrazoliumSalt,6.0,-36.5,HeLa
+1885,Ag,Sphere,,Commercial,,,,10000.0,H,Human,Embryo,Fibroblast,Embryonic,72,0.5,CCK-8,TetrazoliumSalt,20.0,,EBF
+2078,MgO,Rod,,Sol-Gel Method,Negative,,,100000.0,A,Mouse,Embryo,Fibroblast,Embryonic,24,200.0,MTT,TetrazoliumSalt,12.0,-9.83,3T3-L1
+6079,Au,,Star anise,,,,,,H,Human,Lung,Epithelial,A,48,,ApoToxTriplex,Caspase-GloReagent,35.0,,A549
+5877,SiO2,,,,,,,,H,Human,Umbilical cord,Endothelial,E,96,,Alamar blue,Alamar blue,115.0,-48.0,HUVEC
+189,Bi,Sphere,Silica,Precipitation,,,,20000.0,H,,,,,96,,Live/Dead,CalceinAM,20.0,,MG-63
+5223,Co,,,,,,,,H,Human,Aorta,Endothelial,A,24,,CytoToxOne,LDH activity assay kit,17.0,,HAEC
+3031,TiO2,Sphere,,Sonomechanical Method,,152.0,,10000.0,H,Human,Amnion,Epithelial,Embryonic,24,10.0,NRU,NeutralRed,30.6,,WISH
+3025,TiO2,Sphere,,Sonomechanical Method,,152.0,,10000.0,H,Human,Amnion,Epithelial,Embryonic,24,5.0,MTT,TetrazoliumSalt,30.6,,WISH
+1334,TiO2,Rho/Sph,,Commercial,,,,60000.0,H,Human,Liver,Epithelial,Adult,48,100.0,MTT,TetrazoliumSalt,42.3,,HepG2
+6261,Ag,,,,,,,,H,Human,Skin,Keratinocyte,A,24,,MTT,tetrazolium salt,28.41,-33.33,HaCaT
+4729,Fe3O4,,,,,,,,H,Human,Lung,Epithelial,A,72,,Alamar Blue,Alamar blue,196.4,,A549
+4477,Fe3O4,,PEI,,,,,,H,Human,,,A,72,,Live/Dead,trypan blue,145.8,17.7,SH-SY5Y
+4136,CuO,,,,,,,,H,Human,,Endothelial,A,24,,MTT,tetrazolium salt,239.0,,HCMEC
+1312,ZnO,Sphere,,Commercial,Negative,278.8,-11.5,400000.0,A,Mouse,Peritoneal Cavity,Macrophage,Adult,24,10.0,MTT,TetrazoliumSalt,50.0,,Macrophages
+1022,Au,Sphere,,Commercial,,125.1,,50000.0,H,Human,Skin,Fibroblast,Adult,72,10.0,MTT,TetrazoliumSalt,90.0,,NHDF
+894,Pt,Sphere,,Green Synthesis,,,,50000.0,H,Human,Breast,Epithelial,Adult,24,20.0,MTT,TetrazoliumSalt,20.12,,MCF-7
+4845,Fe3O4,,,,,,,,H,Human,Brain,Epithelial,A,48,,Live/Dead,"Calcein AM, Ethidium homodimer-1",13.5,,H4
+5614,MgO,,,,,,,,H,Human,Heart,Endothelial,A,24,,MTT,tetrazolium salt,639.0,,HCMEC
+1284,ZnO,,,Commercial,Negative,273.4,-11.7,350000.0,H,Human,,,,3,80.0,NRU,NeutralRed,100.0,-8.23,SHSY5Y
+1515,Au,Sphere,,Biosynthesis,Negative,,,5000.0,H,Human,Kidney,,Embryonic,24,400.0,MTT,TetrazoliumSalt,6.0,,HEK293
+2998,ZrO2,Sphere,,Green Synthesis,Negative,,,10000.0,H,Human,Lung,Epithelial,Adult,24,150.0,MTT,TetrazoliumSalt,10.0,-45.5,A549
+5457,Pt,,Folic acid,,,,,,H,Human,Breast,Epithelial,A,72,,CellTiterGlo,luciferase,13.5,-40.5,MCF7
+5219,Co,,,,,,,,H,Human,Aorta,Endothelial,A,24,,CytoToxOne,LDH activity assay kit,17.0,,HAEC
+816,SiO2,Sphere,,Sol-Gel Method,Negative,,,50000.0,A,Mouse,Embryo,Fibroblast,Embryonic,72,500.0,MTT,TetrazoliumSalt,59.72,-38.1,NIH3T3
+4499,Fe3O4,,PEI,,,,,,H,Human,,,A,24,,Live/Dead,trypan blue,145.8,17.7,SH-SY5Y
+2189,ZnO,Sphere,,Commercial,,37.77,,10000.0,H,Human,Liver,Epithelial,Adult,24,4.0,MTT,TetrazoliumSalt,20.0,,HepG2
+3230,Fe3O4,Sphere,,Commercial,Negative,316.6,-18.4,10000.0,A,Mouse,Skin,Fibroblast,Adult,6,1.0,MTT,TetrazoliumSalt,28.33,,mDF
+3367,C,Nanotube,,Chemical Vapor Deposition,Negative,16.4,,16000.0,A,Hamster,Lung,Fibroblast,Adult,24,50.0,MTS,,1.5,-9.72,V79
+970,ZnO,Sphere,,Commercial,,404.0,,60000.0,A,Rabbit,Cornea,,,9,12.5,MTT,TetrazoliumSalt,141.0,,SIRC
+1829,Ag,Irregular,PVP,Commercial,Negative,121.0,-9.0,2000.0,A,Mouse,Embryo,Fibroblast,Embryonic,24,0.67,WST-1,TetrazoliumSalt,20.0,-17.1,BALB/c3T3
+6204,Ag,,,,,,,,H,Human,Cervix,Epithelial,A,24,,Alamar Blue,Alamar blue,28.41,-33.33,HeLa
+6149,Ag,,,,,,,,H,Human,Cervix,Epithelial,A,24,,ATP,luciferase,100.0,,HeLa
+4683,Fe3O4,,PEG to the PEI,,,,,,A,Mouse,,Monocyte/Macrophage,A,72,,LDH,LDH activity assay kit,361.4,12.1,RAW 264.7
+3578,Ag,Sphere,,Commercial,Negative,68.55,-15.83,10000.0,H,Human,Skin,Keratinocyte,Adult,24,100.0,NRU,NeutralRed,29.57,-33.33,HaCat
+5376,Bi,,PEG,,,,,,H,Human,,,A,12,,MTT,tetrazolium salt,20.0,,MG-63
+1092,Au,Rod,,Commercial,,,,5000.0,H,Human,Lung,,,4,7.5,CCK-8,TetrazoliumSalt,25.0,,A549
+5638,MgO,,,,,,,,H,Human,Heart,Endothelial,A,24,,LDH,LDH activity assay kit,639.0,,HCMEC
+2855,Fe3O4,Sphere,Tween80,Precipitation,,,,,,,,Macrophage,,6,25.0,MTT,TetrazoliumSalt,30.0,,J774A.1
+5075,TiO2,,,,,,,,H,Human,Blood,Lymphoblast,A,3,,WST-1,tetrazolium salt,100.0,,Lymphocytes
+6221,Ag,,,,,,,,H,Human,Skin,Keratinocyte,A,72,,NR,neutral red,28.41,-33.33,HaCaT
+2970,Au,Star,,Chemical Reduction,Negative,206.7,-23.76,5000.0,A,Rat,FatPad,Endothelial,Adult,96,0.2,MTS,TetrazoliumSalt,33.69,-24.52,RFPEC
+3796,Au,Sphere,Citrate,Commercial,Negative,146.1,,6000.0,A,Mouse,Ascites,Monocyte/Macrophage,Adult,48,100.0,Live/Dead,PropidiumIodide,4.7,-57.5,RAW264.7
+4798,Fe3O4,,COOH,,,,,,H,Human,Bone,Fibroblast,A,24,,Live/Dead,"Calcein AM, Ethidium homodimer-1",20.0,,MG-63
+3159,C,Sphere,,Commercial,Negative,,,10000.0,A,Hamster,Lung,Fibroblast,Adult,24,20.0,MTT,TetrazoliumSalt,76.0,-36.0,V79
+5413,Pt,,PVP,,,,,,H,Human,Breast,Epithelial,A,24,,CellTiterGlo,luciferase,13.5,-8.0,MCF7
+1667,Au,Sphere,PAMAM,Chemical Reduction,Positive,12.1,-6.8,100000.0,H,Human,Liver,,,24,,MTT,TetrazoliumSalt,7.2,41.0,HepG2
+231,Ag,Sphere,CKK,Precipitation,,,,10000.0,H,Human,Colon,,,30,50.0,CellTiterBlue,AlamarBlue,40.0,,Caco-2
+3757,NiO,Sphere,,Commercial,,151.0,,10000.0,H,Human,Breast,Epithelial,Adult,24,25.0,MTT,TetrazoliumSalt,22.0,,MCF-7
+5350,Bi,,NH2,,,,,,H,Human,,,A,24,,Live/Dead,"Calcein AM, Ethidium homodimer-1",20.0,,HeLa
+1489,Au,Sphere,MSA,Chemical Reduction,Negative,,,100000.0,H,Human,Embryo,Spindle,Embryonic,24,10.0,MTT,TetrazoliumSalt,1.5,,WA09
+871,Pt,Sphere,,Green Synthesis,Negative,,,10000.0,H,Human,Kidney,Epithelial,Embryonic,24,20.0,MTS,TetrazoliumSalt,24.6,-11.0,HEK293
+3312,C,Nanotube,,Commercial,Negative,601.7,-13.005,500000.0,A,Rat,Lung,Macrophage,Adult,24,200.0,MTT,TetrazoliumSalt,,,NR8383
+2331,ZnO,Sphere,,Commercial,,,,10000.0,A,Mouse,BoneMarrow,Macrophage,Adult,24,5.0,CCK-8,TetrazoliumSalt,18.76,,Ana-1
+43,SiO2,Sphere,NH2,Precipitation,Positive,142.11,,5000.0,A,Rat,,,,12,15.6,MTT,TetrazoliumSalt,437.0,21.7,PC12
+2676,CuO,Sphere,,Commercial,Positive,239.0,42.8,50000.0,H,Human,Heart,Epithelial,Adult,24,100.0,MTT,TetrazoliumSalt,46.3,,HCMEC
+222,Ag,Sphere,CKK,Precipitation,,,,10000.0,H,Human,Colon,,,30,5.0,CellTiterBlue,AlamarBlue,40.0,,Caco-2
+6283,Ag,,,,,,,,H,Human,Cervix,Epithelial,A,48,,MTT,tetrazolium salt,28.41,-33.33,HeLa
+643,Fe3O4,Sphere,Silica-FA,Solvothermal Process,Negative,567.3,-7.6,100000.0,H,Human,,,,48,5.0,MTT,TetrazoliumSalt,274.1,-27.7,SKOV-3
+1393,TiO2,Sphere,,Commercial,Negative,,,30000.0,H,Human,Colon,Epithelial,Adult,48,0.1,MTT,TetrazoliumSalt,15.84,-43.29,Caco-2
+1676,Au,Sphere,Citrate,Chemical Reduction,Negative,10.1,-1.2,100000.0,H,Human,Blood,,,24,,MTT,TetrazoliumSalt,7.3,-15.0,PBMC
+2059,TiO2,Sphere,,Commercial,Negative,,,10000.0,H,Human,Stomach,Epithelial,Adult,24,150.0,MTS,TetrazoliumSalt,21.0,-27.8,AGS
+768,SiO2,Sphere,,Sol-Gel Method,Negative,,,50000.0,H,Human,Lung,Epithelial,Adult,72,50.0,MTT,TetrazoliumSalt,21.06,-24.5,A549
+3540,Ag,Sphere,,Commercial,Negative,68.55,-15.83,10000.0,H,Human,Skin,Keratinocyte,Adult,48,400.0,AlamarBlue,AlamarBlue,29.57,-33.33,HaCat
+1118,Ag,Sphere,,Chemical Reduction,Negative,79.15,-7.9,10000.0,H,Human,Blood,Monocyte,Adult,48,1.25,AlamarBlue,AlamarBlue,14.3,-26.5,THP-1
+5440,Pt,,Folic acid,,,,,,H,Human,Cervix,Epithelial,A,24,,CellTiterGlo,luciferase,13.5,-40.5,HeLa
+656,Fe3O4,Sphere,Silica-FA,Solvothermal Process,Negative,567.3,-7.6,100000.0,H,Human,,,,24,10.0,LDH,LDHrelease,274.1,-27.7,SKOV-3
+2847,ZnO,Sphere,,Commercial,,327.9,,10000.0,H,Human,Lung,Fibroblast,Fetus,48,1000.0,MTT,TetrazoliumSalt,20.0,,HFL1
+3993,Bi2O3,Sphere,,Commercial,,183.0,,,H,Human,Liver,Epithelial,Adult,24,1.0,NRU,NeutralRed,149.1,,HepG2
+5630,MgO,,,,,,,,H,Human,Heart,Endothelial,A,12,,LDH,LDH activity assay kit,639.0,,HCMEC
+3334,C,Nanotube,,Commercial,Negative,601.7,-13.005,500000.0,A,Rat,Lung,Macrophage,Adult,24,50.0,AlamarBlue,AlamarBlue,,,NR8383
+147,Bi,Sphere,Silica,Precipitation,,,,20000.0,H,,,,,24,,MTT,TetrazoliumSalt,20.0,,MG-63
+5968,Au,,PVP,,,,,,H,Human,Lung,Epithelial,A,24,,MTT,tetrazolium salt,21.2,,NCIH441
+3106,Ag,Sphere,Citrate,Chemical Reduction,Negative,132.0,-9.0,3000.0,H,Human,Skin,Fibroblast,Adult,72,50.0,MTS,,50.0,-35.0,HDF
+47,SiO2,Sphere,NH2,Precipitation,Positive,142.11,,5000.0,A,Rat,,,,12,250.0,MTT,TetrazoliumSalt,437.0,21.7,PC12
+1007,Au,Sphere,,Commercial,,125.1,,50000.0,H,Human,Skin,Fibroblast,Adult,48,10.0,MTT,TetrazoliumSalt,90.0,,NHDF
+5611,MgO,,,,,,,,H,Human,Heart,Endothelial,A,12,,MTT,tetrazolium salt,639.0,,HCMEC
+4660,Fe3O4,,PEG to the PEI,,,,,,H,Human,,,A,24,,LDH,LDH activity assay kit,361.4,12.1,SH-SY5Y
+3067,Ag,Sphere,Citrate-Lactose,Chemical Reduction,Negative,195.0,-9.0,3000.0,H,Human,Skin,Fibroblast,Adult,24,100.0,MTS,,50.0,-31.0,HDF
+6082,Au,,Citrate,,,,,,H,Human,Lung,Epithelial,A,48,,ApoToxTriplex,Caspase-GloReagent,35.0,,A549
+959,ZnO,Sphere,,Commercial,,404.0,,60000.0,A,Rabbit,Cornea,,,3,25.0,MTT,TetrazoliumSalt,141.0,,SIRC
+4013,Bi2O3,Sphere,,Commercial,,183.0,,,H,Human,Colon,Epithelial,Adult,24,25.0,NRU,NeutralRed,149.1,,Caco-2
+3263,C,Nanotube,,Commercial,Positive,112.9,12.9,10000.0,H,Human,Teeth,Fibroblast,Adult,6,100.0,MTT,TetrazoliumSalt,9.0,,hPDLF
+1732,SiO2,Sphere,COOH,Soft Templating Method,Negative,,,10000.0,H,Human,,,,96,100.0,MTT,TetrazoliumSalt,120.0,-28.7,A2780
+1482,Fe3O4,Sphere,DMSA,Commercial,,,,15000.0,H,Human,Umbilical Vein,Endothelial,,24,30.0,CCK-8,,45.3,,HUVEC
+61,SiO2,Sphere,,Commercial,Negative,10.0,,2600.0,A,Mouse,,,,24,10.0,CellTiterBlue,AlamarBlue,10.0,-27.0,RAW264.7
+5460,Pt,,Folic acid,,,,,,H,Human,Breast,Epithelial,A,72,,CellTiterGlo,luciferase,13.5,-40.5,MCF7
+1391,TiO2,Sphere,,Commercial,Negative,,,30000.0,H,Human,Lung,Epithelial,Adult,48,60.0,MTT,TetrazoliumSalt,81.8,-8.6,A549
+1411,Fe3O4,Sphere,Silica,Commercial,Negative,,-6.52,30000.0,H,Human,Kidney,Epithelial,Adult,24,1.0,XTT,TetrazoliumSalt,114.0,,HK-2
+2973,Au,Star,,Chemical Reduction,Negative,206.7,-23.76,5000.0,A,Rat,FatPad,Endothelial,Adult,96,4.0,MTS,TetrazoliumSalt,33.69,-24.52,RFPEC
+107,Fe3O4,Sphere,PEG,Thermal Decomposition,,,,10000.0,A,,,,,24,100.0,MTT,TetrazoliumSalt,18.0,,MDCK
+5823,SiO2,,,,,,,,H,Human,Colon,Epithelial,A,4,,Vialight,luciferase,29.5,,Caco-2
+767,SiO2,Sphere,,Sol-Gel Method,Negative,,,50000.0,H,Human,Lung,Epithelial,Adult,72,10.0,MTT,TetrazoliumSalt,21.06,-24.5,A549
+133,Bi,Sphere,NH2,Precipitation,,,,20000.0,H,,,,,24,,MTT,TetrazoliumSalt,20.0,,MG-63
+1131,Fe3O4,Sphere,Silica,Reverse Microemulsion,Negative,111.1,-10.3,30000.0,H,Human,,,,3,100.0,MTT,TetrazoliumSalt,10.0,-31.8,SHSY5Y
+2936,Au,Sphere,,Commercial,Negative,102.8,-23.98,5000.0,A,Rat,FatPad,Endothelial,Adult,24,2.0,MTS,TetrazoliumSalt,61.46,-32.66,RFPEC
+6008,Au,,Citrate and PVP,,,,,,H,Human,Lung,Epithelial,A,48,,MTT,tetrazolium salt,27.17,,NCIH441
+4072,CaHCO3,Rod,,Surfactant-based Synthesis,Negative,195.0,,50000.0,A,Mouse,Ascites,Monocyte/Macrophage,Adult,24,30.0,CCK-8,TetrazoliumSalt,20.0,-5.3,RAW264.7
+5401,Pt,,PVP,,,,,,H,Human,Breast,Epithelial,A,24,,CellTiterGlo,luciferase,13.5,-8.0,MCF7
+2931,Au,Sphere,,Commercial,Negative,102.8,-23.98,5000.0,H,Human,Skin,Fibroblast,Fetus,96,4.0,MTS,TetrazoliumSalt,61.46,-32.66,CCL-110
+4968,TiO2,,,,,,,,A,Mouse,Blood,Monocyte/Macrophage,A,24,,LDH,LDH activity assay kit,50.0,,RAW 264.7
+4177,CuO,,,,,,,,H,Human,Brain,Epithelial,A,48,,Live/Dead,"Calcein AM, Ethidium homodimer-1",33.0,,H4
+3332,C,Nanotube,,Commercial,Negative,601.7,-13.005,500000.0,A,Rat,Lung,Macrophage,Adult,24,12.5,AlamarBlue,AlamarBlue,,,NR8383
+5926,SiO2,,NH2,,,,,,A,Rat,,,,12,,MTT,tetrazolium salt,437.0,21.7,PC12
+1380,TiO2,Sphere,,Commercial,Negative,,,30000.0,H,Human,Lung,Epithelial,Adult,48,100.0,MTT,TetrazoliumSalt,15.84,-43.29,A549
+982,Au,Sphere,,Commercial,,70.4,,50000.0,H,Human,Skin,Fibroblast,Adult,24,10.0,MTT,TetrazoliumSalt,30.0,,NHDF
+2269,Au,Sphere,,Commercial,Negative,26.5,-4.46,,H,Human,Liver,Epithelial,Embryonic,72,5.0,MTT,TetrazoliumSalt,20.0,-4.58,L-02
+2848,ZnO,Sphere,,Commercial,,327.9,,10000.0,H,Human,Lung,Fibroblast,Fetus,48,1500.0,MTT,TetrazoliumSalt,20.0,,HFL1
+611,Fe3O4,Sphere,PEG,Solvothermal Process,,,,100000.0,H,Human,,,,24,0.5,MTT,TetrazoliumSalt,18.4,,SKOV-3
+3791,SiO2,Sphere,,Commercial,Negative,27.2,,6000.0,A,Mouse,Ascites,Monocyte/Macrophage,Adult,48,10.0,Live/Dead,PropidiumIodide,9.0,-26.96,RAW264.7
+5641,Al2O3,,,,,,,,A,hamster,Ovary,Epithelial,A,24,,NR,neutral red,28.0,,CHO-K1
+6054,Au,,Starch,,,,,,H,Human,Ovary,Epithelial,A,24,,NR,neutral red,21.0,,CHO22
+3237,Fe3O4,Sphere,,Commercial,Negative,316.6,-18.4,10000.0,A,Mouse,Skin,Fibroblast,Adult,24,50.0,MTT,TetrazoliumSalt,28.33,,mDF
+5680,Al2O3,,,,,,,,H,Human,Heart,Endothelial,A,24,,LDH,LDH activity assay kit,239.0,,HCMEC
+3302,C,Nanotube,,Commercial,Negative,601.7,-13.005,500000.0,A,Rat,Lung,Macrophage,Adult,4,12.5,MTT,TetrazoliumSalt,,,NR8383
+2561,Fe3O4,Sphere,PEI,Commercial,Positive,,,,A,Mouse,Ascites,Monocyte/Macrophage,Adult,48,6.25,MTS,TetrazoliumSalt,10.0,29.28,RAW264.7
+5649,Al2O3,,,,,,,,H,Human,Heart,Endothelial,A,12,,MTT,tetrazolium salt,239.0,,HCMEC
+2027,TiO2,Sphere,,Commercial,Negative,,,10000.0,H,Human,Stomach,Epithelial,Adult,6,60.0,MTS,TetrazoliumSalt,25.0,-9.96,AGS
+1122,Ag,Sphere,Liposome,Chemical Reduction,Negative,138.9,-0.61,10000.0,H,Human,Blood,Monocyte,Adult,48,0.625,AlamarBlue,AlamarBlue,82.73,-31.9,THP-1
+3804,Au,Sphere,Citrate,Commercial,Negative,167.2,,6000.0,A,Mouse,Ascites,Monocyte/Macrophage,Adult,48,1000.0,Live/Dead,PropidiumIodide,270.0,-45.96,RAW264.7
+2053,TiO2,Sphere,,Commercial,Negative,,,10000.0,H,Human,Stomach,Epithelial,Adult,24,20.0,MTS,TetrazoliumSalt,21.0,-27.8,AGS
+2315,ZnO,Rod,,Commercial,,,,10000.0,A,Mouse,BoneMarrow,Macrophage,Adult,24,100.0,CCK-8,TetrazoliumSalt,173.48,,Ana-1
+5091,TiO2,,,,,,,,H,Human,Aorta,Endothelial,A,24,,ApoToxTriplex,Caspase-GloReagent,38.0,,HAEC
+1928,CaHCO3,Rod,,Precipitation,,567.86,,,H,Human,BoneMarrow,,,72,50.0,CCK-8,,,,hMSC
+1020,Au,Sphere,,Commercial,,125.1,,50000.0,H,Human,Skin,Fibroblast,Adult,72,1.0,MTT,TetrazoliumSalt,90.0,,NHDF
+623,Fe3O4,Sphere,Silica-FA,Solvothermal Process,Negative,567.3,-7.6,100000.0,H,Human,,,,24,0.5,MTT,TetrazoliumSalt,274.1,-27.7,SKOV-3
+303,Au,Sphere,PEG,Chemical Reduction,Negative,,,50000.0,A,Mouse,Cerebellum,Neuronal,,24,,MTT,TetrazoliumSalt,4.6,-7.6,C17.2
+2274,Au,Sphere,,Commercial,Negative,57.0,-9.84,,H,Human,Liver,Epithelial,Embryonic,72,5.0,MTT,TetrazoliumSalt,50.0,-12.32,L-02
+196,Bi,Sphere,PEG,Precipitation,,,,20000.0,H,,,,,24,,Live/Dead,CalceinAM,20.0,,MG-63
+4797,Fe3O4,,COOH,,,,,,H,Human,Cervix,Epithelial,A,24,,Live/Dead,"Calcein AM, Ethidium homodimer-1",20.0,,HeLa
+5187,Cr,,,,,,,,A,Mouse,Blood,Monocyte/Macrophage,A,24,,Live/Dead,"Calcein AM, Ethidium homodimer-1",30.0,,RAW 264.7
+6240,Ag,,,,,,,,H,Human,Cervix,Epithelial,A,24,,NR,neutral red,28.41,-33.33,HeLa
+822,SiO2,Sphere,,Sol-Gel Method,Negative,,,50000.0,A,Mouse,Embryo,Fibroblast,Embryonic,72,10.0,MTT,TetrazoliumSalt,199.89,-36.3,NIH3T3
+3041,Au,Sphere,Citrate,Commercial,Negative,220.0,-30.0,,H,Human,Lung,Epithelial,Adult,48,10.0,AlamarBlue,AlamarBlue,5.2,,HEBC3-KT
+4121,CuO,,,,,,,,H,Human,Lung,Epithelial,A,24,,MTT,tetrazolium salt,52.51,-39.67,A549
+1831,Ag,Irregular,PVP,Commercial,Negative,121.0,-9.0,2000.0,A,Mouse,Embryo,Fibroblast,Embryonic,24,1.5,WST-1,TetrazoliumSalt,20.0,-17.1,BALB/c3T3
+3325,C,Nanotube,,Commercial,Negative,601.7,-13.005,500000.0,A,Rat,Lung,Macrophage,Adult,4,6.0,AlamarBlue,AlamarBlue,,,NR8383
+946,CeO2,Sphere,,Commercial,,299.0,,60000.0,A,Rabbit,Cornea,,,24,12.5,MTT,TetrazoliumSalt,33.0,,SIRC
+2646,Fe3O4,Sphere,,Commercial,Positive,1025.0,1.7,50000.0,H,Human,Heart,Epithelial,Adult,12,10.0,MTT,TetrazoliumSalt,46.8,,HCMEC
+2643,Fe3O4,Sphere,,Commercial,Positive,1025.0,1.7,50000.0,H,Human,Heart,Epithelial,Adult,12,0.1,MTT,TetrazoliumSalt,46.8,,HCMEC
+2629,ZnO,Sphere,,Commercial,Positive,310.0,32.7,50000.0,H,Human,Heart,Epithelial,Adult,12,20.0,MTT,TetrazoliumSalt,45.3,,HCMEC
+3521,Au,Sphere,Citrate,Commercial,Negative,,-28.4,5000.0,H,Human,Skin,Fibroblast,,96,0.5,MTS,TetrazoliumSalt,61.06,-32.7,CCL-110
+1187,Fe3O4,Sphere,Silica,Reverse Microemulsion,Negative,111.1,-10.3,30000.0,H,Human,,,,3,10.0,NRU,NeutralRed,10.0,-31.8,SHSY5Y
+717,SiO2,Sphere,Chitosan,Hydrolysis,Positive,,,5000.0,H,Human,Colon,Epithelial,Adult,48,200.0,AlamarBlue,AlamarBlue,578.27,8.0,Caco-2
+4807,Fe3O4,,,,,,,,H,Human,Foreskin,Fibroblast,A,24,,MTT,tetrazolium salt,12.5,,hTERT-BJ1
+1863,Ag,Sphere,,Chemical Reduction,Negative,43.9,-16.2,10000.0,A,Mouse,Ascites,Monocyte/Macrophage,Adult,72,100.0,MTT,TetrazoliumSalt,,,RAW264.7
+4001,Bi2O3,Sphere,,Commercial,,183.0,,,A,Rat,Kidney,Epithelial,Adult,24,1.0,NRU,NeutralRed,149.1,,NRK-52E
+1932,CaHCO3,Rod,,Precipitation,,1262.33,,,H,Human,BoneMarrow,,,72,5.0,CCK-8,,,,hMSC
+2214,SiO2,Sphere,,Commercial,Negative,20.4,-63.31,,H,Human,Skin,Keratinocyte,Adult,24,20.0,CCK-8,TetrazoliumSalt,30.0,,HaCat
+1587,Au,Rod,,Seed-Mediated Growth Method,,,,10000.0,H,Human,Bone,Osteoblast,,24,0.3,NRU,NeutralRed,18.0,,hFOB1.19
+5458,Pt,,Folic acid,,,,,,H,Human,Breast,Epithelial,A,24,,CellTiterGlo,luciferase,13.5,-40.5,MCF7
+1418,Fe3O4,,Silica-NH2,Commercial,Negative,,-9.77,30000.0,H,Human,Kidney,Epithelial,Adult,24,1.0,XTT,TetrazoliumSalt,114.0,,HK-2
+3497,Au,Rod,,EBPVD,Negative,,-32.8,5000.0,H,Human,Skin,Fibroblast,,24,400.0,MTS,TetrazoliumSalt,65.0,-23.3,CCL-110
+2852,Fe3O4,Sphere,Tween80,Precipitation,,,,,,,,Macrophage,,3,300.0,MTT,TetrazoliumSalt,30.0,,J774A.1
+3003,ZrO2,Sphere,,Green Synthesis,Negative,,,10000.0,A,Monkey,Kidney,Epithelial,Adult,24,200.0,MTT,TetrazoliumSalt,10.0,-45.5,VERO
+2650,MgO,Sphere,,Commercial,Positive,639.0,11.6,50000.0,H,Human,Heart,Epithelial,Adult,24,0.001,MTT,TetrazoliumSalt,39.2,,HCMEC
+4556,Fe3O4,,PEI,,,,,,A,Mouse,,Monocyte/Macrophage,A,1,,LDH,LDH activity assay kit,145.8,17.7,RAW 264.7
+2065,Ag,Sphere,,Commercial,Negative,31.89,-7.06,,H,Human,Liver,Epithelial,Adult,24,711.1,MTT,TetrazoliumSalt,21.8,-16.8,HepG2
+5163,TiO2,,,,,,,,H,Human,stomach,Epithelial,A,6,,MTS,tetrazolium salt,160.5,-27.8,AGS
+3308,C,Nanotube,,Commercial,Negative,601.7,-13.005,500000.0,A,Rat,Lung,Macrophage,Adult,24,12.5,MTT,TetrazoliumSalt,,,NR8383
+4800,Fe3O4,,COOH,,,,,,H,Human,Bone,Fibroblast,A,24,,Live/Dead,"Calcein AM, Ethidium homodimer-1",20.0,,MG-63
+2849,Fe3O4,Sphere,Tween80,Precipitation,,,,,,,,Macrophage,,3,25.0,MTT,TetrazoliumSalt,30.0,,J774A.1
+3330,C,Nanotube,,Commercial,Negative,601.7,-13.005,500000.0,A,Rat,Lung,Macrophage,Adult,4,200.0,AlamarBlue,AlamarBlue,,,NR8383
+1703,Ag,Wire,,Commercial,Negative,,-0.87,10000.0,A,Mouse,,Macrophage,,24,50.0,MTS,,30.0,-3.85,J774A.1
+3554,Ag,Sphere,,Commercial,Negative,65.45,-20.67,10000.0,H,Human,Cervix,Epithelial,Adult,24,60.0,AlamarBlue,AlamarBlue,29.57,-33.33,HeLa
+6347,Ag,,,,,,,,H,Human,Skin,Epithelial,A,48,,MTS,tetrazolium salt,36.4,-23.1,KEC
+1574,Au,Rod,,Seed-Mediated Growth Method,,,,10000.0,H,Human,Bone,Osteoblast,,24,1.2,MTT,TetrazoliumSalt,18.0,,hFOB1.19
+5819,SiO2,,,,,,,,H,Human,Colon,Epithelial,A,4,,Vialight,luciferase,29.5,,Caco-2
+70,SiO2,,,Commercial,,10.0,,,A,Mouse,,,,24,100.0,LDH,LDHrelease,10.0,-27.0,RAW264.7
+3353,C,Sphere,,Commercial,,,,100000.0,A,Mouse,Peritoneal Cavity,Macrophage,Adult,24,25.0,WST-1,,21.0,,Macrophages
+5272,CdO,,,,,,,,A,Mouse,Brain,Neuronal,A,24,,MTT,tetrazolium salt,179.3,,Neuro-2a
+5678,Al2O3,,,,,,,,H,Human,Heart,Endothelial,A,24,,LDH,LDH activity assay kit,239.0,,HCMEC
+1506,Au,Sphere,,Biosynthesis,Negative,,,5000.0,H,Human,,,,24,200.0,MTT,TetrazoliumSalt,6.0,,HeLa
+5862,SiO2,,,,,,,,H,Human,Umbilical cord,Endothelial,E,96,,LDH,LDH activity assay kit,60.0,32.0,HUVEC
+1120,Ag,Sphere,,Chemical Reduction,Negative,79.15,-7.9,10000.0,H,Human,Blood,Monocyte,Adult,48,5.0,AlamarBlue,AlamarBlue,14.3,-26.5,THP-1
+4610,Fe3O4,,PEG to the PEI,,,,,,H,Human,,,A,24,,Live/Dead,trypan blue,361.4,12.1,SH-SY5Y
+4478,Fe3O4,,PEI,,,,,,H,Human,,,A,72,,Live/Dead,trypan blue,145.8,17.7,SH-SY5Y
+3387,C,Nanotube,,Chemical Vapor Deposition,Negative,51.9,,16000.0,A,Hamster,Lung,Fibroblast,Adult,24,200.0,MTS,,50.0,-7.28,V79
+250,Ag,Sphere,PVP,Chemical Reduction,Negative,,,20000.0,H,Human,Skin,Epithelial,Adult,24,1.35,MTS,TetrazoliumSalt,36.4,-18.4,KEC
+5587,Cu2O,,,,,,,,H,Human,Blood,Macrophage,A,24,,MTT,tetrazolium salt,88.5,,PMA activated THP-1
+1990,CeO2,Sphere,,Sol-Gel Method,,,,5000.0,,,,,,24,800.0,MTT,TetrazoliumSalt,20.3,,L929
+4670,Fe3O4,,PEG to the PEI,,,,,,A,Mouse,,Monocyte/Macrophage,A,1,,LDH,LDH activity assay kit,361.4,12.1,RAW 264.7
+5623,MgO,,,,,,,,H,Human,Heart,Endothelial,A,12,,LDH,LDH activity assay kit,639.0,,HCMEC
+1529,Au,Sphere,,Biosynthesis,Negative,,,5000.0,H,Human,Breast,,Adult,24,100.0,MTT,TetrazoliumSalt,6.0,,MCF-7
+4481,Fe3O4,,PEI,,,,,,A,Mouse,,,A,72,,MTS,tetrazolium salt,145.8,17.7,RAW 264.7
+1291,ZnO,,,Commercial,Negative,273.4,-11.7,350000.0,H,Human,,,,6,40.0,NRU,NeutralRed,100.0,-8.23,SHSY5Y
+5670,Al2O3,,,,,,,,H,Human,Heart,Endothelial,A,12,,LDH,LDH activity assay kit,239.0,,HCMEC
+5806,SiO2,,,,,,,,H,Human,lung,Macrophage,A,24,,Vialight,luciferase,369.0,79.0,primary tissue Macrophage
+2301,Ag,Sphere,,Commercial,Negative,,,5000.0,H,Human,Lung,Epithelial,Adult,24,25.0,MTT,TetrazoliumSalt,65.0,-30.0,A549
+5292,MnO,,,,,,,,H,Human,Brain,Fibroblast,A,96,,Live/Dead,"Calcein AM, Ethidium homodimer-1",14.0,,T98G
+1246,ZnO,Sphere,,Commercial,Negative,273.4,-11.7,350000.0,H,Human,,,,3,10.0,MTT,TetrazoliumSalt,100.0,-8.23,SHSY5Y
+2979,Au,Rod,CTAB,Seed-Mediated Growth Method,,,,12000.0,A,Dog,Kidney,Epithelial,Adult,24,9.0,MTS,TetrazoliumSalt,17.2,,MDCK-II
+2846,ZnO,Sphere,,Commercial,,327.9,,10000.0,H,Human,Lung,Fibroblast,Fetus,48,750.0,MTT,TetrazoliumSalt,20.0,,HFL1
+2222,SiO2,Sphere,,Commercial,Negative,14.6,-59.7,,H,Human,Skin,Keratinocyte,Adult,24,60.0,CCK-8,TetrazoliumSalt,15.0,,HaCat
+6361,Ag,,PVP,,,,,,H,Human,Skin,Epithelial,A,48,,MTS,tetrazolium salt,27.02,-18.4,KEC
+6167,Ag,,,,,,,,H,Human,Skin,Keratinocyte,A,72,,Alamar Blue,Alamar blue,28.41,-33.33,HaCaT
+1629,Au,Sphere,,Chemical Reduction,,,,10000.0,H,Human,Bone,Fibroblast,,24,1.2,NRU,NeutralRed,6.3,,MG-63
+5205,Co,,,,,,,,A,Mouse,Blood,Monocyte/Macrophage,A,24,,Live/Dead,"Calcein AM, Ethidium homodimer-1",30.0,,RAW 264.7
+1817,Au,Sphere,Citrate,Commercial,Negative,48.0,-7.7,2000.0,A,Mouse,Embryo,Fibroblast,Embryonic,48,0.604,NRU,NeutralRed,13.0,-60.7,BALB/c3T3
+1324,SiO2,Sphere,,Sol-Gel Method,,,,100000.0,H,Human,Umbilical Vein,Endothelial,Embryonic,24,10.0,CVS,CrystalViolet,56.7,,HUVEC
+5542,Cu2O,,,,,,,,H,Human,Lung,Epithelial,A,3,,MTT,tetrazolium salt,88.5,,A549
