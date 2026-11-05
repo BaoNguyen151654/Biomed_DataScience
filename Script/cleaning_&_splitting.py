@@ -1,6 +1,6 @@
-import pandas as pd
 from sklearn.model_selection import train_test_split
 import zipfile
+import pandas as pd
 
 cyto = pd.read_csv('Cytotox.csv')
 sel = pd.read_csv('SelTox.csv')
