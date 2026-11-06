@@ -8,6 +8,12 @@ This file documents and shares links to conversations with various AI platforms 
 
 [MIC Prediction](https://chatgpt.com/share/6aea6e08-cde4-83e9-9ac9-8d72076d47d2)
 
+**Claude-sonnet-5.5**
+
+[Binary Classification](https://claude.ai/share/c45190a7-09c4-4423-ad55-0155e0726a88)
+
+[MIC Prediction](https://claude.ai/share/c45190a7-09c4-4423-ad55-0155e0726a88)
+
 **DeepSeek**
 
 [MIC Prediction](https://chat.deepseek.com/share/nb86c2trpg5udc1h44)
