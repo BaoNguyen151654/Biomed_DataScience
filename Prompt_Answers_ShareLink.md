@@ -1,4 +1,4 @@
-## AI-Assisted Prediction Records
+## LLM Prediction Records
 
 This file documents and shares links to conversations with various AI platforms used to perform predictive modeling for this research. These records provide transparency and traceability of AI-assisted predictions, including the prompts, instructions, and prediction tasks assigned to each AI system. They also support reproducibility and facilitate comparisons across different AI models and approaches.
 
