@@ -1,6 +1,16 @@
-## LLM Prediction Records
+# LLM Prediction Records
 
-This file documents and shares links to conversations with various AI platforms used to perform predictive modeling for this research. These records provide transparency and traceability of AI-assisted predictions, including the prompts, instructions, and prediction tasks assigned to each AI system. They also support reproducibility and facilitate comparisons across different AI models and approaches.
+We used three large language models (LLMs) to perform predictions on the dataset:
+
+1. **ChatGPT-6**
+2. **Claude Sonnet 5.5**
+3. **DeepSeek**
+
+Each LLM was provided with the training data (`X_train` and `y_train`) and instructed to generate predictions for the test data (`X_test`).
+
+The links below provide access to the respective AI interaction sessions, documenting the prediction process and generated outputs.
+
+## Shared Prediction Sessions
 
 **Gpt-6**
 
