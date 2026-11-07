@@ -26,4 +26,6 @@ The links below provide access to the respective AI interaction sessions, docume
 
 **DeepSeek**
 
+[Binary Classification](https://chat.deepseek.com/share/fume4zefrexas0rqoc)
+
 [MIC Prediction](https://chat.deepseek.com/share/nb86c2trpg5udc1h44)
