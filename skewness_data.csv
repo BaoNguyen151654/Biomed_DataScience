@@ -1,0 +1,6 @@
+Dataset (Column),End point,Skewness,Kurtosis,Valid Samples,References
+Cytotox (Chem X),Viability (%),-0.097086167,4.662667862,5463,https://doi.org/10.52202/085713-3661
+Seltox (Chem X),MIC (µg/mL),8.860850936,93.24297159,1490,https://doi.org/10.52202/085713-3661
+Ditox,Viability (%),0.31521536,6.353163106,3087,https://doi.org/10.1002/smll.202207106
+NanoAntimicrobialDB_2024,MIC (µg/mL),5.320448354,36.0419306,318,https://doi.org/10.3390/ph17091134
+Nanoparticle-Antibacterial-Dataset,MIC (µg/mL),4.928970773,23.28342082,342,https://doi.org/10.1016/j.xcrp.2026.103411
