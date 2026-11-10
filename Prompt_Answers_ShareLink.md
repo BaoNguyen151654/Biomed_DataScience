@@ -19,6 +19,8 @@ The links below provide access to the respective AI interaction sessions, docume
 
 [MIC Prediction (Seltox)](https://chatgpt.com/share/6aea6e08-cde4-83e9-9ac9-8d72076d47d2)
 
+[Binary Classification (Cytotox)](https://chatgpt.com/share/6af36c2d-1674-83ea-ad4b-51ce6f6a6e13)
+
 [MIC Prediction (Cytotox)](https://chatgpt.com/share/6af36685-3524-83ea-a804-db9044d05f66)
 
 **Claude-sonnet-5.5**
