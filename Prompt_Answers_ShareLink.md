@@ -24,6 +24,10 @@ The links below provide access to the respective AI interaction sessions, docume
 
 [MIC Prediction](https://claude.ai/share/c45190a7-09c4-4423-ad55-0155e0726a88)
 
+**Grok 4.5**
+
+[MIC Prediction](https://grok.com/share/bGVnYWN5_bfbd26f4-3f77-4caf-bc36-230b8deecbe4)
+
 **DeepSeek**
 
 [Binary Classification](https://chat.deepseek.com/share/fume4zefrexas0rqoc)
