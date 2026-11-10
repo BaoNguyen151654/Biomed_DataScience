@@ -5,7 +5,6 @@ We used three large language models (LLMs) to perform predictions on the dataset
 1. **ChatGPT-6**
 2. **Claude Sonnet 5.5**
 3. **Grok 4.5**
-4. **DeepSeek**
 
 Each LLM was provided with the training data (`X_train` and `y_train`) and instructed to generate predictions for the test data (`X_test`).
 
@@ -42,9 +41,3 @@ The links below provide access to the respective AI interaction sessions, docume
 [Binary Classification (Cytotox)](https://grok.com/share/bGVnYWN5_c0ebc420-cb0e-493c-a0ea-56d439c667ce)
 
 [MIC Prediction (Cytotox)](https://grok.com/share/bGVnYWN5_56243bc2-67c0-4712-9e2c-ab2f26a82dd2)
-
-**DeepSeek**
-
-[Binary Classification (Seltox)](https://chat.deepseek.com/share/fume4zefrexas0rqoc)
-
-[MIC Prediction (Seltox)](https://chat.deepseek.com/share/nb86c2trpg5udc1h44)
