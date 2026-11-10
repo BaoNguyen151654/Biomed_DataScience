@@ -4,7 +4,8 @@ We used three large language models (LLMs) to perform predictions on the dataset
 
 1. **ChatGPT-6**
 2. **Claude Sonnet 5.5**
-3. **DeepSeek**
+3. **Grok 4.5**
+4. **DeepSeek**
 
 Each LLM was provided with the training data (`X_train` and `y_train`) and instructed to generate predictions for the test data (`X_test`).
 
