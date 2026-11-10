@@ -29,6 +29,10 @@ The links below provide access to the respective AI interaction sessions, docume
 
 [MIC Prediction (Seltox)](https://claude.ai/share/c45190a7-09c4-4423-ad55-0155e0726a88)
 
+[Binary Classification (Cytotox)](https://claude.ai/share/3b99aed8-a621-48be-8b3d-e581ff00eebe)
+
+[MIC Prediction (Cytotox)](https://claude.ai/share/dd31e6f3-f56c-4ba9-8161-eca18ec5e0aa)
+
 **Grok 4.5**
 
 [Binary Classification (Seltox)](https://grok.com/share/bGVnYWN5_d32dca73-1565-49ec-a5e5-429272b27b52)
