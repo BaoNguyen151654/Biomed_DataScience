@@ -27,6 +27,8 @@ The links below provide access to the respective AI interaction sessions, docume
 
 **Grok 4.5**
 
+[Binary Classification](https://grok.com/share/bGVnYWN5_d32dca73-1565-49ec-a5e5-429272b27b52)
+
 [MIC Prediction](https://grok.com/share/bGVnYWN5_bfbd26f4-3f77-4caf-bc36-230b8deecbe4)
 
 **DeepSeek**
