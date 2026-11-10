@@ -35,6 +35,10 @@ The links below provide access to the respective AI interaction sessions, docume
 
 [MIC Prediction (Seltox)](https://grok.com/share/bGVnYWN5_bfbd26f4-3f77-4caf-bc36-230b8deecbe4)
 
+[Binary Classification (Cytotox)](https://grok.com/share/bGVnYWN5_c0ebc420-cb0e-493c-a0ea-56d439c667ce)
+
+[MIC Prediction (Cytotox)](https://grok.com/share/bGVnYWN5_56243bc2-67c0-4712-9e2c-ab2f26a82dd2)
+
 **DeepSeek**
 
 [Binary Classification (Seltox)](https://chat.deepseek.com/share/fume4zefrexas0rqoc)
